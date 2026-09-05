@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Elderwood — Révision</title>
+
+<!-- Quiz des maisons — chargé depuis ./js/ -->
+<script src="js/content-quiz.js"></script>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap');
+
+/* ── TOKENS ─────────────────────────────────────────────── */
+:root {
+  --bg:        #0b0d12;
+  --bg2:       #10131a;
+  --surface:   #151a24;
+  --surface2:  #1c2235;
+  --border:    rgba(160,140,90,0.16);
+  --border2:   rgba(160,140,90,0.30);
+  --gold:      #c5a028;
+  --gold-dim:  rgba(197,160,40,0.11);
+  --gold-glow: rgba(197,160,40,0.25);
+  --text:      #dbd6c4;
+  --muted:     #6b6455;
+  --dim:       #9a9080;
+
+  --falcon:    #d4813a;
+  --aerwyn:    #3a7fd4;
+  --brumval:   #3d8f50;
+  --venatrix:  #7040a8;
+  --danger:    #b84040;
+
+  --r: 3px;
+}
+
+/* ── RESET ───────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Crimson Pro', Georgia, serif;
+  font-size: 17px;
+  line-height: 1.65;
+  min-height: 100vh;
+}
+button { font-family: inherit; cursor: pointer; }
+input, textarea { font-family: inherit; }
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: rgba(197,160,40,0.2); border-radius: 3px; }
+
+/* ── HEADER ──────────────────────────────────────────────── */
+header {
+  text-align: center;
+  padding: 2.8rem 1rem 2rem;
+  border-bottom: 1px solid var(--border);
+  background: radial-gradient(ellipse at top, rgba(197,160,40,0.06) 0%, transparent 65%);
+  position: relative;
+}
+header h1 {
+  font-family: 'Cinzel', serif;
+  font-size: 2.6rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  color: var(--gold);
+  text-shadow: 0 0 50px var(--gold-glow);
+}
+header p { color: var(--muted); font-style: italic; font-size: 0.95rem; margin-top: 0.3rem; letter-spacing: 0.03em; }
+
+/* ── NAV ─────────────────────────────────────────────────── */
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 0;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  background: rgba(11,13,18,0.97);
+  backdrop-filter: blur(10px);
+  z-index: 200;
+  flex-wrap: wrap;
+}
+.nav-btn {
+  font-family: 'Cinzel', serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  padding: 1rem 1.6rem;
+  border: none;
+  border-bottom: 2px solid transparent;
+  background: transparent;
+  color: var(--muted);
+  transition: color 0.2s, border-color 0.2s;
+}
+.nav-btn:hover { color: var(--text); }
+.nav-btn.active { color: var(--gold); border-bottom-color: var(--gold); }
+
+/* ── LAYOUT ─────────────────────────────────────────────── */
+main { max-width: 1040px; margin: 0 auto; padding: 2.2rem 1.2rem 5rem; }
+.page { display: none; }
+.page.active { display: block; }
+
+/* ── TYPOGRAPHY ─────────────────────────────────────────── */
+.page-title { font-family: 'Cinzel', serif; font-size: 1.3rem; font-weight: 600; color: var(--gold); margin-bottom: 0.3rem; }
+.page-sub   { color: var(--muted); font-style: italic; font-size: 0.92rem; margin-bottom: 1.8rem; }
+
+/* ── FILTER BAR ─────────────────────────────────────────── */
+.filter-bar { display: flex; gap: 0.4rem; margin-bottom: 1.2rem; flex-wrap: wrap; }
+.f-btn {
+  font-family: 'Cinzel', serif; font-size: 0.65rem; letter-spacing: 0.09em;
+  padding: 0.28rem 0.85rem; border: 1px solid var(--border);
+  background: transparent; color: var(--muted); border-radius: var(--r); transition: all 0.18s;
+}
+.f-btn:hover, .f-btn.on { color: var(--text); border-color: var(--border2); background: var(--gold-dim); }
+.f-btn.on { color: var(--gold); }
+
+/* ── SEARCH ─────────────────────────────────────────────── */
+.search-wrap { position: relative; margin-bottom: 1.4rem; }
+.search-wrap input {
+  width: 100%; background: var(--surface); border: 1px solid var(--border);
+  color: var(--text); font-size: 0.97rem; padding: 0.65rem 1rem 0.65rem 2.4rem;
+  border-radius: var(--r); outline: none; transition: border-color 0.2s;
+}
+.search-wrap input:focus { border-color: var(--border2); }
+.search-wrap input::placeholder { color: var(--muted); }
+.search-icon { position: absolute; left: 0.8rem; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: 0.8rem; pointer-events: none; }
+
+/* ── CARDS GRID ─────────────────────────────────────────── */
+.cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(272px, 1fr)); gap: 0.85rem; }
+
+/* ── FLASHCARD ───────────────────────────────────────────── */
+.card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--r);
+  padding: 1.2rem 1.3rem 1.1rem; cursor: pointer;
+  transition: border-color 0.18s, transform 0.14s; position: relative;
+  min-height: 100px; user-select: none;
+}
+.card:hover { border-color: var(--border2); transform: translateY(-2px); }
+.card-back { display: none; }
+.card.flipped .card-front { display: none; }
+.card.flipped .card-back  { display: block; }
+.card-accent { position: absolute; top: 0; left: 0; width: 3px; height: 100%; border-radius: var(--r) 0 0 var(--r); }
+.card-tag   { font-family: 'Cinzel', serif; font-size: 0.58rem; letter-spacing: 0.11em; color: var(--muted); margin-bottom: 0.5rem; }
+.card-q     { font-weight: 600; font-size: 0.97rem; line-height: 1.4; color: var(--text); }
+.card-a     { font-size: 0.92rem; line-height: 1.55; color: var(--text); white-space: pre-line; }
+.card.new-badge::after {
+  content: 'Nouveau'; position: absolute; top: 0.5rem; right: 0.6rem;
+  font-family: 'Cinzel', serif; font-size: 0.55rem; letter-spacing: 0.08em;
+  background: var(--gold-dim); border: 1px solid var(--gold); color: var(--gold);
+  padding: 0.1rem 0.5rem; border-radius: 2px;
+}
+
+/* ── STATS ROW ───────────────────────────────────────────── */
+.stats-row { display: flex; gap: 0.7rem; margin-bottom: 1.8rem; flex-wrap: wrap; }
+.stat { background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); padding: 0.8rem 1.1rem; flex: 1; min-width: 90px; text-align: center; }
+.stat .n { font-family: 'Cinzel', serif; font-size: 1.5rem; color: var(--gold); }
+.stat .l { font-size: 0.72rem; color: var(--muted); font-style: italic; }
+
+/* ── EMPTY STATE ─────────────────────────────────────────── */
+.empty { color: var(--muted); font-style: italic; padding: 1rem 0; }
+
+/* ── ERROR BANNER ────────────────────────────────────────── */
+.banner {
+  border-radius: var(--r); padding: 1.1rem 1.4rem; margin-bottom: 1.5rem;
+  font-size: 0.92rem; line-height: 1.6; border: 1px solid;
+}
+.banner.err  { background: rgba(184,64,64,0.1); border-color: rgba(184,64,64,0.3); color: #d47070; }
+.banner.info { background: var(--gold-dim); border-color: rgba(197,160,40,0.3); color: var(--dim); }
+.banner strong { font-family: 'Cinzel', serif; font-size: 0.8rem; display: block; margin-bottom: 0.3rem; }
+.banner code { background: rgba(0,0,0,0.3); padding: 0.1rem 0.4rem; border-radius: 2px; font-size: 0.82rem; }
+
+/* ════════════════════════════════════════════════════════════
+   QUIZ MAISONS
+   ════════════════════════════════════════════════════════════ */
+.quiz-shell { max-width: 620px; margin: 0 auto; }
+
+.house-intro { text-align: center; }
+.house-intro h2 { font-family: 'Cinzel', serif; font-size: 1.4rem; color: var(--gold); margin-bottom: 0.7rem; }
+.house-intro p  { color: var(--muted); font-style: italic; margin-bottom: 2rem; }
+
+.houses-preview { display: grid; grid-template-columns: repeat(4,1fr); gap: 0.6rem; margin-bottom: 2.2rem; }
+.house-pip {
+  border: 1px solid var(--border); border-radius: var(--r);
+  padding: 0.9rem 0.5rem; text-align: center; font-family: 'Cinzel', serif;
+  font-size: 0.65rem; letter-spacing: 0.08em; color: var(--muted);
+}
+.house-pip .hp-name { font-size: 0.78rem; color: var(--text); margin-bottom: 0.2rem; }
+.house-pip .hp-trait { font-size: 0.62rem; color: var(--muted); font-style: italic; }
+
+/* Active quiz */
+.qz-progress { height: 2px; background: var(--surface2); border-radius: 2px; margin-bottom: 2rem; overflow: hidden; }
+.qz-progress-fill { height: 100%; background: var(--gold); transition: width 0.4s ease; }
+.qz-meta { font-family: 'Cinzel', serif; font-size: 0.68rem; letter-spacing: 0.1em; color: var(--muted); margin-bottom: 0.7rem; }
+.qz-question { font-size: 1.1rem; font-weight: 600; line-height: 1.5; margin-bottom: 1.6rem; color: var(--text); }
+.qz-choices { display: flex; flex-direction: column; gap: 0.6rem; }
+.qz-choice {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--r);
+  padding: 0.88rem 1.1rem; text-align: left; color: var(--text);
+  font-size: 0.97rem; line-height: 1.4; transition: all 0.15s;
+}
+.qz-choice:hover { border-color: var(--border2); background: var(--gold-dim); }
+
+/* Result */
+.house-result { text-align: center; padding: 2rem 0; }
+.house-badge {
+  display: inline-block;
+  border: 2px solid; border-radius: 4px;
+  padding: 2rem 3rem; margin-bottom: 1.5rem;
+  font-family: 'Cinzel', serif;
+}
+.house-badge .hb-label { font-size: 0.7rem; letter-spacing: 0.15em; color: var(--muted); margin-bottom: 0.5rem; }
+.house-badge .hb-name  { font-size: 2.2rem; font-weight: 700; margin-bottom: 0.3rem; }
+.house-badge .hb-trait { font-size: 0.88rem; font-style: italic; color: var(--dim); }
+.house-scores { display: flex; justify-content: center; gap: 0.6rem; margin-bottom: 2rem; flex-wrap: wrap; }
+.house-score-pip { font-family: 'Cinzel', serif; font-size: 0.68rem; letter-spacing: 0.07em; padding: 0.35rem 0.9rem; border: 1px solid var(--border); border-radius: var(--r); color: var(--muted); }
+
+/* ════════════════════════════════════════════════════════════
+   QUIZ APPRENTISSAGE
+   ════════════════════════════════════════════════════════════ */
+.qz-setup { max-width: 540px; margin: 0 auto; text-align: center; }
+.qz-setup h2 { font-family: 'Cinzel', serif; font-size: 1.35rem; color: var(--gold); margin-bottom: 0.7rem; }
+.qz-setup > p { color: var(--muted); font-style: italic; margin-bottom: 1.8rem; }
+.qz-cat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem; margin-bottom: 1.7rem; text-align: left; }
+.qz-cat-opt {
+  border: 1px solid var(--border); background: var(--surface); padding: 0.85rem 1rem;
+  border-radius: var(--r); cursor: pointer; transition: all 0.18s;
+}
+.qz-cat-opt:hover, .qz-cat-opt.on { border-color: var(--border2); background: var(--gold-dim); }
+.qz-cat-opt.on { border-color: var(--gold); }
+.qz-cat-opt .co-title { font-family: 'Cinzel', serif; font-size: 0.74rem; letter-spacing: 0.06em; color: var(--gold); margin-bottom: 0.2rem; }
+.qz-cat-opt .co-count { font-size: 0.8rem; color: var(--muted); }
+
+.count-row { display: flex; align-items: center; justify-content: center; gap: 1rem; margin-bottom: 1.8rem; }
+.count-row label { font-family: 'Cinzel', serif; font-size: 0.75rem; color: var(--muted); }
+.count-row input[type=range] { accent-color: var(--gold); width: 140px; }
+.count-row span { font-family: 'Cinzel', serif; color: var(--gold); min-width: 2ch; }
+
+.qz-feedback { margin-top: 1rem; padding: 0.85rem 1.1rem; border-radius: var(--r); font-size: 0.92rem; display: none; line-height: 1.5; border: 1px solid; }
+.qz-feedback.show { display: block; }
+.qz-feedback.ok { background: rgba(61,143,80,0.12); border-color: rgba(61,143,80,0.3); color: #7dd49a; }
+.qz-feedback.ko { background: rgba(184,64,64,0.1);  border-color: rgba(184,64,64,0.25); color: #e07070; }
+.qz-choice.correct { border-color: #3d8f50; background: rgba(61,143,80,0.14); color: #7dd49a; }
+.qz-choice.wrong   { border-color: var(--danger); background: rgba(184,64,64,0.12); color: #e07070; }
+.qz-choice:disabled { cursor: default; }
+
+.qz-next {
+  margin-top: 1.2rem; font-family: 'Cinzel', serif; font-size: 0.75rem; letter-spacing: 0.1em;
+  padding: 0.65rem 1.7rem; background: var(--gold-dim); border: 1px solid var(--gold);
+  color: var(--gold); border-radius: var(--r); transition: all 0.18s; display: none;
+}
+.qz-next.show { display: inline-block; }
+.qz-next:hover { background: var(--gold-glow); }
+
+/* Result apprentissage */
+.qz-results { max-width: 500px; margin: 0 auto; text-align: center; }
+.score-ring { width: 110px; height: 110px; border-radius: 50%; border: 2px solid var(--gold); display: flex; align-items: center; justify-content: center; margin: 0 auto 1.3rem; font-family: 'Cinzel', serif; font-size: 1.7rem; color: var(--gold); box-shadow: 0 0 25px var(--gold-glow); }
+.score-pct  { font-family: 'Cinzel', serif; font-size: 1.1rem; color: var(--text); margin-bottom: 0.3rem; }
+.score-msg  { color: var(--muted); font-style: italic; margin-bottom: 1.6rem; }
+.result-list { text-align: left; border: 1px solid var(--border); border-radius: var(--r); overflow: hidden; max-height: 360px; overflow-y: auto; margin-bottom: 1.6rem; }
+.result-row { display: flex; gap: 0.7rem; padding: 0.7rem 1rem; border-bottom: 1px solid var(--border); font-size: 0.86rem; }
+.result-row:last-child { border-bottom: none; }
+.ri { flex-shrink: 0; margin-top: 2px; font-size: 0.9rem; }
+.ri.ok { color: var(--brumval); }
+.ri.ko { color: var(--danger); }
+.rq { color: var(--muted); font-size: 0.78rem; }
+.ra { color: var(--text); font-size: 0.85rem; margin-top: 0.15rem; }
+
+/* ════════════════════════════════════════════════════════════
+   ONGLET AJOUTER DES QUESTIONS
+   ════════════════════════════════════════════════════════════ */
+.add-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 1.4rem; }
+@media (max-width: 700px) { .add-layout { grid-template-columns: 1fr; } }
+
+.add-panel { background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); padding: 1.4rem; }
+.add-panel-title { font-family: 'Cinzel', serif; font-size: 0.88rem; letter-spacing: 0.08em; color: var(--gold); margin-bottom: 0.3rem; }
+.add-panel-sub   { font-size: 0.82rem; color: var(--muted); font-style: italic; margin-bottom: 1.2rem; }
+
+.new-cards-list { display: flex; flex-direction: column; gap: 0.5rem; max-height: 420px; overflow-y: auto; }
+.new-card-item {
+  background: var(--bg2); border: 1px solid var(--border); border-radius: var(--r);
+  padding: 0.7rem 0.9rem; font-size: 0.85rem; position: relative;
+}
+.new-card-item .nci-cat  { font-family: 'Cinzel', serif; font-size: 0.58rem; letter-spacing: 0.09em; color: var(--muted); margin-bottom: 0.3rem; }
+.new-card-item .nci-q    { font-weight: 600; color: var(--text); margin-bottom: 0.2rem; font-size: 0.88rem; }
+.new-card-item .nci-a    { color: var(--dim); font-size: 0.82rem; }
+.new-card-item .nci-copy {
+  position: absolute; top: 0.5rem; right: 0.6rem;
+  font-family: 'Cinzel', serif; font-size: 0.55rem; letter-spacing: 0.06em;
+  padding: 0.15rem 0.55rem; border: 1px solid var(--border); background: var(--surface);
+  color: var(--muted); border-radius: 2px; transition: all 0.15s;
+}
+.new-card-item .nci-copy:hover { color: var(--gold); border-color: var(--gold); }
+
+.import-area { display: flex; flex-direction: column; gap: 0.8rem; }
+.import-area textarea {
+  background: var(--bg2); border: 1px solid var(--border); border-radius: var(--r);
+  color: var(--text); font-size: 0.85rem; padding: 0.8rem 1rem;
+  resize: vertical; min-height: 200px; outline: none; transition: border-color 0.18s;
+  line-height: 1.5;
+}
+.import-area textarea:focus { border-color: var(--border2); }
+.import-area textarea::placeholder { color: var(--muted); }
+.import-result { font-size: 0.85rem; color: var(--muted); font-style: italic; min-height: 1.2em; }
+.import-result.ok { color: var(--brumval); }
+.import-result.ko { color: var(--danger); }
+
+/* ── BUTTONS ─────────────────────────────────────────────── */
+.btn {
+  font-family: 'Cinzel', serif; letter-spacing: 0.09em; border-radius: var(--r);
+  transition: all 0.18s; display: inline-block;
+}
+.btn-gold { font-size: 0.76rem; padding: 0.7rem 1.9rem; background: var(--gold-dim); border: 1px solid var(--gold); color: var(--gold); }
+.btn-gold:hover { background: var(--gold-glow); }
+.btn-ghost { font-size: 0.72rem; padding: 0.55rem 1.3rem; background: transparent; border: 1px solid var(--border); color: var(--muted); margin-left: 0.7rem; }
+.btn-ghost:hover { color: var(--text); border-color: var(--border2); }
+
+/* ── HOUSE COLORS ────────────────────────────────────────── */
+.c-falcon  { color: var(--falcon);  }
+.c-aerwyn  { color: var(--aerwyn);  }
+.c-brumval { color: var(--brumval); }
+.c-venatrix{ color: var(--venatrix);}
+.bc-falcon  { border-color: var(--falcon);  box-shadow: 0 0 30px rgba(212,129,58,0.2);  }
+.bc-aerwyn  { border-color: var(--aerwyn);  box-shadow: 0 0 30px rgba(58,127,212,0.2);  }
+.bc-brumval { border-color: var(--brumval); box-shadow: 0 0 30px rgba(61,143,80,0.2);   }
+.bc-venatrix{ border-color: var(--venatrix);box-shadow: 0 0 30px rgba(112,64,168,0.2);  }
+
+@media (max-width: 600px) {
+  header h1 { font-size: 1.9rem; }
+  .qz-cat-grid { grid-template-columns: 1fr; }
+  .houses-preview { grid-template-columns: repeat(2,1fr); }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Elderwood</h1>
+  <p>Révision personnelle — Lore · Règlement · Maisons</p>
+</header>
+
+<nav>
+  <button class="nav-btn active"  onclick="showPage('learning',  this)">Learning</button>
+  <button class="nav-btn"         onclick="showPage('quiz-house', this)">Quiz Maisons</button>
+  <button class="nav-btn"         onclick="showPage('quiz-learn', this)">Quiz Apprentissage</button>
+</nav>
+
+<main>
+
+<!-- ══════════════════════════════════════════════════════════
+     LEARNING
+     ══════════════════════════════════════════════════════════ -->
+<div id="page-learning" class="page active">
+  <div class="page-title">Learning</div>
+  <p class="page-sub">Clique sur une carte pour révéler la réponse.</p>
+
+  <div id="l-no-db" class="banner err" style="display:none">
+    <strong>db-cards.json introuvable</strong>
+    Lance <code>sync.bat</code> pour générer la base de cartes depuis les fichiers JS du launcher.
+  </div>
+
+  <div class="stats-row" id="l-stats"></div>
+
+  <div class="filter-bar" id="l-cats"></div>
+  <div class="filter-bar" id="l-subcats" style="margin-top:-0.6rem"></div>
+
+  <div class="search-wrap">
+    <span class="search-icon">🔍</span>
+    <input type="text" id="l-search" placeholder="Rechercher…" oninput="learningFilter()">
+  </div>
+
+  <div class="cards-grid" id="l-grid"></div>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════
+     QUIZ MAISONS
+     ══════════════════════════════════════════════════════════ -->
+<div id="page-quiz-house" class="page">
+  <div class="quiz-shell" id="qh-shell">
+
+    <!-- Intro -->
+    <div id="qh-intro" class="house-intro">
+      <div class="page-title" style="text-align:center">La Source de Vehr</div>
+      <p style="margin-top:0.5rem">Dix questions · Tes réponses déterminent ta maison.</p>
+      <br>
+      <div class="houses-preview" id="qh-pips"></div>
+      <button class="btn btn-gold" onclick="startHouseQuiz()">Commencer</button>
+    </div>
+
+    <!-- Question active -->
+    <div id="qh-active" style="display:none">
+      <div class="qz-progress"><div class="qz-progress-fill" id="qh-prog"></div></div>
+      <div class="qz-meta" id="qh-num"></div>
+      <div class="qz-question" id="qh-text"></div>
+      <div class="qz-choices" id="qh-choices"></div>
+    </div>
+
+    <!-- Résultat -->
+    <div id="qh-result" style="display:none" class="house-result">
+      <div class="house-badge" id="qh-badge">
+        <div class="hb-label">Ta maison est</div>
+        <div class="hb-name"  id="qh-rname"></div>
+        <div class="hb-trait" id="qh-rtrait"></div>
+      </div>
+      <div class="house-scores" id="qh-scores"></div>
+      <button class="btn btn-gold" onclick="resetHouseQuiz()">Recommencer</button>
+    </div>
+
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════
+     QUIZ APPRENTISSAGE
+     ══════════════════════════════════════════════════════════ -->
+<div id="page-quiz-learn" class="page">
+
+  <!-- Setup -->
+  <div id="ql-setup" class="qz-setup">
+    <h2>Quiz Apprentissage</h2>
+    <p>Questions générées depuis ta base de données.</p>
+
+    <div id="ql-no-q" class="banner err" style="display:none">
+      <strong>Aucune question disponible</strong>
+      Ajoute des questions dans l'onglet <em>Ajouter des questions</em>.
+    </div>
+
+    <div class="qz-cat-grid" id="ql-cats"></div>
+
+    <div class="count-row">
+      <label>Questions :</label>
+      <input type="range" id="ql-count" min="5" max="20" value="10"
+             oninput="document.getElementById('ql-count-val').textContent=this.value">
+      <span id="ql-count-val">10</span>
+    </div>
+
+    <button class="btn btn-gold" onclick="startLearnQuiz()">Commencer</button>
+  </div>
+
+  <!-- Active -->
+  <div id="ql-active" class="quiz-shell" style="display:none">
+    <div class="qz-progress"><div class="qz-progress-fill" id="ql-prog"></div></div>
+    <div class="qz-meta"     id="ql-num"></div>
+    <div class="qz-question" id="ql-text"></div>
+    <div class="qz-choices"  id="ql-choices"></div>
+    <div class="qz-feedback" id="ql-fb"></div>
+    <button class="qz-next btn" id="ql-next" onclick="learnNext()">Question suivante →</button>
+  </div>
+
+  <!-- Résultats -->
+  <div id="ql-results" class="qz-results" style="display:none">
+    <div class="score-ring" id="ql-ring"></div>
+    <div class="score-pct"  id="ql-pct"></div>
+    <div class="score-msg"  id="ql-msg"></div>
+    <div class="result-list" id="ql-list"></div>
+    <button class="btn btn-gold"  onclick="resetLearnQuiz()">Rejouer</button>
+    <button class="btn btn-ghost" onclick="resetLearnQuiz()">Changer les options</button>
+  </div>
+</div>
+
+</main>
+
+<!-- ══════════════════════════════════════════════════════════
+     JAVASCRIPT
+     ══════════════════════════════════════════════════════════ -->
+<script>
+'use strict';
+
+// ── Utilitaires ───────────────────────────────────────────────
+const shuffle = arr => [...arr].sort(() => Math.random() - 0.5);
+
+const CAT_COLORS = {
+  Glossaire:    '#c5a028',
+  Magie:        '#7040a8',
+  Maisons:      '#d4813a',
+  Elderwood:    '#3a7fd4',
+  Chronologie:  '#3d8f50',
+  Règlement:    '#c5a028',
+};
+
+const HOUSE_CSS = {
+  Falcon:   { cls: 'c-falcon',   bc: 'bc-falcon'   },
+  Aerwyn:   { cls: 'c-aerwyn',   bc: 'bc-aerwyn'   },
+  Brumval:  { cls: 'c-brumval',  bc: 'bc-brumval'  },
+  Venatrix: { cls: 'c-venatrix', bc: 'bc-venatrix' },
+};
+
+// ── Chargement des JSON (fetch local) ────────────────────────
+async function loadJSON(path) {
+  try {
+    const r = await fetch(path);
+    if (!r.ok) return null;
+    return await r.json();
+  } catch { return null; }
+}
+
+async function saveJSON(path, data) {
+  // Le navigateur ne peut pas écrire directement sur le disque.
+  // On propose le téléchargement du fichier mis à jour.
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href     = url;
+  a.download = path.split('/').pop();
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+// ── STATE GLOBAL ──────────────────────────────────────────────
+let DB_CARDS     = [];   // db-cards.json
+let DB_QUESTIONS = [];   // db-questions.json
+
+let lActiveCat    = 'Tout';
+let lActiveSubcat = 'Tout';
+
+// ════════════════════════════════════════════════════════════
+// LEARNING
+// ════════════════════════════════════════════════════════════
+
+async function initLearning() {
+  DB_CARDS = await loadJSON('db-cards.json');
+
+  if (!DB_CARDS) {
+    document.getElementById('l-no-db').style.display = 'block';
+    DB_CARDS = [];
+    return;
+  }
+
+  buildLearningStats();
+  buildLearningFilters();
+  renderLearning(DB_CARDS);
+}
+
+function buildLearningStats() {
+  const cats = [...new Set(DB_CARDS.map(c => c.cat))];
+  const newCount = DB_CARDS.filter(c => !c.seen).length;
+  document.getElementById('l-stats').innerHTML = `
+    <div class="stat"><div class="n">${DB_CARDS.length}</div><div class="l">cartes</div></div>
+    ${cats.map(cat => {
+      const n = DB_CARDS.filter(c => c.cat === cat).length;
+      return `<div class="stat"><div class="n">${n}</div><div class="l">${cat}</div></div>`;
+    }).join('')}
+    ${newCount > 0 ? `<div class="stat"><div class="n" style="color:var(--gold)">${newCount}</div><div class="l">nouvelles</div></div>` : ''}
+  `;
+}
+
+function buildLearningFilters() {
+  const cats = ['Tout', ...new Set(DB_CARDS.map(c => c.cat))];
+  document.getElementById('l-cats').innerHTML = cats.map(cat =>
+
+    `<button class="f-btn ${cat === 'Tout' ? 'on' : ''}" onclick="setCat('${cat.replace(/'/g,"\\'")}',this)">${cat}</button>`
+  ).join('');
+  buildSubcatFilter('Tout');
+}
+
+function buildSubcatFilter(cat) {
+  const sub = cat === 'Tout'
+    ? [...new Set(DB_CARDS.map(c => c.subcat).filter(Boolean))]
+    : [...new Set(DB_CARDS.filter(c => c.cat === cat).map(c => c.subcat).filter(Boolean))];
+
+  document.getElementById('l-subcats').innerHTML = sub.length > 1
+    ? ['Tout', ...sub].map(s =>
+        `<button class="f-btn ${s === 'Tout' ? 'on' : ''}" onclick="setSubcat('${s.replace(/'/g,"\\'")}',this)">${s}</button>`
+      ).join('')
+    : '';
+  lActiveSubcat = 'Tout';
+}
+
+function setCat(cat, el) {
+  lActiveCat = cat;
+  document.querySelectorAll('#l-cats .f-btn').forEach(b => b.classList.remove('on'));
+  el.classList.add('on');
+  buildSubcatFilter(cat);
+  learningFilter();
+}
+
+function setSubcat(sub, el) {
+  lActiveSubcat = sub;
+  document.querySelectorAll('#l-subcats .f-btn').forEach(b => b.classList.remove('on'));
+  el.classList.add('on');
+  learningFilter();
+}
+
+function learningFilter() {
+  const q = (document.getElementById('l-search').value || '').toLowerCase();
+  const filtered = DB_CARDS.filter(c =>
+    (lActiveCat    === 'Tout' || c.cat    === lActiveCat) &&
+    (lActiveSubcat === 'Tout' || c.subcat === lActiveSubcat) &&
+    (!q || c.q.toLowerCase().includes(q) || c.a.toLowerCase().includes(q))
+  );
+  renderLearning(filtered);
+}
+
+function renderLearning(cards) {
+  const grid = document.getElementById('l-grid');
+  if (!cards.length) { grid.innerHTML = '<p class="empty">Aucun résultat.</p>'; return; }
+  grid.innerHTML = cards.map(c => {
+    const color = (c.meta && c.meta.color) || CAT_COLORS[c.cat] || '#c5a028';
+    const isNew = !c.seen;
+    return `
+    <div class="card ${isNew ? 'new-badge' : ''}" onclick="this.classList.toggle('flipped');markSeen('${c.id}')">
+      <div class="card-accent" style="background:${color}"></div>
+      <div class="card-front">
+        <div class="card-tag">${c.subcat || c.cat} · cliquer pour révéler</div>
+        <div class="card-q">${c.q}</div>
+      </div>
+      <div class="card-back">
+        <div class="card-tag">${c.subcat || c.cat} · réponse</div>
+        <div class="card-a">${c.a}</div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// Bouton de sauvegarde (affiché si dirty)
+function checkSaveDirty() {
+  if (!_dbCardsDirty) return;
+  saveJSON('db-cards.json', DB_CARDS);
+  _dbCardsDirty = false;
+}
+
+// ════════════════════════════════════════════════════════════
+// QUIZ MAISONS
+// ════════════════════════════════════════════════════════════
+
+let houseState = { questions: [], current: 0, scores: {} };
+
+function initHouseQuiz() {
+  const HQ = window.HOUSE_QUIZ;
+  if (!HQ) {
+    document.getElementById('qh-shell').innerHTML =
+      `<div class="banner err"><strong>content-quiz.js non chargé</strong>Place <code>js/content-quiz.js</code> dans le dossier <code>js/</code>.</div>`;
+    return;
+  }
+
+  // Pips de présentation
+  document.getElementById('qh-pips').innerHTML = HQ.HOUSES.map(h => {
+    const lore = HQ.LORE[h] || {};
+    const cls  = HOUSE_CSS[h] ? HOUSE_CSS[h].cls : '';
+    return `<div class="house-pip">
+      <div class="hp-name ${cls}">${h}</div>
+      <div class="hp-trait">${lore.trait || ''}</div>
+    </div>`;
+  }).join('');
+}
+
+function startHouseQuiz() {
+  const HQ = window.HOUSE_QUIZ;
+  const questions = shuffle(HQ.QUESTIONS).slice(0, HQ.PER_RUN);
+  houseState = { questions, current: 0, scores: Object.fromEntries(HQ.HOUSES.map(h => [h, 0])) };
+
+  document.getElementById('qh-intro').style.display  = 'none';
+  document.getElementById('qh-active').style.display = 'block';
+  document.getElementById('qh-result').style.display = 'none';
+  renderHouseQuestion();
+}
+
+function renderHouseQuestion() {
+  const { questions, current } = houseState;
+  const q = questions[current];
+  const total = questions.length;
+
+  document.getElementById('qh-prog').style.width = `${(current / total) * 100}%`;
+  document.getElementById('qh-num').textContent  = `Question ${current + 1} sur ${total}`;
+  document.getElementById('qh-text').textContent = q.text;
+
+  document.getElementById('qh-choices').innerHTML = shuffle(q.answers).map(a =>
+    `<button class="qz-choice" onclick="answerHouse('${a.house}')">${a.text}</button>`
+  ).join('');
+}
+
+function answerHouse(house) {
+  houseState.scores[house]++;
+  houseState.current++;
+  if (houseState.current >= houseState.questions.length) {
+    showHouseResult();
+  } else {
+    renderHouseQuestion();
+  }
+}
+
+function showHouseResult() {
+  const { scores } = houseState;
+  const winner = Object.entries(scores).sort((a, b) => b[1] - a[1])[0][0];
+  const HQ  = window.HOUSE_QUIZ;
+  const css = HOUSE_CSS[winner] || {};
+
+  document.getElementById('qh-active').style.display = 'none';
+  document.getElementById('qh-result').style.display = 'block';
+  document.getElementById('qh-prog').style.width = '100%';
+
+  const badge = document.getElementById('qh-badge');
+  badge.className = `house-badge ${css.bc || ''}`;
+
+  document.getElementById('qh-rname').className  = css.cls || '';
+  document.getElementById('qh-rname').textContent = winner;
+  document.getElementById('qh-rtrait').textContent = (HQ.LORE[winner] || {}).trait || '';
+
+  document.getElementById('qh-scores').innerHTML = Object.entries(scores)
+    .sort((a, b) => b[1] - a[1])
+    .map(([h, n]) => {
+      const cls = HOUSE_CSS[h] ? HOUSE_CSS[h].cls : '';
+      return `<span class="house-score-pip"><span class="${cls}">${h}</span> ${n}</span>`;
+    }).join('');
+}
+
+function resetHouseQuiz() {
+  document.getElementById('qh-intro').style.display  = 'block';
+  document.getElementById('qh-active').style.display = 'none';
+  document.getElementById('qh-result').style.display = 'none';
+}
+
+// ════════════════════════════════════════════════════════════
+// QUIZ APPRENTISSAGE
+// ════════════════════════════════════════════════════════════
+
+let learnState = { questions: [], current: 0, score: 0, answers: [] };
+
+async function initLearnQuiz() {
+  DB_QUESTIONS = await loadJSON('db-questions.json') || [];
+  buildLearnSetup();
+}
+
+function buildLearnSetup() {
+  const cats = [...new Set(DB_QUESTIONS.map(q => q.cat))];
+
+  if (!cats.length) {
+    document.getElementById('ql-no-q').style.display = 'block';
+    document.getElementById('ql-cats').innerHTML = '';
+    return;
+  }
+
+  const slider = document.getElementById('ql-count');
+  slider.max = Math.min(DB_QUESTIONS.length, 30);
+  slider.value = Math.min(10, slider.max);
+  document.getElementById('ql-count-val').textContent = slider.value;
+
+  document.getElementById('ql-cats').innerHTML = cats.map(cat => {
+    const n = DB_QUESTIONS.filter(q => q.cat === cat).length;
+    return `<div class="qz-cat-opt on" onclick="this.classList.toggle('on');adjustLearnSlider()" data-cat="${cat}">
+      <div class="co-title">${cat}</div>
+      <div class="co-count">${n} question${n > 1 ? 's' : ''}</div>
+    </div>`;
+  }).join('');
+}
+
+function adjustLearnSlider() {
+  const sel = [...document.querySelectorAll('.qz-cat-opt.on')].map(el => el.dataset.cat);
+  const total = sel.reduce((s, c) => s + DB_QUESTIONS.filter(q => q.cat === c).length, 0);
+  const sl = document.getElementById('ql-count');
+  sl.max = Math.min(total, 30);
+  if (parseInt(sl.value) > sl.max) { sl.value = sl.max; document.getElementById('ql-count-val').textContent = sl.value; }
+}
+
+function startLearnQuiz() {
+  const sel = [...document.querySelectorAll('.qz-cat-opt.on')].map(el => el.dataset.cat);
+  if (!sel.length) { alert('Sélectionne au moins une catégorie.'); return; }
+  const count = parseInt(document.getElementById('ql-count').value);
+  let pool = DB_QUESTIONS.filter(q => sel.includes(q.cat));
+  pool = shuffle(pool).slice(0, count);
+  if (!pool.length) { alert('Aucune question disponible pour cette sélection.'); return; }
+  learnState = { questions: pool, current: 0, score: 0, answers: [] };
+
+  document.getElementById('ql-setup').style.display   = 'none';
+  document.getElementById('ql-active').style.display  = 'block';
+  document.getElementById('ql-results').style.display = 'none';
+  renderLearnQuestion();
+}
+
+function renderLearnQuestion() {
+  const q = learnState.questions[learnState.current];
+  const total = learnState.questions.length;
+
+  document.getElementById('ql-prog').style.width = `${(learnState.current / total) * 100}%`;
+  document.getElementById('ql-num').textContent  = `Question ${learnState.current + 1} sur ${total}`;
+  document.getElementById('ql-text').textContent = q.q;
+
+  const fb = document.getElementById('ql-fb');
+  fb.className = 'qz-feedback'; fb.textContent = '';
+  document.getElementById('ql-next').className = 'qz-next btn';
+  document.getElementById('ql-next').textContent =
+    learnState.current + 1 < total ? 'Question suivante →' : 'Voir les résultats →';
+
+  const choices = shuffle([q.correct, ...(q.wrongs || []).slice(0, 3)]);
+  const choicesEl = document.getElementById('ql-choices');
+  choicesEl.dataset.correct = q.correct;
+  choicesEl.dataset.expl    = q.expl || '';
+  choicesEl.innerHTML = choices.map(c =>
+    `<button class="qz-choice" onclick="answerLearn(this)">${c}</button>`
+  ).join('');
+}
+
+function answerLearn(btn) {
+  const choicesEl = document.getElementById('ql-choices');
+  const correct   = choicesEl.dataset.correct;
+  const expl      = choicesEl.dataset.expl;
+  const chosen    = btn.textContent.trim();
+  const ok        = chosen === correct;
+
+  document.querySelectorAll('#ql-choices .qz-choice').forEach(b => {
+    b.disabled = true;
+    if (b.textContent.trim() === correct) b.classList.add('correct');
+  });
+  if (!ok) btn.classList.add('wrong');
+
+  const fb = document.getElementById('ql-fb');
+  fb.className = 'qz-feedback show ' + (ok ? 'ok' : 'ko');
+  fb.textContent = (ok ? '✓ ' : '✗ ') + expl;
+
+  if (ok) learnState.score++;
+  learnState.answers.push({ q: learnState.questions[learnState.current], ok, chosen });
+  document.getElementById('ql-next').classList.add('show');
+}
+
+function learnNext() {
+  learnState.current++;
+  if (learnState.current >= learnState.questions.length) showLearnResults();
+  else renderLearnQuestion();
+}
+
+function showLearnResults() {
+  document.getElementById('ql-active').style.display  = 'none';
+  document.getElementById('ql-results').style.display = 'block';
+  document.getElementById('ql-prog').style.width = '100%';
+
+  const s = learnState.score, t = learnState.questions.length;
+  const pct = Math.round((s / t) * 100);
+  document.getElementById('ql-ring').textContent = `${s}/${t}`;
+  document.getElementById('ql-pct').textContent  = `${pct}% de réussite`;
+
+  const msgs = [[90,'Le Ministère t\'embaucherait.'],[70,'Elderwood est fier.'],[40,'Les bases sont là, continue.'],[0,'Retourne réviser tes cartes !']];
+  document.getElementById('ql-msg').textContent = msgs.find(([min]) => pct >= min)[1];
+
+  document.getElementById('ql-list').innerHTML = learnState.answers.map(a =>
+    `<div class="result-row">
+      <span class="ri ${a.ok ? 'ok' : 'ko'}">${a.ok ? '✓' : '✗'}</span>
+      <div>
+        <div class="rq">${a.q.q}</div>
+        <div class="ra">${a.ok ? a.q.correct : `❌ "${a.chosen}" → ✓ "${a.q.correct}"`}</div>
+      </div>
+    </div>`
+  ).join('');
+}
+
+function resetLearnQuiz() {
+  learnState = { questions: [], current: 0, score: 0, answers: [] };
+  document.getElementById('ql-setup').style.display   = 'block';
+  document.getElementById('ql-active').style.display  = 'none';
+  document.getElementById('ql-results').style.display = 'none';
+}
+
+// ════════════════════════════════════════════════════════════
+// AJOUTER DES QUESTIONS
+// ════════════════════════════════════════════════════════════
+
+function buildAddPanel() {
+  const newCards = DB_CARDS.filter(c => !c.seen);
+  const countEl  = document.getElementById('add-new-count');
+  const listEl   = document.getElementById('add-new-list');
+
+  if (newCards.length === 0) {
+    countEl.style.display = 'none';
+    listEl.innerHTML = '<p class="empty" style="font-size:0.85rem">Aucune nouvelle carte depuis le dernier sync.</p>';
+    return;
+  }
+
+  countEl.style.display = 'block';
+  countEl.innerHTML = `<strong>${newCards.length} nouvelle(s) carte(s)</strong> Clique sur "Copier le prompt Claude" pour générer toutes les questions d'un coup.`;
+
+  listEl.innerHTML = newCards.map(c => `
+    <div class="new-card-item">
+      <div class="nci-cat">${c.cat} · ${c.subcat}</div>
+      <div class="nci-q">${c.q}</div>
+      <div class="nci-a">${c.a.slice(0, 120)}${c.a.length > 120 ? '…' : ''}</div>
+      <button class="nci-copy" onclick="copyCard(this, '${c.id}')">Copier</button>
+    </div>`
+  ).join('');
+}
+
+function copyCard(btn, id) {
+  const card = DB_CARDS.find(c => c.id === id);
+  if (!card) return;
+  const text = `[${card.cat} — ${card.subcat}]\nQ: ${card.q}\nR: ${card.a}`;
+  navigator.clipboard.writeText(text).then(() => {
+    btn.textContent = 'Copié ✓';
+    setTimeout(() => btn.textContent = 'Copier', 1500);
+  });
+}
+
+// ════════════════════════════════════════════════════════════
+// NAVIGATION
+// ════════════════════════════════════════════════════════════
+
+const PAGE_INIT = {
+  'learning':   () => {},   // déjà fait au load
+  'quiz-house': initHouseQuiz,
+  'quiz-learn': initLearnQuiz,
+};
+const pageInited = new Set(['learning']);
+
+function showPage(id, btn) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('page-' + id).classList.add('active');
+  btn.classList.add('active');
+
+  if (!pageInited.has(id)) {
+    PAGE_INIT[id]?.();
+    pageInited.add(id);
+  }
+
+  // Sauvegarde auto si des cartes ont été vues
+  if (id === 'add' && _dbCardsDirty) {
+    saveJSON('db-cards.json', DB_CARDS);
+    _dbCardsDirty = false;
+  }
+}
+
+// ════════════════════════════════════════════════════════════
+// INIT
+// ════════════════════════════════════════════════════════════
+initLearning();
+</script>
+
+</body>
+</html>

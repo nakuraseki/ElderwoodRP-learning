@@ -1,0 +1,1830 @@
+[
+  {
+    "id": "glossaire_0001",
+    "cat": "Glossaire",
+    "subcat": "Termes",
+    "q": "Écho",
+    "a": "Aussi appelé magie, l'origine de toute chose.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "glossaire_0002",
+    "cat": "Glossaire",
+    "subcat": "Termes",
+    "q": "Résonance",
+    "a": "Réponse propre de chaque être vivant à l'Écho, reposant sur deux prédispositions génétiques : ressentir l'Écho, et le contrôler.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "glossaire_0003",
+    "cat": "Glossaire",
+    "subcat": "Termes",
+    "q": "Flux",
+    "a": "Énergie née de la rencontre entre l'Écho et la Résonance.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "glossaire_0004",
+    "cat": "Glossaire",
+    "subcat": "Termes",
+    "q": "Sans-Flux",
+    "a": "Humains dont la Résonance est trop faible pour produire un Flux exploitable.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "glossaire_0005",
+    "cat": "Glossaire",
+    "subcat": "Termes",
+    "q": "Dissonant",
+    "a": "Né de parents Sans-Flux mais présentant une des deux prédispositions de la Résonance.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "glossaire_0006",
+    "cat": "Glossaire",
+    "subcat": "Termes",
+    "q": "Voile",
+    "a": "Phénomène dissimulant un lieu chargé de Flux aux Sans-Flux.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "glossaire_0007",
+    "cat": "Glossaire",
+    "subcat": "Termes",
+    "q": "Catalyseur",
+    "a": "Objet (baguette, sceptre, bâton, flûte, ou tout autre instrument magique) canalisant le Flux du sorcier.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "glossaire_0008",
+    "cat": "Glossaire",
+    "subcat": "Termes",
+    "q": "La Source de Vehr",
+    "a": "Aussi appelée « la Source », bassin d'eau révélant la couleur du Flux de chaque Résonant.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "glossaire_0009",
+    "cat": "Glossaire",
+    "subcat": "Termes",
+    "q": "Razeball",
+    "a": "Sport international sorcier, aussi appelé « le Raze » (anciennement « Razorball »).",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "magie_0010",
+    "cat": "Magie",
+    "subcat": "L'Écho",
+    "q": "L'Écho",
+    "a": "L'Écho est la force originelle qui traverse toute chose depuis la naissance de l'univers, ce que les textes les plus anciens appellent le Premier Murmure. Il ne produit aucun sortilège et n'obéit à aucune formule : il est simplement présent, mêlé à la matière, aux lieux, aux êtres vivants, depuis toujours.\n\nEn pratique, l'Écho est ce qui rend la magie possible. Sans lui, aucune Résonance et aucun Flux ne pourraient exister : c'est le socle sur lequel repose toute la magie pratiquée à Elderwood.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "magie_0011",
+    "cat": "Magie",
+    "subcat": "La Résonance",
+    "q": "La Résonance",
+    "a": "La Résonance est la manière dont un être répond à l'Écho, une fréquence propre à chacun, présente en toute chose depuis sa naissance.\n\nChez la majorité des humains, elle demeure trop faible pour produire quoi que ce soit de perceptible : ce sont les Sans-Flux. Chez d'autres, elle répond avec assez de force et de clarté pour qu'un véritable échange se forme avec l'Écho : ce sont les Résonants. C'est cette différence de Résonance, et non le sang ou la naissance, qui détermine qui peut ou non pratiquer la magie.\n\nConcrètement, la Résonance repose sur deux prédispositions distinctes, transmises génétiquement : l'une permet de ressentir l'Écho, l'autre permet de le contrôler. Un Résonant complet possède les deux : il perçoit la magie et parvient à en tirer un Flux exploitable.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "magie_0012",
+    "cat": "Magie",
+    "subcat": "Le Flux",
+    "q": "Le Flux",
+    "a": "Le Flux naît lorsque l'Écho rencontre une Résonance suffisamment forte pour y répondre. Ce n'est pas une réserve enfermée dans le corps du sorcier, mais une énergie qui naît de cette relation : la forme perceptible et manipulable de la magie.\n\nEn pratique, le Flux se manifeste d'abord sans contrôle chez les jeunes sorciers : une peur qui repousse un danger, une colère qui fait trembler un objet, avant d'être apprivoisé grâce à l'intention, au geste, à l'incantation et à un catalyseur (baguette, sceptre, bâton, flûte, ou tout autre instrument magique). Apprendre la magie, c'est avant tout apprendre à diriger volontairement ce que le Flux fait déjà instinctivement.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0013",
+    "cat": "Maisons",
+    "subcat": "Flux",
+    "q": "Flux de la maison Aerwyn (Flux Bleu) ?",
+    "a": "Tags : Courage, Protection, Action.\nIl incarne le courage, l'engagement et la volonté d'agir. Les Résonants bleus possèdent une magie tournée vers la protection, l'intervention directe et le soutien : leur Flux répond souvent avec force lorsqu'il s'agit de défendre, de tenir une position ou de se dresser face à ce qui menace l'équilibre. Tous ne sont pas des combattants : certains protègent par des boucliers, d'autres par des enchantements de soutien ou des sorts d'évacuation. Ce qui les unit n'est pas la violence, mais la décision de se placer entre le danger et ceux qu'ils cherchent à préserver. Le Bleu agit, protège, et accepte d'avancer lorsque le danger exige une réponse.",
+    "meta": {
+      "house": "Aerwyn",
+      "color": "#3f7fd8"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0014",
+    "cat": "Maisons",
+    "subcat": "Flux",
+    "q": "Flux de la maison Venatrix (Flux Violet) ?",
+    "a": "Tags : Maîtrise, Stratégie, Influence.\nIl représente l'ambition, la maîtrise et l'influence, lié à la stratégie plus qu'à l'effet spectaculaire : il préfère souvent contrôler ce qui existe déjà , modifier le cours d'une situation ou prendre l'avantage par la précision. Les sorciers liés au Violet observent, préparent et choisissent avec soin le moment où ils agissent. Leur magie se montre particulièrement efficace pour dévier un sortilège, recueillir une information, comprendre les intentions de l'adversaire ou reprendre le contrôle d'une situation devenue instable. Le Violet observe, maîtrise, et agit rarement sans avoir mesuré les conséquences.",
+    "meta": {
+      "house": "Venatrix",
+      "color": "#6b3fa0"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0015",
+    "cat": "Maisons",
+    "subcat": "Flux",
+    "q": "Flux de la maison Brumval (Flux Vert) ?",
+    "a": "Tags : Stabilité, Loyauté, Continuité.\nIl porte la stabilité, la loyauté et la continuité. Sa magie se montre généralement constante et résistante : là où d'autres cherchent à transformer rapidement une situation, le Vert tend à maintenir, renforcer ou restaurer ce qui menace de céder. Il est particulièrement lié à la protection durable, aux soins, aux enchantements de stabilité et aux équilibres du vivant. Les sorciers au Flux Vert ne sont pas simplement patients : leur force réside dans leur capacité à tenir dans la durée et à soutenir les autres, même quand les résultats ne sont pas immédiatement visibles. Le Vert préserve, soutient et résiste lorsque tout ce qui l'entoure menace de s'effondrer.",
+    "meta": {
+      "house": "Brumval",
+      "color": "#3f8f52"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0016",
+    "cat": "Maisons",
+    "subcat": "Flux",
+    "q": "Flux de la maison Falcon (Flux Orange) ?",
+    "a": "Tags : Savoir, Curiosité, Créativité.\nIl porte le savoir, la compréhension et la créativité, répondant naturellement à la curiosité et au besoin de comprendre ce qui échappe encore aux connaissances établies. Les sorciers liés à l'Orange observent, expérimentent et cherchent souvent une solution nouvelle lorsque les méthodes habituelles ne fonctionnent plus. Tous ne sont pas des chercheurs enfermés dans une bibliothèque : le Flux Orange peut s'exprimer dans l'invention d'un sort, l'étude d'un artefact ou l'exploration d'un lieu ancien. L'Orange observe, comprend et invente lorsque les réponses connues ne suffisent plus.",
+    "meta": {
+      "house": "Falcon",
+      "color": "#d8823f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "magie_0017",
+    "cat": "Magie",
+    "subcat": "Le Voile",
+    "q": "Le Voile",
+    "a": "Chaque lieu possède, comme les êtres vivants, sa propre Résonance. Une forte concentration de Flux peut faire naître un Voile, un phénomène qui rend le lieu difficile à remarquer pour les Sans-Flux.\n\nLes écoles et sanctuaires magiques se construisent souvent dans ces lieux voilés, Elderwood en est l'exemple le plus connu, dissimulée du monde Sans-Flux par un Voile naturel particulièrement puissant. Un lieu trop chargé en Flux peut cependant devenir imprévisible : c'est ainsi que naissent les Échoïdes, des souvenirs figés dans une rune instable.\n\nOn distingue le Voile naturel, qui se forme spontanément autour d'un lieu fortement chargé en Flux, du voile artificiel, posé volontairement par des sorciers pour dissimuler un lieu de leur choix. Un voile artificiel peut se superposer à un Voile naturel existant, et parfois même le perturber.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "magie_0018",
+    "cat": "Magie",
+    "subcat": "Statuts",
+    "q": "Qui sont les Les Résonants ?",
+    "a": "Ceux que l'on appelle dans le langage courant des sorciers. Ils possèdent une Résonance assez importante et claire pour répondre à l'Écho et faire naître un Flux exploitable. Cela leur permet d'apprendre la magie, de canaliser leur Flux à travers une baguette, un sceptre ou tout autre catalyseur, de pratiquer des sorts et d'utiliser des objets enchantés. Être Résonant implique l'accès à une éducation magique, à des droits, des devoirs, et une responsabilité : celle de ne pas exposer la magie aux Sans-Flux.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "magie_0019",
+    "cat": "Magie",
+    "subcat": "Statuts",
+    "q": "Qui sont les Les Sans-Flux ?",
+    "a": "Ils représentent la majorité de l'humanité. Ils possèdent bien une Résonance, comme toute chose existante, mais elle est bien trop faible : ils ne perçoivent pas la magie, ne produisent pas de Flux suffisant et ne peuvent pas le manipuler. Cela ne signifie pas qu'ils sont totalement séparés du monde magique : ils peuvent apercevoir certaines choses, être touchés par ses effets, ou traverser le Voile si celui-ci est affaibli, devenant alors témoins de phénomènes qu'ils ne s'expliquent pas. Leur esprit tend naturellement à rationaliser ce qu'il ne comprend pas et à se tourner vers la science.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "magie_0020",
+    "cat": "Magie",
+    "subcat": "Statuts",
+    "q": "Qui sont les Les Dissonants ?",
+    "a": "Des cas particuliers. Ils naissent dans le monde Sans-Flux, souvent de parents Sans-Flux, mais héritent d'une prédisposition génétique rare liée à la Résonance. Rappel : la Résonance repose sur deux prédispositions, celle qui permet de ressentir l'Écho et celle qui permet de le contrôler. La plupart des Dissonants n'en portent qu'une seule : ceux-là sont connus dans le monde humain comme des génies, des prodiges, des voyants ou des médiums. Les cas les plus rares possèdent les deux à la fois et deviennent alors de véritables sorciers nés au sein d'une lignée Sans-Flux, repérés très jeunes par les instances magiques de chaque pays.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "magie_0021",
+    "cat": "Magie",
+    "subcat": "Les formes de magie",
+    "q": "Les formes de magie",
+    "a": "La Magie d'usage est la forme la plus répandue aujourd'hui. Elle correspond à la magie pratiquée par les sorciers dans leur vie quotidienne : dans les écoles, les duels, les soins, les enchantements simples ou les actes magiques courants. Elle repose sur l'intention du sorcier, sur sa capacité à canaliser son Flux, puis à lui donner une direction par un geste, une formule ou un catalyseur. L'apparition des baguettes a profondément transformé cette pratique, en concentrant le Flux dans un catalyseur adapté, ce qui a permis aux sorciers d'affiner leurs gestes et de transmettre plus facilement leur savoir.\n\nLa Runomancie suit une logique différente : là où la Magie d'usage agit par le geste et l'instant, la Runomancie cherche à inscrire le Flux dans la durée. Les runes ne sont pas de simples lettres, mais des fréquences retranscrites sous forme de symboles ; chaque rune représente une harmonie observée dans l'Écho. Une rune seule possède une influence limitée, mais plusieurs runes forment un accord capable d'orienter durablement la magie : protéger un lieu, verrouiller un passage, conserver une mémoire ou stabiliser un enchantement.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0022",
+    "cat": "Elderwood",
+    "subcat": "Histoire d'Elderwood",
+    "q": "Histoire d'Elderwood",
+    "a": "En l'an 1298, Falcon découvrit sur une île sans nom, protégée par un voile magique, une source d'eau capable de révéler la couleur de l'âme de quiconque s'y reflète : la Source de Vehr, plus simplement appelée la Source.\n\nIl identifia quatre couleurs majeures : le bleu, le vert, le violet, l'orange. Il chercha ensuite trois personnes dont l'âme correspondrait aux couleurs qu'il n'incarnait pas lui-même : Aerwyn, Venatrix et Brumval. En l'an 1300, tous les quatre fondèrent Elderwood.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0023",
+    "cat": "Maisons",
+    "subcat": "Devises",
+    "q": "Devise de la maison Falcon ?",
+    "a": "La connaissance est une arme redoutable.",
+    "meta": {
+      "house": "Falcon",
+      "color": "#d8823f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0024",
+    "cat": "Maisons",
+    "subcat": "Symboles",
+    "q": "Symbole de la maison Falcon ?",
+    "a": "Le Faucon pèlerin",
+    "meta": {
+      "house": "Falcon",
+      "color": "#d8823f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0025",
+    "cat": "Maisons",
+    "subcat": "Valeurs",
+    "q": "Valeurs de la maison Falcon ?",
+    "a": "Savoir · Curiosité · Sagesse",
+    "meta": {
+      "house": "Falcon",
+      "color": "#d8823f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0026",
+    "cat": "Maisons",
+    "subcat": "Histoire",
+    "q": "Histoire de la maison Falcon ?",
+    "a": "Fondée par Eldric Falcon, la maison Falcon est celle de l'intelligence mise au service du monde. Les Falcon croient que comprendre une situation vaut mieux que la forcer ; on leur reproche parfois de vivre si haut dans leurs réflexions qu'ils en oublient ceux qui marchent à leurs côtés.",
+    "meta": {
+      "house": "Falcon",
+      "color": "#d8823f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0027",
+    "cat": "Maisons",
+    "subcat": "Familles",
+    "q": "Famille liée à la maison Falcon ?",
+    "a": "Famille Valemont — \"La connaissance régit notre monde.\"",
+    "meta": {
+      "house": "Falcon",
+      "color": "#d8823f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0028",
+    "cat": "Maisons",
+    "subcat": "Familles",
+    "q": "Qui sont les Famille Valemont ?",
+    "a": "Gardienne du savoir de la maison Falcon depuis le XIVe siècle.",
+    "meta": {
+      "house": "Falcon",
+      "color": "#d8823f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0029",
+    "cat": "Maisons",
+    "subcat": "Devises",
+    "q": "Devise de la maison Aerwyn ?",
+    "a": "J'agis avec droiture et intégrité.",
+    "meta": {
+      "house": "Aerwyn",
+      "color": "#3f7fd8"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0030",
+    "cat": "Maisons",
+    "subcat": "Symboles",
+    "q": "Symbole de la maison Aerwyn ?",
+    "a": "Le Pégase, l'épée et le bouclier",
+    "meta": {
+      "house": "Aerwyn",
+      "color": "#3f7fd8"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0031",
+    "cat": "Maisons",
+    "subcat": "Valeurs",
+    "q": "Valeurs de la maison Aerwyn ?",
+    "a": "Honneur · Protection · Constance",
+    "meta": {
+      "house": "Aerwyn",
+      "color": "#3f7fd8"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0032",
+    "cat": "Maisons",
+    "subcat": "Histoire",
+    "q": "Histoire de la maison Aerwyn ?",
+    "a": "Fondée par Althea Aerwyn, la maison Aerwyn est celle du courage et du serment tenu. Les Aerwyn agissent selon un code qu'ils se sont choisi, et s'y tiennent même quand c'est inconfortable.",
+    "meta": {
+      "house": "Aerwyn",
+      "color": "#3f7fd8"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0033",
+    "cat": "Maisons",
+    "subcat": "Familles",
+    "q": "Famille liée à la maison Aerwyn ?",
+    "a": "Famille Caerwyn — \"Tant qu'Elderwood existe, un Caerwyn veille.\"",
+    "meta": {
+      "house": "Aerwyn",
+      "color": "#3f7fd8"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0034",
+    "cat": "Maisons",
+    "subcat": "Familles",
+    "q": "Qui sont les Famille Caerwyn ?",
+    "a": "Présente depuis la première nuit de la construction.",
+    "meta": {
+      "house": "Aerwyn",
+      "color": "#3f7fd8"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0035",
+    "cat": "Maisons",
+    "subcat": "Devises",
+    "q": "Devise de la maison Venatrix ?",
+    "a": "Je tire les ficelles, proprement et sans bruit.",
+    "meta": {
+      "house": "Venatrix",
+      "color": "#6b3fa0"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0036",
+    "cat": "Maisons",
+    "subcat": "Symboles",
+    "q": "Symbole de la maison Venatrix ?",
+    "a": "La Pieuvre Géante",
+    "meta": {
+      "house": "Venatrix",
+      "color": "#6b3fa0"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0037",
+    "cat": "Maisons",
+    "subcat": "Valeurs",
+    "q": "Valeurs de la maison Venatrix ?",
+    "a": "Ambition · Maîtrise · Influence",
+    "meta": {
+      "house": "Venatrix",
+      "color": "#6b3fa0"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0038",
+    "cat": "Maisons",
+    "subcat": "Histoire",
+    "q": "Histoire de la maison Venatrix ?",
+    "a": "Fondée par Selena Venatrix, la maison Venatrix est celle de la stratégie et de la dissimulation. Les Venatrix construisent les chemins pour obtenir ce qu'ils veulent.",
+    "meta": {
+      "house": "Venatrix",
+      "color": "#6b3fa0"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0039",
+    "cat": "Maisons",
+    "subcat": "Familles",
+    "q": "Famille liée à la maison Venatrix ?",
+    "a": "Famille Dravenholt — \"Le monde appartient à ceux qui en comprennent les rouages.\"",
+    "meta": {
+      "house": "Venatrix",
+      "color": "#6b3fa0"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0040",
+    "cat": "Maisons",
+    "subcat": "Familles",
+    "q": "Qui sont les Famille Dravenholt ?",
+    "a": "Influente dans les cercles du Ministère.",
+    "meta": {
+      "house": "Venatrix",
+      "color": "#6b3fa0"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0041",
+    "cat": "Maisons",
+    "subcat": "Devises",
+    "q": "Devise de la maison Brumval ?",
+    "a": "Ma force, c’est de rester fidèle à ceux qui comptent sur moi.",
+    "meta": {
+      "house": "Brumval",
+      "color": "#3f8f52"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0042",
+    "cat": "Maisons",
+    "subcat": "Symboles",
+    "q": "Symbole de la maison Brumval ?",
+    "a": "Le Grand Ours",
+    "meta": {
+      "house": "Brumval",
+      "color": "#3f8f52"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0043",
+    "cat": "Maisons",
+    "subcat": "Valeurs",
+    "q": "Valeurs de la maison Brumval ?",
+    "a": "Loyauté · Camaraderie · Courage",
+    "meta": {
+      "house": "Brumval",
+      "color": "#3f8f52"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0044",
+    "cat": "Maisons",
+    "subcat": "Histoire",
+    "q": "Histoire de la maison Brumval ?",
+    "a": "Fondée par Hector Brumval, la maison Brumval est celle du foyer et de la fidélité. Les Brumval croient que ce qu'on construit ensemble vaut plus que ce qu'on obtient seul.",
+    "meta": {
+      "house": "Brumval",
+      "color": "#3f8f52"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0045",
+    "cat": "Maisons",
+    "subcat": "Familles",
+    "q": "Famille liée à la maison Brumval ?",
+    "a": "Famille Hearthbane — \"Le feu accueille. Le feu dure.\"",
+    "meta": {
+      "house": "Brumval",
+      "color": "#3f8f52"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "maisons_0046",
+    "cat": "Maisons",
+    "subcat": "Familles",
+    "q": "Qui sont les Famille Hearthbane ?",
+    "a": "Gardienne des traditions du premier feu.",
+    "meta": {
+      "house": "Brumval",
+      "color": "#3f8f52"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0047",
+    "cat": "Elderwood",
+    "subcat": "Le château : lieux intérieurs",
+    "q": "La Bibliothèque (Savoir et archives)",
+    "a": "Manuels, grimoires anciens et sections interdites, gérés par un bibliothécaire et des fées des bois.",
+    "meta": {
+      "color": "#c9a227"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0048",
+    "cat": "Elderwood",
+    "subcat": "Le château : lieux intérieurs",
+    "q": "L'Infirmerie Grimshaw (Soins et convalescence)",
+    "a": "Nommée en hommage à Edith Grimshaw, ancienne médicomage d'Elderwood.",
+    "meta": {
+      "color": "#c0504f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0049",
+    "cat": "Elderwood",
+    "subcat": "Le château : lieux intérieurs",
+    "q": "Les Jardins (Botanique et repos)",
+    "a": "Modifiés par la proximité de la Source, lieu d'étude et de repos à l'ombre des grands arbres.",
+    "meta": {
+      "color": "#3f8f52"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0050",
+    "cat": "Elderwood",
+    "subcat": "Le château : lieux intérieurs",
+    "q": "La Grande Volière (Courrier et messagers)",
+    "a": "Tour ouverte où nichent chouettes, corbeaux et faucons messagers.",
+    "meta": {
+      "color": "#3f7fd8"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0051",
+    "cat": "Elderwood",
+    "subcat": "Le château : lieux intérieurs",
+    "q": "Le Pavillon des Compagnons (Ménagerie)",
+    "a": "Abrite les familiers des élèves, géré par le garde-chasse et le professeur de magizoologie.",
+    "meta": {
+      "color": "#8a6d3f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0052",
+    "cat": "Elderwood",
+    "subcat": "Le château : lieux intérieurs",
+    "q": "L'Atelier des Catalyseurs (Entretien des catalyseurs)",
+    "a": "Salle technique où les élèves apprennent à entretenir et réparer baguettes, sceptres et bâtons.",
+    "meta": {
+      "color": "#6b3fa0"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0053",
+    "cat": "Elderwood",
+    "subcat": "Le château : lieux intérieurs",
+    "q": "La Forge Runique (Runomancie et expériences)",
+    "a": "Profondément enfouie sous le château, réservée aux élèves avancés.",
+    "meta": {
+      "color": "#d05050"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0054",
+    "cat": "Elderwood",
+    "subcat": "Le château : lieux intérieurs",
+    "q": "Les Cuisines Hearthbane (Repas de l'école)",
+    "a": "Vastes et toujours en mouvement, situées sous la Grande Salle.",
+    "meta": {
+      "color": "#d8823f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0055",
+    "cat": "Elderwood",
+    "subcat": "Le château : lieux intérieurs",
+    "q": "La Grande Salle (Cœur du château)",
+    "a": "Seul lieu où toutes les maisons se retrouvent sous le même toit.",
+    "meta": {
+      "color": "#c9a227"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0056",
+    "cat": "Elderwood",
+    "subcat": "Le château : lieux intérieurs",
+    "q": "L'Observatoire des Hautes-Vues (Salle commune de Falcon)",
+    "a": "Nichée dans les plus hautes tours du château, accessible par un pont suspendu. Falcon y aurait conçu les premières bases du système d'apprentissage.",
+    "meta": {
+      "color": "#d8823f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0057",
+    "cat": "Elderwood",
+    "subcat": "Le château : lieux intérieurs",
+    "q": "La Veillée Bleue (Salle commune d’Aerwyn)",
+    "a": "Éclairée par un toit de verre incassable, elle expose les armures des anciens défenseurs du château.",
+    "meta": {
+      "color": "#3f7fd8"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0058",
+    "cat": "Elderwood",
+    "subcat": "Le château : lieux intérieurs",
+    "q": "Le Salon des Ombres (Salle commune de Venatrix)",
+    "a": "Nichée dans les sous-sols, ouverte sur les profondeurs du lac par deux grandes baies vitrées.",
+    "meta": {
+      "color": "#6b3fa0"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0059",
+    "cat": "Elderwood",
+    "subcat": "Le château : lieux intérieurs",
+    "q": "Le Grand Foyer (Salle commune de Brumval)",
+    "a": "La plus chaleureuse du château, réchauffée par un feu qui ne s'éteint jamais.",
+    "meta": {
+      "color": "#3f8f52"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0060",
+    "cat": "Elderwood",
+    "subcat": "L'île, hors du château",
+    "q": "Brûlebrume (Zone à haut risque)",
+    "a": "Une brume grise et corrosive, sanctuaire des Arachnides d'Éther.",
+    "meta": {
+      "color": "#d05050"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0061",
+    "cat": "Elderwood",
+    "subcat": "L'île, hors du château",
+    "q": "Le Terrain de Razorball (Sport et rivalités)",
+    "a": "Structure circulaire taillée dans la falaise, cœur battant de la vie extrascolaire.",
+    "meta": {
+      "color": "#3f7fd8"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0062",
+    "cat": "Elderwood",
+    "subcat": "L'île, hors du château",
+    "q": "Shedwood (Village voisin)",
+    "a": "Une statue y rend hommage à Maeve Storm.",
+    "meta": {
+      "color": "#8a6d3f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0063",
+    "cat": "Elderwood",
+    "subcat": "Le Ministère de la Magie",
+    "q": "Le Ministère de la Magie",
+    "a": "Institution centrale du monde magique britannique, le Ministère entretient des relations étroites avec Elderwood depuis sa fondation.\n\nAlistair Valemont, patriarche de la famille Valemont, y occupe aujourd'hui un poste élevé.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0064",
+    "cat": "Elderwood",
+    "subcat": "Les grandes familles",
+    "q": "Valemont (Maison Falcon, le savoir)",
+    "a": "Gardiens de la bibliothèque d'Elderwood depuis le XIVe siècle. Représentés par Ebenezer Valemont, attrapeur vedette de Falcon.",
+    "meta": {
+      "color": "#d8823f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0065",
+    "cat": "Elderwood",
+    "subcat": "Les grandes familles",
+    "q": "Hearthbane (Maison Brumval, le foyer)",
+    "a": "À l'origine de la Flamme Ouverte, grand festival bisannuel. Représentés par Petra Hearthbane, élève de 4e année.",
+    "meta": {
+      "color": "#3f8f52"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0066",
+    "cat": "Elderwood",
+    "subcat": "Les grandes familles",
+    "q": "Caerwyn (Maison Aerwyn, le serment)",
+    "a": "Présents dès la fondation, ils incarnent l'honneur et la protection. Représentés par Seraphine Caerwyn, capitaine de Razorball.",
+    "meta": {
+      "color": "#3f7fd8"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0067",
+    "cat": "Elderwood",
+    "subcat": "Les grandes familles",
+    "q": "Dravenholt (Maison Venatrix, l'influence)",
+    "a": "Famille discrète mais partout présente dans les cercles qui comptent. Représentés par Isolde Dravenholt, élève de 5e année.",
+    "meta": {
+      "color": "#6b3fa0"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0068",
+    "cat": "Elderwood",
+    "subcat": "Personnages illustres",
+    "q": "Arthurius Glenwood (Directeur d'Elderwood)",
+    "a": "Reconnu pour son autorité tranquille et son attachement constant à la sécurité de l'école.",
+    "meta": {
+      "color": "#c9a227"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0069",
+    "cat": "Elderwood",
+    "subcat": "Personnages illustres",
+    "q": "Edith Grimshaw (Ancienne médicomage)",
+    "a": "Donne son nom à l'infirmerie d'Elderwood.",
+    "meta": {
+      "color": "#c0504f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0070",
+    "cat": "Elderwood",
+    "subcat": "Personnages illustres",
+    "q": "Alistair Valemont (Haut placé du Ministère)",
+    "a": "Patriarche de la famille Valemont.",
+    "meta": {
+      "color": "#d8823f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "elderwood_0071",
+    "cat": "Elderwood",
+    "subcat": "Le Razorball",
+    "q": "Le Razorball",
+    "a": "Le Razorball, aussi appelé « Razeball » ou simplement « le Raze », est le sport international du monde magique. Il se joue à une centaine de mètres de hauteur, autant à Elderwood que dans les autres grandes écoles de sorcellerie à travers le monde.\n\nUne équipe compte six joueurs : un gardien et cinq joueurs de champ. Les Finishers occupent le rôle d'attaquants, chargés de conclure les actions ; d'autres postes se concentrent sur les passes et la création d'espace, et d'autres encore sur la défense. Le but du jeu est de marquer un maximum de points, sur deux mi-temps.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "chronologie_0072",
+    "cat": "Chronologie",
+    "subcat": "Chronologie d'Elderwood",
+    "q": "1298 — La découverte de la Source de Vehr",
+    "a": "Falcon découvre une source d'eau capable de révéler la couleur de l'âme des Résonants.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "chronologie_0073",
+    "cat": "Chronologie",
+    "subcat": "Chronologie d'Elderwood",
+    "q": "1300 — Fondation d'Elderwood",
+    "a": "Falcon, Aerwyn, Venatrix et Brumval fondent l'école.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "chronologie_0074",
+    "cat": "Chronologie",
+    "subcat": "Chronologie d'Elderwood",
+    "q": "1432 — La Sentence de Mireille",
+    "a": "Gwendolyn Caerwyn applique une sanction controversée, un choix qui divise encore la maison Aerwyn.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "chronologie_0075",
+    "cat": "Chronologie",
+    "subcat": "Chronologie d'Elderwood",
+    "q": "1463 — La Flamme Ouverte",
+    "a": "Elspeth Hearthbane organise le premier grand festival ouvert à toutes les entités magiques.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "chronologie_0076",
+    "cat": "Chronologie",
+    "subcat": "Chronologie d'Elderwood",
+    "q": "1863 — La codification du Razorball",
+    "a": "Corvinus Valemont établit le règlement moderne du sport.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "chronologie_0077",
+    "cat": "Chronologie",
+    "subcat": "Chronologie d'Elderwood",
+    "q": "1944-1945 — Le Grand Confinement",
+    "a": "Cassiopée Valemont rédige les décrets d'isolation du monde magique.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0078",
+    "cat": "Reglement",
+    "subcat": "Général",
+    "q": "Nom Roleplay",
+    "a": "Chaque joueur doit porter un nom Roleplay coherent avec l'univers du serveur.\nLe nom doit etre original, credible et approprie a l'univers.\n\nLes prenoms et noms reels, de celebrites, de personnages connus (ex. : \"Naruto Uzumaki\", \"Harry Potter\") sont strictement interdits.\n\nLes noms trolls, a connotation sexuelle, raciste, provocante ou humoristique hors-RP sont interdits.\n\nLe format Prenom Nom est obligatoire, sauf exception validee par un membre du staff.\n\nLe nom doit etre ecrit correctement, sans chiffres, caracteres speciaux ou majuscules abusives.",
+    "meta": {
+      "warning": false,
+      "color": "#dab950"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0079",
+    "cat": "Reglement",
+    "subcat": "Général",
+    "q": "Vocabulaire",
+    "a": "Le vocabulaire utilise doit etre adapte a l'univers du serveur.\nTout propos raciste, sexiste, homophobe, ou incitant a la haine, au harcelement ou a la discrimination est strictement interdit, en RP comme hors RP.\nLe respect des autres joueurs est obligatoire en toute circonstance.",
+    "meta": {
+      "warning": false,
+      "color": "#dab950"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0080",
+    "cat": "Reglement",
+    "subcat": "Général",
+    "q": "Sanctions",
+    "a": "Les infractions aux regles peuvent entrainer des avertissements, des kicks, des bans temporaires ou permanents, selon la gravite de l'infraction.\n\nRecours : Si vous estimez avoir ete sanctionne a tort, vous pouvez faire appel via les tickets, de maniere respectueuse.",
+    "meta": {
+      "warning": false,
+      "color": "#dab950"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0081",
+    "cat": "Reglement",
+    "subcat": "Général",
+    "q": "Langage HRP",
+    "a": "Il est interdit d'utiliser un langage hors roleplay (HRP) lors des interactions en jeu.\nTout message, dialogue ou comportement doit rester dans le contexte du personnage et de l'univers RP.\nLe non-respect de cette regle pourra entrainer des sanctions.",
+    "meta": {
+      "warning": false,
+      "color": "#dab950"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0082",
+    "cat": "Reglement",
+    "subcat": "Général",
+    "q": "Publicité",
+    "a": "Toute publicite, promotion ou invitation concernant un autre serveur RP est strictement interdite sur ce serveur.\nToute tentative de publicite pourra entrainer des sanctions immediates, allant du mute temporaire a l'exclusion.",
+    "meta": {
+      "warning": false,
+      "color": "#dab950"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0083",
+    "cat": "Reglement",
+    "subcat": "Général",
+    "q": "Soundboards / Voice mods",
+    "a": "L'utilisation de soundboards, voice mods ou tout autre outil modifiant la voix est interdite en vocal durant les sessions RP, afin de preserver l'immersion et eviter toute nuisance sonore ou confusion. Toute infraction pourra entrainer des sanctions.",
+    "meta": {
+      "warning": false,
+      "color": "#dab950"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0084",
+    "cat": "Reglement",
+    "subcat": "Général",
+    "q": "Insinuations HRP",
+    "a": "Toute insinuation, allusion ou message a caractere hors roleplay (HRP) durant les interactions en jeu est interdite.\nLes echanges doivent rester dans le cadre du personnage et de l'univers RP pour garantir une experience immersive et equitable pour tous.\nLe non-respect de cette regle pourra entrainer des sanctions.",
+    "meta": {
+      "warning": false,
+      "color": "#dab950"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0085",
+    "cat": "Reglement",
+    "subcat": "Général",
+    "q": "Arnaque / Boutique",
+    "a": "Toute arnaque dans la boutique (vente, echange ou achat frauduleux) ainsi que le mensonge ou la manipulation envers le staff dans le but d'obtenir de l'argent ou des avantages sont strictement interdits. Les contrevenants s'exposent a des sanctions severes, pouvant aller jusqu'au bannissement definitif.",
+    "meta": {
+      "warning": false,
+      "color": "#dab950"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0086",
+    "cat": "Reglement",
+    "subcat": "Général",
+    "q": "Partage de compte",
+    "a": "Le partage de compte entre plusieurs personnes est interdit. Chaque joueur doit utiliser son propre compte personnel.\nLe partage de compte peut entrainer des sanctions, y compris la suspension ou l'exclusion du serveur.",
+    "meta": {
+      "warning": false,
+      "color": "#dab950"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0087",
+    "cat": "Reglement",
+    "subcat": "Général",
+    "q": "Contestation",
+    "a": "Toute contestation de sanction doit imperativement se faire via un ticket sur Discord et non par message prive (MP) aux membres du staff.\nLe spam ou harcelement en MP envers un membre du staff peut entrainer un bannissement immediat.",
+    "meta": {
+      "warning": false,
+      "color": "#dab950"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0088",
+    "cat": "Reglement",
+    "subcat": "Général",
+    "q": "Déconnexion en scène",
+    "a": "Il est strictement interdit de se deconnecter volontairement en pleine scene RP pour fuir une situation ou eviter ses consequences.\nToute deconnexion non justifiee pourra etre sanctionnee, sauf cas de crash ou probleme technique reel, a signaler immediatement via un ticket Discord.",
+    "meta": {
+      "warning": false,
+      "color": "#dab950"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0089",
+    "cat": "Reglement",
+    "subcat": "Général",
+    "q": "Mention staff",
+    "a": "Il est interdit de mentionner un membre du staff sans raison valable. Pour toute demande ou probleme, merci d'utiliser le systeme de tickets.\nLes mentions abusives ou repetees peuvent entrainer des sanctions, y compris un mute temporaire ou un bannissement du Discord.",
+    "meta": {
+      "warning": false,
+      "color": "#dab950"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0090",
+    "cat": "Reglement",
+    "subcat": "Général",
+    "q": "Use Bug",
+    "a": "L'exploitation volontaire d'un bug ou d'un dysfonctionnement du serveur pour obtenir un avantage est strictement interdite.\nTout joueur surpris en train d'user bug sera sanctionne, pouvant aller jusqu'au bannissement selon la gravite des faits.\nTout bug decouvert doit etre immediatement signale au staff via un ticket.",
+    "meta": {
+      "warning": false,
+      "color": "#dab950"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0091",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Metagaming",
+    "a": "Le metagaming est interdit.\nUtiliser des informations obtenues hors RP (vocal, chat, streams, etc.) pour avantager ton personnage en RP est strictement sanctionne.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0092",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Freekill",
+    "a": "Le freekill est interdit.\nTuer un joueur sans raison RP valable ou sans contexte est sanctionne. Chaque action violente doit etre justifiee en RP.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0093",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Revenge Kill",
+    "a": "Le revenge kill est interdit.\nTu ne peux pas revenir te venger apres la mort de ton personnage. Une mort RP implique une perte de memoire des evenements ayant mene a celle-ci.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0094",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Free Attack",
+    "a": "Le free attack est interdit.\nAttaquer un joueur sans raison RP valable ou sans interaction prealable est sanctionne. Toute agression doit etre logique, justifiee et jouee en RP.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0095",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Fear RP",
+    "a": "Le Fear RP est obligatoire.\nTon personnage n'est pas invincible : il doit reagir avec realisme et prudence face a une menace serieuse (otage, torture, surnombre, etc.).\nIgnorer le danger, provoquer volontairement en situation de faiblesse ou foncer sans reflechir est considere comme du No-Fear.\nExemples : Se moquer ou attaquer quelqu'un alors que tu n'es pas en position de le faire. / Refuser toute forme de peur face a un superieur ou un adversaire bien plus puissant. / Tenter de fuir sans logique alors que ton personnage est maitrise ou gravement blesse.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0096",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Bunny Hopping",
+    "a": "Le bunny hopping (sauter sans cesse pour esquiver ou exploiter le systeme de deplacement) est interdit s'il donne un avantage deloyal en combat ou en fuite.\nTon personnage doit agir de facon realiste : sauter continuellement de facon irrealiste nuit a l'immersion et a l'equilibre du jeu.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0097",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Cheat / Use bug",
+    "a": "L'utilisation de cheats, scripts, mods non autorises ou l'exploitation de bugs/glitches pour obtenir un avantage est strictement interdite.\nToute triche detectee entraine des sanctions immediates, pouvant aller jusqu'au ban definitif.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0098",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Mass RP",
+    "a": "Le Mass RP consiste a prendre en compte la presence passive des PNJ/civils dans les lieux publics.\nLe Mass RP implique que tu dois adapter ton comportement en fonction de l'environnement et des personnes presentes.\nExemples : Ne pas entrer dans le bureau du directeur sans y etre invite.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0099",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Pain RP",
+    "a": "Le Pain RP est obligatoire pour garantir le realisme.\nTon personnage doit reagir de maniere credible a la douleur : grimacer, gemir, ralentir ses mouvements, montrer des signes de souffrance.\nIgnorer ou minimiser la douleur excessive nuit a l'immersion et peut etre sanctionne.\nExemples : Continuer a courir normalement apres une blessure grave. / Refuser de montrer des reactions a des attaques ou blessures visibles.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0100",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "StreamHack",
+    "a": "L'utilisation d'informations obtenues en regardant le stream d'un autre joueur pour en tirer un avantage en jeu (stream hack) est strictement interdite.\nTout joueur pris en train de profiter de ce type d'informations subira des sanctions severes, pouvant aller jusqu'au ban permanent.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0101",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Force RP",
+    "a": "Le Force RP est interdit.\nTu ne dois pas imposer une action, une interaction ou une consequence RP a un autre joueur sans son accord prealable.\nLe RP se fait toujours dans le respect et le consentement mutuel.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0102",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Power Gaming",
+    "a": "Le Powergaming est interdit.\nLe Powergaming consiste a user de la physique du jeu pour faire des choses irrealisables en temps normal dans notre univers.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0103",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Safe RP",
+    "a": "Le Safe RP (jouer systematiquement pour proteger son personnage ou ses biens sans prendre de risques en toutes circonstances) est interdit.\nFuir ou se proteger de facon irrealiste pour eviter toute consequence RP nuit a l'immersion et a l'equilibre du jeu.\nTon personnage doit accepter les risques lies a ses choix et situations RP.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0104",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Win RP",
+    "a": "Le Win RP est interdit.\nIl consiste a faire en sorte que son personnage reussisse toujours sans obstacle, sans laisser de place a l'echec ou aux consequences.\nLe RP doit etre equilibre, avec des victoires comme des defaites credibles.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0105",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Logique RP",
+    "a": "Le personnage doit rester coherent avec l'univers et le serveur.\nTu ne peux pas changer soudainement son caractere, son histoire ou son apparence physique (ex : chirurgie esthetique) sans une justification RP credible et progressive.\nLes changements doivent etre logiques et expliques en RP pour preserver l'immersion.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0106",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "NLR (New Life Rule)",
+    "a": "Apres la mort de ton personnage, tu dois oublier tout ce qui s'est passe avant cette mort dans un delai de 15 minutes (evenements, rencontres, positions, conflits).\nLe retour sur la zone de ta mort est interdit pendant 20 minutes minimum, sauf accord RP ou validation du staff.\nCette regle evite le metagaming et preserve le realisme.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0107",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "RPK Flash",
+    "a": "Le RPK Flash (tuer un joueur immediatement apres l'avoir croise, sans aucune interaction ou contexte RP) est strictement interdit.\nChaque meurtre doit etre justifie par un scenario RP coherent, une interaction prealable, et valide par le staff avant d'etre effectue.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0108",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "AFK Farm",
+    "a": "Le AFK Farm (faire progresser son personnage ou gagner des ressources en etant inactif) est interdit.\nToute exploitation de systemes en restant AFK nuit a l'equilibre du serveur et a l'experience de jeu des autres.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0109",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Roll",
+    "a": "Chaque /roll pour une meme action doit etre espace d'une minute (sauf en cas d'echec critique).\n\nVotre degre de reussite est defini comme suit :\n- De 0 a 15 : Echec critique\n- De 15 a 50 : Echec\n- De 50 a 85 : Reussite\n- De 85 a 100 : Reussite critique\n\nLes rolls doivent etre un element important dans votre RP passif.\nExemples : Vous tentez de voler les cles de quelqu'un. Si vous ratez votre premier /roll, vous devrez attendre une minute avant de reessayer.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0110",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "FairPlay",
+    "a": "Chaque joueur s'engage a respecter les autres participants, a jouer de maniere honnete et a ne pas chercher a tricher ou a profiter d'avantages injustes. Le respect, la courtoisie et la bonne humeur sont essentiels pour garantir une experience agreable et equitable pour tous. Toute attitude contraire au fairplay pourra entrainer des sanctions.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0111",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "Double Voc",
+    "a": "Il est interdit d'etre connecte en vocal Discord tout en etant en jeu en RP, afin de preserver l'immersion et d'eviter les echanges d'informations (HRP) qui pourraient desavantager les autres joueurs. Le non-respect de cette regle pourra entrainer des sanctions.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0112",
+    "cat": "Reglement",
+    "subcat": "Lexique RP",
+    "q": "ERP à Caractère Sexuel",
+    "a": "Les scenes a caractere sexuel sont interdites. Cependant, les romances entre personnages sont autorisees si elles restent dans des limites respectueuses du roleplay.",
+    "meta": {
+      "warning": false,
+      "color": "#3b82f6"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0113",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "Nom de famille",
+    "a": "Pour porter un nom d'une famille notoire dans le lore d'ElderWood, il vous faudra attendre une naissance.",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0114",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "Vol / Arnaque",
+    "a": "Il est possible d'arnaquer quelqu'un d'une somme a la hauteur de 2500 pieces d'or.",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0115",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "Potions",
+    "a": "Les potions ont des effets reels sur votre personnage.\nExemple : amnesie -> vous oubliez reellement ce que vous devez oublier.\n\nQuand un message d'effet s'affiche, vous devez le jouer.\nInterdit d'ignorer ou minimiser les effets.",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0116",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "\"Coma\"",
+    "a": "Ne faites pas tomber quelqu'un juste pour lui faire perdre la memoire.\nLe coma doit etre coherent (blessure grave, choc violent).",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0117",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "RP \"Mage noir\"",
+    "a": "Le RP mage noir est sur demande via ticket.\n\nSi vous etes eleve : autorisation staff obligatoire pour entrer dans un arc sombre.\n\nSi vous etes capture/accuse -> prison a vie + RPK (mort definitive) sauf decision du staff.\nPas de magie noire \"gratuite\".",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0118",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "Lycanthropie",
+    "a": "Interdit de forcer quelqu'un a vous mordre ou transformer.\nToute infection se fait sous controle du staff.\n\nLe RP lycanthrope est dangereux : perte de controle, exposition, risque de mort.\n\nSi vous vous faites surprendre -> consequences RP reelles.",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0119",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "Lettre RP",
+    "a": "Les lettres doivent etre jouees en RP via le systeme en jeu.\n\nLes lettres sur Discord sont interdites (metagaming).\n\nUne lettre en RP doit etre logique (temps d'acheminement, lieu, contexte).",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0120",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "Incantation des sorts",
+    "a": "Incantation obligatoire avant chaque sort (verbale).\nPas de sort invente, les incantations seront les vraies formules de notre lore.",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0121",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "Cohérence du personnage",
+    "a": "Votre personnage doit etre logique, coherent et incarne.\nSon age, son passe, ses competences et ses reactions doivent suivre une continuite.\nPas de personnage \"invincible\", \"omniscient\", ou \"super-heros\".\nLes connaissances et pouvoirs doivent etre gagnes en RP, pas donnes HRP.",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0122",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "Rec",
+    "a": "Il est important de rec vos scenes. Au cas ou vous etes appele en BDA, vous pourrez vous defendre.",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0123",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "Bully RP",
+    "a": "Autorise uniquement si mutuel et coherent avec l'histoire.\n\nInterdit :\n- Abuser du harcelement RP.\n- Empecher quelqu'un de jouer.\n- Justifier du HRP en disant \"c'est du RP\".",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0124",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "Main character",
+    "a": "Vous pouvez etre au centre d'un arc, mais :\n\n- Ne volez pas toutes les scenes,\n- N'interrompez pas le RP des autres,\n- Ne forcez pas les joueurs a tourner autour de vous,\n- Ne vous donnez pas des roles/propheties/pouvoirs sans autorisation.\n\nDes consequences pourront etre appliquees par le staff.",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0125",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "Respect des conséquences",
+    "a": "Toute action RP entraine une consequence RP.\n\nSi vous laissez des indices, si vous vous exposez, si vous etes imprudent -> assumez.\n\nLe staff n'est pas la pour vous proteger de vos choix RP.",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0126",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "Autorité du personnel",
+    "a": "Directeur, professeurs, surveillants sont des figures d'autorite RP.\n\nLe respect RP est obligatoire (fearRP, politesse selon votre personnage, coherence).",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0127",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "Temporalité",
+    "a": "Dans notre lore, ainsi que notre univers :\n2 semaines IRL = 1 an de scolarite.\n\nAinsi donc, votre personnage sera age de 11 ans, le jour de sa rentree a ElderWood (Pas plus, pas moins).",
+    "meta": {
+      "warning": false,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0128",
+    "cat": "Reglement",
+    "subcat": "RolePlay",
+    "q": "Changement de maison",
+    "a": "Le changement de maison est interdit, ainsi que le wipe/rpk force pour pouvoir refaire un personnage et changer de maison.\nSi vous etes decouvert, vous serez banni definitivement.",
+    "meta": {
+      "warning": true,
+      "color": "#22c55e"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0129",
+    "cat": "Reglement",
+    "subcat": "RPK On",
+    "q": "Forêt interdite / Cathédrale / Grotte",
+    "a": "La foret est sous risque RPK, cela ne veut pas dire que si vous croisez quelqu'un, vous pourrez le tuer.\nPrivilegiez le RP avant tout.",
+    "meta": {
+      "warning": true,
+      "color": "#ef4444"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0130",
+    "cat": "Reglement",
+    "subcat": "RPK On",
+    "q": "Bureau du directeur",
+    "a": "A moins que vous n'ayez ete invite, RPK possible et sans porte de sortie.",
+    "meta": {
+      "warning": true,
+      "color": "#ef4444"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "reglement_0131",
+    "cat": "Reglement",
+    "subcat": "Famille",
+    "q": "Effectif des familles",
+    "a": "Pour les 4 familles notoires, le nombre de slots est limite a :\n- 7 slots : eleves\n- 3 slots : \"autre\"\n\nFamille acceptee sous dossier, le nombre de slots est limite a :\n- 4 slots : eleves\n- 1 slot : \"autre\"",
+    "meta": {
+      "warning": false,
+      "color": "#f59e0b"
+    },
+    "seen": true,
+    "addedAt": "2026-09-04"
+  },
+  {
+    "id": "glossaire_0132",
+    "cat": "Glossaire",
+    "subcat": "Termes",
+    "q": "Dissonant ( résonant )",
+    "a": "Né de parents Sans-Flux et présentant les deux prédispositions de la Résonance.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "glossaire_0133",
+    "cat": "Glossaire",
+    "subcat": "Termes",
+    "q": "Razorball",
+    "a": "Sport international sorcier, aussi appelé « le Raze ».",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "elderwood_0134",
+    "cat": "Elderwood",
+    "subcat": "L’AMRU - Autorités Magiques du Royaume-Uni",
+    "q": "L’AMRU - Autorités Magiques du Royaume-Uni",
+    "a": "L’AMRU, ou Autorités Magiques du Royaume-Uni, constitue l’autorité centrale chargée de l’administration de la société magique du Royaume-Uni. Elle veille à l’application des lois, à la sécurité de la population, au fonctionnement des institutions et à la régulation des activités susceptibles d’affecter l’équilibre du monde magique.\nSon autorité s’étend à l’ensemble des individus, organisations et communautés relevant de sa juridiction, ainsi qu’aux pratiques magiques, créatures, artefacts et activités soumises à réglementation.\nElderwood occupe une place particulière dans cet équilibre. Principale institution de formation magique du Royaume-Uni, l’école entretient depuis des siècles des relations étroites avec les autorités britanniques. Si elle conserve sa propre organisation et une importante autonomie dans son fonctionnement, elle demeure un interlocuteur essentiel de l’AMRU, notamment dans la formation des nouvelles générations et face aux enjeux majeurs touchant la société magique.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "elderwood_0135",
+    "cat": "Elderwood",
+    "subcat": "Les familles notables",
+    "q": "Belladorn (Alchimie, expérimentation et indépendance)",
+    "a": "Famille d’alchimistes aussi brillante qu’imprévisible, les Belladorn ont bâti leur réputation sur l’expérimentation, l’herboristerie et leur refus des limites imposées par les institutions. Depuis leur domaine dissimulé, la Chaudronnerie, ils poursuivent des recherches parfois dangereuses où la découverte passe souvent avant la prudence. À Elderwood, leurs membres sont traditionnellement proches des maisons Falcon et Venatrix.",
+    "meta": {
+      "color": "#034009"
+    },
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "elderwood_0136",
+    "cat": "Elderwood",
+    "subcat": "Les familles notables",
+    "q": "Ravenscroft (Runomancie, précision et préparation)",
+    "a": "Ancienne lignée britannique spécialisée dans la Runomancie, les Ravenscroft sont réputés pour leur maîtrise des structures runiques complexes et leur méthode particulièrement rigoureuse. Leur philosophie repose sur une idée simple : comprendre avant d’intervenir, préparer avant d’agir. Experts des partitions instables et des dangers liés aux runes, ils privilégient toujours la précision à la précipitation.",
+    "meta": {
+      "color": "#ad0221"
+    },
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "elderwood_0137",
+    "cat": "Elderwood",
+    "subcat": "Les familles notables",
+    "q": "Glenhart (Créatures, exploration et connaissance du terrain)",
+    "a": "Grande famille spécialisée dans l’étude des créatures magiques, les Glenhart ont bâti leur savoir au contact direct du terrain. Deux traditions coexistent dans la lignée : les Compagnons, qui privilégient le soin, la confiance et l’observation rapprochée, et les Arpenteurs, qui parcourent les territoires les plus sauvages afin d’étudier les créatures dans leur milieu naturel. Malgré leurs méthodes différentes, tous partagent la même conviction : une créature ne se comprend véritablement qu’en allant à sa rencontre.",
+    "meta": {
+      "color": "#c9a24b"
+    },
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "elderwood_0138",
+    "cat": "Elderwood",
+    "subcat": "Personnages illustres",
+    "q": "Edith Grimshaw (Ancienne médicomage d'Elderwood)",
+    "a": "Lorsque plusieurs élèves furent touchés par une maladie inconnue qui affaiblissait progressivement leur Résonance, Edith Grimshaw tenta une méthode particulièrement risquée : relier temporairement leur magie à la sienne pour absorber une partie de leur fatigue et de leur douleur. Les élèves survécurent, mais Edith ne retrouva jamais entièrement l'usage de sa propre magie. L'infirmerie d'Elderwood porte aujourd'hui son nom.",
+    "meta": {
+      "color": "#c0504f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "elderwood_0139",
+    "cat": "Elderwood",
+    "subcat": "Personnages illustres",
+    "q": "Alistair Valemont (Haut placé de l'AMRU)",
+    "a": "Patriarche de la famille Valemont, Alistair est également l'une des figures influentes de l'AMRU. Il défend depuis longtemps une application stricte du Secret magique et considère sa préservation comme l'une des principales responsabilités des institutions sorcières. Son nom est ainsi régulièrement associé aux décisions les plus conservatrices de l'autorité magique britannique.",
+    "meta": {
+      "color": "#d8823f"
+    },
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "elderwood_0140",
+    "cat": "Elderwood",
+    "subcat": "Personnages illustres",
+    "q": "Cadoc Caerwyn (Celui qui tint la ligne)",
+    "a": "En 1958, Cadoc Caerwyn et trois autres Aerwyn furent envoyés dans la baie de Lituya après l'apparition de Résonances anormales. Lorsque le réveil d'un Léviathan provoqua un cataclysme, l'ordre d'évacuation fut donné, mais les quatre sorciers refusèrent d'abandonner la communauté présente sur place. Ils maintinrent une barrière de protection pendant trois jours et trois nuits, jusqu'à ce que le danger soit écarté. Cadoc y perdit un bras, mais ne céda rien de ce qu'il estimait juste.",
+    "meta": {
+      "color": "#3f7fd8"
+    },
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "elderwood_0141",
+    "cat": "Elderwood",
+    "subcat": "Personnages illustres",
+    "q": "Bénédicte Hearthbane (Le Grand Incendie de Londres)",
+    "a": "Lors du Grand Incendie de Londres de 1666, Bénédicte Hearthbane participa avec plusieurs Brumval au détournement d'un ancien réseau runique sous la ville à l'origine de l'incendie. Celui-ci permit d'évacuer les familles résonantes prises au piège sans révéler leur existence aux Sans-Flux. Ce dispositif inspira plus tard la création du Tunnel du Faux Pas.",
+    "meta": {
+      "color": "#3f8f52"
+    },
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "elderwood_0142",
+    "cat": "Elderwood",
+    "subcat": "Personnages illustres",
+    "q": "Edgar Ravenscroft (Fondateur de la Méthode Ravenscroft)",
+    "a": "Au XVe siècle, Edgar Ravenscroft fut appelé dans un refuge dont l'accumulation de protections runiques avait fini par engendrer un immense Échoïde. Plutôt que de tenter de détruire brutalement la structure, il étudia chacune de ses connexions et les neutralisa progressivement, section après section. Cette intervention devint la base de la Méthode Ravenscroft, encore utilisée dans l'étude des systèmes runiques instables.",
+    "meta": {
+      "color": "#6b3fa0"
+    },
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "elderwood_0143",
+    "cat": "Elderwood",
+    "subcat": "Personnages illustres",
+    "q": "Rowena Glenhart (L'Expédition de Shedwood)",
+    "a": "En 1890, Rowena Glenhart mena une expédition de quarante jours dans la forêt de Shedwood afin d'en étudier la faune magique. Le groupe revint avec l'une des documentations les plus importantes jamais réalisées sur les créatures de la région, mais deux membres de l'expédition disparurent sans laisser de corps ni de matériel. Rowena ne révéla jamais publiquement ce qui s'était produit durant les derniers jours du voyage.",
+    "meta": {
+      "color": "#aba03c"
+    },
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "elderwood_0144",
+    "cat": "Elderwood",
+    "subcat": "Le Razeball",
+    "q": "Le Razeball",
+    "a": "Le Razeball, originellement appelé « Razorball » et souvent simplement surnommé « le Raze », est l’un des sports les plus populaires du monde magique. Pratiqué à près d’une centaine de mètres de hauteur, il oppose deux équipes lancées à grande vitesse autour d’une sphère métallique qu’elles doivent envoyer dans le Cœur adverse.\nLongtemps pratiqué sous la forme de jeux de balais brutaux et sans règles communes, le Razeball moderne naît véritablement à Elderwood en 1863, lorsque Corvinus Valemont en rédige le premier règlement et met au point le dispositif permettant de stabiliser les Cœurs utilisés lors des rencontres. Le sport se diffuse rapidement au-delà du Royaume-Uni et donne naissance, en 1896, à la première Coupe du Monde.\nUne équipe aligne six joueurs : un Gardien et cinq joueurs de champ dont la composition varie selon la stratégie adoptée. Les Finishers sont spécialisés dans la conclusion des actions et les tirs à longue distance ; les Playmakers organisent le jeu et créent les ouvertures ; les Enforcers imposent leur présence physique ; tandis que les Lights Out se spécialisent dans l’interception et la destruction du jeu adverse. Le Gardien reste quant à lui la dernière ligne de défense devant le Cœur.\nLe Razeball est aujourd’hui pratiqué à tous les niveaux du monde magique. Des championnats professionnels existent à travers le monde, tandis que les meilleures sélections nationales se retrouvent tous les quatre ans lors de la Coupe du Monde de Razeball, considérée comme le sommet de la discipline. À Elderwood, les quatre maisons s’affrontent également tout au long de l’année dans un championnat particulièrement suivi, jusqu’à la grande finale organisée à la fin de l’année scolaire.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "entites_magiques_0145",
+    "cat": "Entités magiques",
+    "subcat": "Créatures Magiques",
+    "q": "Brisecerat",
+    "a": "Le Brisecerat est une créature côtière discrète et farouche, vivant principalement dans les zones rocheuses, les plages et les abords de certains lacs. Lent mais difficile à repérer, il se fond naturellement dans son environnement et préfère fuir plutôt que se défendre. Son dos est recouvert de cératine, une matière souple et résistante recherchée pour la fabrication d'équipements de protection accessibles et durables.",
+    "meta": {
+      "color": "#8ccc39"
+    },
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "entites_magiques_0146",
+    "cat": "Entités magiques",
+    "subcat": "Créatures Magiques",
+    "q": "Scalvignus",
+    "a": "Le Scalvignus est une créature forestière discrète et paisible, reconnaissable à sa silhouette de cerf recouverte d’écailles et à ses larges bois ramifiés. Il évite naturellement les humains et ne se défend qu’en cas de menace. À la fin de l’hiver, ses bois tombent naturellement et sont parfois récupérés pour leurs propriétés magiques, particulièrement appréciées dans la confection de certains catalyseurs.",
+    "meta": {
+      "color": "#c9a24b"
+    },
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "entites_magiques_0147",
+    "cat": "Entités magiques",
+    "subcat": "Créatures Magiques",
+    "q": "Échoïde",
+    "a": "L’Échoïde est une créature née d’une ancienne structure runique ayant conservé une part du savoir, des souvenirs et de la personnalité de son créateur. Généralement lié à son lieu d’origine, il peut continuer à protéger, enseigner ou accomplir la fonction pour laquelle la structure avait été conçue. Avec le temps et la dégradation des runes, sa mémoire peut se fragmenter, le rendant confus, obsessionnel ou dangereux. Certains finissent même par croire qu’ils sont réellement le runomancien dont ils portent l’empreinte. Il reste tout de même une créature dangereuse et imprévisible.",
+    "meta": {
+      "color": "#64d4ed"
+    },
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "entites_magiques_0148",
+    "cat": "Entités magiques",
+    "subcat": "Créatures Magiques",
+    "q": "Ornicabal",
+    "a": "L’Ornicabal est une créature semi-aquatique vivant principalement dans les forêts riveraines. Sociable, joueuse et capable d’être apprivoisée, elle peut cependant devenir brusquement agressive lorsqu’elle défend son territoire ou sa nourriture. Sa peau, couverte de fines écailles hydrophobes, la protège de l’humidité et lui permet d’évoluer facilement entre terre et eau. Ses écailles, perdues naturellement au cours de sa croissance, sont recherchées pour la fabrication d’équipements imperméables et certains usages liés à la magie de l’eau.",
+    "meta": {
+      "color": "#250a40"
+    },
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "magie_0149",
+    "cat": "Magie",
+    "subcat": "Statuts",
+    "q": "Qui sont Les Résonants ?",
+    "a": "Ceux que l'on appelle dans le langage courant des sorciers. Ils possèdent une Résonance assez importante et claire pour répondre à l'Écho et faire naître un Flux exploitable. Cela leur permet d'apprendre la magie, de canaliser leur Flux à travers une baguette, un sceptre ou tout autre catalyseur, de pratiquer des sorts et d'utiliser des objets enchantés. Être Résonant implique l'accès à une éducation magique, à des droits, des devoirs, et une responsabilité : celle de ne pas exposer la magie aux Sans-Flux.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "magie_0150",
+    "cat": "Magie",
+    "subcat": "Statuts",
+    "q": "Qui sont Les Sans-Flux ?",
+    "a": "Ils représentent la majorité de l'humanité. Ils possèdent bien une Résonance, comme toute chose existante, mais elle est bien trop faible : ils ne perçoivent pas la magie, ne produisent pas de Flux suffisant et ne peuvent pas le manipuler. Cela ne signifie pas qu'ils sont totalement séparés du monde magique : ils peuvent apercevoir certaines choses, être touchés par ses effets, ou traverser le Voile si celui-ci est affaibli, devenant alors témoins de phénomènes qu'ils ne s'expliquent pas. Leur esprit tend naturellement à rationaliser ce qu'il ne comprend pas et à se tourner vers la science.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-05"
+  },
+  {
+    "id": "magie_0151",
+    "cat": "Magie",
+    "subcat": "Statuts",
+    "q": "Qui sont Les Dissonants ?",
+    "a": "Des cas particuliers. Ils naissent dans le monde Sans-Flux, souvent de parents Sans-Flux, mais héritent d'une prédisposition génétique rare liée à la Résonance. Rappel : la Résonance repose sur deux prédispositions, celle qui permet de ressentir l'Écho et celle qui permet de le contrôler. La plupart des Dissonants n'en portent qu'une seule : ceux-là sont connus dans le monde humain comme des génies, des prodiges, des voyants ou des médiums. Les cas les plus rares possèdent les deux à la fois et deviennent alors de véritables résonants nés au sein d'une lignée Sans-Flux, repérés très jeunes par les instances magiques de chaque pays.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-05"
+  }
+]
