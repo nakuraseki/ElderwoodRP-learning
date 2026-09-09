@@ -2572,5 +2572,31 @@
     ],
     "expl": "La Résonance repose sur deux prédispositions génétiques. Les Dissonants classiques n'en portent qu'une — ils deviennent voyants ou prodiges. Ceux qui ont les deux deviennent de vrais sorciers repérés très jeunes.",
     "addedAt": "2026-09-05"
+  },
+  {
+    "id": "q_0199",
+    "cat": "Entités magiques",
+    "q": "Que dit-on des Dragons dans les légendes du monde magique ?",
+    "correct": "Des êtres immenses, conscients, avides et orgueilleux dont la soif de domination aurait ravagé des régions entières",
+    "wrongs": [
+      "Des créatures pacifiques chassées par les sorciers au fil des siècles",
+      "Des Échoïdes géants nés de structures runiques particulièrement anciennes",
+      "Des créatures semi-aquatiques aujourd'hui domestiquées par certaines familles"
+    ],
+    "expl": "Les Dragons appartiennent davantage à la légende qu'au monde connu. Personne ne peut affirmer avec certitude qu'ils existent encore.",
+    "addedAt": "2026-09-09"
+  },
+  {
+    "id": "q_0200",
+    "cat": "Entités magiques",
+    "q": "Quelles créatures sont considérées comme de lointains vestiges des Dragons ?",
+    "correct": "Les wyvernes et les wyrms",
+    "wrongs": [
+      "Les Échoïdes et les Ornicabals",
+      "Les Scalvignii et les Brisecerats",
+      "Les Arachnides d'Éther et les Léviathans"
+    ],
+    "expl": "Certaines lignées anciennes comme les wyvernes ou les wyrms sont parfois vues comme des vestiges de ces créatures légendaires, mais rien ne ressemble vraiment aux Dragons des récits.",
+    "addedAt": "2026-09-09"
   }
 ]

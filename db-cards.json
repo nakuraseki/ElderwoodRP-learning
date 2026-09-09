@@ -1826,5 +1826,17 @@
     "meta": {},
     "seen": true,
     "addedAt": "2026-09-05"
+  },
+  {
+    "id": "entites_magiques_0152",
+    "cat": "Entités magiques",
+    "subcat": "Créatures Magiques",
+    "q": "Dragon",
+    "a": "Les Dragons appartiennent aujourd’hui davantage à la légende qu’au monde connu. Les récits anciens parlent d’êtres immenses, conscients, avides et profondément orgueilleux, dont la soif de domination aurait ravagé des régions entières. Il subsiste encore certaines lignées anciennes, comme les wyvernes ou les wyrms, parfois considérées comme de lointains vestiges de ces créatures. Mais rien de connu aujourd’hui ne ressemble réellement aux Dragons décrits dans les légendes, et personne ne peut affirmer avec certitude qu’ils existent encore.",
+    "meta": {
+      "color": " #820101"
+    },
+    "seen": true,
+    "addedAt": "2026-09-09"
   }
 ]
