@@ -7,7 +7,7 @@
     "a": "Falcon découvre une source d'eau capable de révéler la couleur du flux des Résonants.",
     "meta": {},
     "hash": "1f58c27c",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -19,7 +19,7 @@
     "a": "Falcon, Aerwyn, Venatrix et Brumval fondent l'école.",
     "meta": {},
     "hash": "9b4c82ad",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -31,7 +31,7 @@
     "a": "Gwendolyn Caerwyn applique une sanction controversée, un choix qui divise encore la maison Aerwyn.",
     "meta": {},
     "hash": "d507ae56",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -43,7 +43,7 @@
     "a": "Elspeth Hearthbane organise le premier grand festival ouvert à toutes les entités magiques.",
     "meta": {},
     "hash": "c1a8859f",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -55,7 +55,7 @@
     "a": "Corvinus Valemont établit le règlement moderne du sport.",
     "meta": {},
     "hash": "c1708f0c",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -67,7 +67,7 @@
     "a": "Cassiopée Valemont rédige les décrets d'isolation du monde magique.",
     "meta": {},
     "hash": "29f1a750",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -79,7 +79,7 @@
     "a": "L’Ascendance lance une offensive contre l’AMRU dans le but de prendre le contrôle des institutions du monde magique. La tentative de coup d’État échoue, mais les affrontements coûtent la vie au Ministre de l’AMRU, assassiné par l’Ascendance. Cet échec ne met toutefois pas fin au mouvement et ouvre une période d’instabilité politique majeure. L'AMRU officialise L’Ascendance comme un groupe extrémiste dangereux",
     "meta": {},
     "hash": "63057b60",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -91,7 +91,7 @@
     "a": "Arthurius Glenwood trouve la mort lors d’une embuscade tendue par l’Ascendance sur une île proche d’Elderwood. Plusieurs rumeurs affirment qu’il appartenait au Cercle du Frêne, une organisation secrète opposée à l’Ascendance. À l’issue des affrontements, Adam Wrightmoore, dirigeant présumé de l’Ascendance, est capturé puis incarcéré au centre pénitentiaire de Briseflux.",
     "meta": {},
     "hash": "233f9fb8",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -103,7 +103,7 @@
     "a": "Le Voile protégeant Elderwood cède momentanément. Pendant quelques minutes, l’île devient visible depuis le monde Sans-Flux. Des plaisanciers naviguant au large aperçoivent les lieux et les filment avant leur disparition. Plusieurs vidéos circulent depuis, alimentant interrogations et théories sur l’existence de l’île.",
     "meta": {},
     "hash": "5b7d34b3",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -115,7 +115,7 @@
     "a": "Les récents événements accentuent les tensions entre le monde magique et celui des Sans-Flux. En réponse, les autorités renforcent les mesures héritées du Grand Confinement et imposent davantage de discrétion et d’isolement aux Résonants afin de préserver le secret du monde magique. Ces contraintes pèsent de plus en plus lourdement sur une partie de la population.\n\nDans le même temps, le nombre de Dissonants augmente : plus spécifiquement de Résonants nés au sein de familles entièrement Sans-Flux. Cette évolution nourrit de nouvelles inquiétudes et, dans l’opinion publique, certains commencent à se montrer plus réceptifs aux idées défendues par l’Ascendance, notamment à son rejet de l’isolement imposé au monde magique.",
     "meta": {},
     "hash": "6569a21c",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -127,7 +127,7 @@
     "a": "En l'an 1298, Falcon découvrit sur une île sans nom, protégée par un voile magique, une source d'eau capable de révéler la couleur de l'âme de quiconque s'y reflète : la Source de Vehr, plus simplement appelée la Source.\n\nIl identifia quatre couleurs majeures : le bleu, le vert, le violet, l'orange. Il chercha ensuite trois personnes dont l'âme correspondrait aux couleurs qu'il n'incarnait pas lui-même : Aerwyn, Venatrix et Brumval. En l'an 1300, tous les quatre fondèrent Elderwood.",
     "meta": {},
     "hash": "11b842fc",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -142,7 +142,7 @@
       "color": "#3f7fd8"
     },
     "hash": "4b14ffdc",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -157,7 +157,7 @@
       "color": "#3f7fd8"
     },
     "hash": "7e1773a9",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -172,7 +172,7 @@
       "color": "#3f7fd8"
     },
     "hash": "14c766d0",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -187,7 +187,7 @@
       "color": "#3f7fd8"
     },
     "hash": "ace1f261",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -202,7 +202,7 @@
       "color": "#3f7fd8"
     },
     "hash": "0416679f",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -217,7 +217,7 @@
       "color": "#3f7fd8"
     },
     "hash": "28b1da92",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -232,7 +232,7 @@
       "color": "#3f8f52"
     },
     "hash": "374fbb38",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -247,7 +247,7 @@
       "color": "#3f8f52"
     },
     "hash": "71f20701",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -262,7 +262,7 @@
       "color": "#3f8f52"
     },
     "hash": "ff77eefb",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -277,7 +277,7 @@
       "color": "#3f8f52"
     },
     "hash": "50562a60",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -292,7 +292,7 @@
       "color": "#3f8f52"
     },
     "hash": "7795965b",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -307,7 +307,7 @@
       "color": "#3f8f52"
     },
     "hash": "e1549583",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -322,7 +322,7 @@
       "color": "#d8823f"
     },
     "hash": "eb530c40",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -337,7 +337,7 @@
       "color": "#d8823f"
     },
     "hash": "8dfb6ad6",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -352,7 +352,7 @@
       "color": "#d8823f"
     },
     "hash": "1c6ff4f4",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -367,7 +367,7 @@
       "color": "#d8823f"
     },
     "hash": "a881b223",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -382,7 +382,7 @@
       "color": "#d8823f"
     },
     "hash": "e729cf1c",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -397,7 +397,7 @@
       "color": "#d8823f"
     },
     "hash": "c007d497",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -412,7 +412,7 @@
       "color": "#6b3fa0"
     },
     "hash": "b45dc8c6",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -427,7 +427,7 @@
       "color": "#6b3fa0"
     },
     "hash": "01ed5c33",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -442,7 +442,7 @@
       "color": "#6b3fa0"
     },
     "hash": "2ededcf1",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -457,7 +457,7 @@
       "color": "#6b3fa0"
     },
     "hash": "65452e89",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -472,7 +472,7 @@
       "color": "#6b3fa0"
     },
     "hash": "78ce469d",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -487,7 +487,7 @@
       "color": "#6b3fa0"
     },
     "hash": "84dcc2d9",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -501,7 +501,7 @@
       "color": "#c9a227"
     },
     "hash": "3a20d4ce",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -515,7 +515,7 @@
       "color": "#c0504f"
     },
     "hash": "7c48eada",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -529,7 +529,7 @@
       "color": "#3f8f52"
     },
     "hash": "69ab86a4",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -543,7 +543,7 @@
       "color": "#3f7fd8"
     },
     "hash": "544a8852",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -557,7 +557,7 @@
       "color": "#8a6d3f"
     },
     "hash": "fedc88f1",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -571,7 +571,7 @@
       "color": "#6b3fa0"
     },
     "hash": "c18c12a9",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -585,7 +585,7 @@
       "color": "#d05050"
     },
     "hash": "81378980",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -599,7 +599,7 @@
       "color": "#d8823f"
     },
     "hash": "d811e33e",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -613,7 +613,7 @@
       "color": "#c9a227"
     },
     "hash": "721d9612",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -627,7 +627,7 @@
       "color": "#d8823f"
     },
     "hash": "0f70db36",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -641,7 +641,7 @@
       "color": "#3f7fd8"
     },
     "hash": "1afc2783",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -655,7 +655,7 @@
       "color": "#6b3fa0"
     },
     "hash": "7b433367",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -669,7 +669,7 @@
       "color": "#3f8f52"
     },
     "hash": "02d938c4",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -683,7 +683,7 @@
       "color": "#d05050"
     },
     "hash": "bd578828",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -697,7 +697,7 @@
       "color": "#3f7fd8"
     },
     "hash": "aeaebe1b",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -711,7 +711,7 @@
       "color": "#8a6d3f"
     },
     "hash": "aab0b1f5",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -723,7 +723,7 @@
     "a": "Aussi appelé magie, l'origine de toute chose.",
     "meta": {},
     "hash": "028e101b",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -735,7 +735,7 @@
     "a": "Réponse propre de chaque être vivant à l'Écho, reposant sur deux prédispositions génétiques : ressentir l'Écho, et le contrôler.",
     "meta": {},
     "hash": "52d6e2c8",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -747,7 +747,7 @@
     "a": "Énergie née de la rencontre entre l'Écho et la Résonance.",
     "meta": {},
     "hash": "ca452d4f",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -759,7 +759,7 @@
     "a": "Humains dont la Résonance est trop faible pour produire un Flux exploitable.",
     "meta": {},
     "hash": "77f87908",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -771,7 +771,7 @@
     "a": "Né de parents Sans-Flux mais ne présentant qu'une des deux prédispositions de la Résonance.",
     "meta": {},
     "hash": "8e2a77c7",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -783,7 +783,7 @@
     "a": "Né de parents Sans-Flux et présentant les deux prédispositions de la Résonance.",
     "meta": {},
     "hash": "1e609f0e",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -795,7 +795,7 @@
     "a": "Phénomène dissimulant un lieu chargé de Flux aux Sans-Flux.",
     "meta": {},
     "hash": "c5eda126",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -807,7 +807,7 @@
     "a": "Objet (baguette, sceptre, bâton, flûte, ou tout autre instrument magique) canalisant le Flux du sorcier.",
     "meta": {},
     "hash": "773db20c",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -819,7 +819,7 @@
     "a": "Aussi appelée « la Source », bassin d'eau révélant la couleur du Flux de chaque Résonant.",
     "meta": {},
     "hash": "61d19d40",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -831,7 +831,7 @@
     "a": "Sport international sorcier, aussi appelé « le Raze ».",
     "meta": {},
     "hash": "f95f285c",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -843,7 +843,7 @@
     "a": "L’AMRU, ou Autorités Magiques du Royaume-Uni, constitue l’autorité centrale chargée de l’administration de la société magique du Royaume-Uni. Elle veille à l’application des lois, à la sécurité de la population, au fonctionnement des institutions et à la régulation des activités susceptibles d’affecter l’équilibre du monde magique.\nSon autorité s’étend à l’ensemble des individus, organisations et communautés relevant de sa juridiction, ainsi qu’aux pratiques magiques, créatures, artefacts et activités soumises à réglementation.\nElderwood occupe une place particulière dans cet équilibre. Principale institution de formation magique du Royaume-Uni, l’école entretient depuis des siècles des relations étroites avec les autorités britanniques. Si elle conserve sa propre organisation et une importante autonomie dans son fonctionnement, elle demeure un interlocuteur essentiel de l’AMRU, notamment dans la formation des nouvelles générations et face aux enjeux majeurs touchant la société magique.",
     "meta": {},
     "hash": "c15b8c69",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -857,7 +857,7 @@
       "color": "#3f7fd8"
     },
     "hash": "8930a720",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -871,7 +871,7 @@
       "color": "#3f8f52"
     },
     "hash": "2851d53d",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -885,7 +885,7 @@
       "color": "#d8823f"
     },
     "hash": "f6613dcf",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -899,7 +899,7 @@
       "color": "#6b3fa0"
     },
     "hash": "0bfdbda9",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -913,7 +913,7 @@
       "color": "#034009"
     },
     "hash": "2db75074",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -927,7 +927,7 @@
       "color": "#ad0221"
     },
     "hash": "27f8dff7",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -941,7 +941,7 @@
       "color": "#c9a24b"
     },
     "hash": "74058ab6",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -955,7 +955,7 @@
       "color": "#c9a227"
     },
     "hash": "e9c3b1ea",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -969,7 +969,7 @@
       "color": "#c0504f"
     },
     "hash": "a95a505a",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -983,7 +983,7 @@
       "color": "#d8823f"
     },
     "hash": "95edf2f2",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -997,7 +997,7 @@
       "color": "#3f7fd8"
     },
     "hash": "ced2047d",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1011,7 +1011,7 @@
       "color": "#3f8f52"
     },
     "hash": "f0115112",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1025,7 +1025,7 @@
       "color": "#6b3fa0"
     },
     "hash": "f227133b",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1039,7 +1039,7 @@
       "color": "#aba03c"
     },
     "hash": "165ecaf0",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1051,7 +1051,7 @@
     "a": "Le Razeball, originellement appelé « Razorball » et souvent simplement surnommé « le Raze », est l’un des sports les plus populaires du monde magique. Pratiqué à près d’une centaine de mètres de hauteur, il oppose deux équipes lancées à grande vitesse autour d’une sphère métallique qu’elles doivent envoyer dans le Cœur adverse.\nLongtemps pratiqué sous la forme de jeux de balais brutaux et sans règles communes, le Razeball moderne naît véritablement à Elderwood en 1863, lorsque Corvinus Valemont en rédige le premier règlement et met au point le dispositif permettant de stabiliser les Cœurs utilisés lors des rencontres. Le sport se diffuse rapidement au-delà du Royaume-Uni et donne naissance, en 1896, à la première Coupe du Monde.\nUne équipe aligne six joueurs : un Gardien et cinq joueurs de champ dont la composition varie selon la stratégie adoptée. Les Finishers sont spécialisés dans la conclusion des actions et les tirs à longue distance ; les Playmakers organisent le jeu et créent les ouvertures ; les Enforcers imposent leur présence physique ; tandis que les Lights Out se spécialisent dans l’interception et la destruction du jeu adverse. Le Gardien reste quant à lui la dernière ligne de défense devant le Cœur.\nLe Razeball est aujourd’hui pratiqué à tous les niveaux du monde magique. Des championnats professionnels existent à travers le monde, tandis que les meilleures sélections nationales se retrouvent tous les quatre ans lors de la Coupe du Monde de Razeball, considérée comme le sommet de la discipline. À Elderwood, les quatre maisons s’affrontent également tout au long de l’année dans un championnat particulièrement suivi, jusqu’à la grande finale organisée à la fin de l’année scolaire.",
     "meta": {},
     "hash": "7abb3dc7",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1065,7 +1065,7 @@
       "color": "#8ccc39"
     },
     "hash": "54f929a4",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1079,7 +1079,7 @@
       "color": "#c9a24b"
     },
     "hash": "fec0f4c2",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1093,7 +1093,7 @@
       "color": "#64d4ed"
     },
     "hash": "6d4bc6ec",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1107,7 +1107,7 @@
       "color": "#250a40"
     },
     "hash": "17094d3f",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1121,7 +1121,7 @@
       "color": "#7fa6d9"
     },
     "hash": "e0954d3d",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1135,7 +1135,7 @@
       "color": "#6f8f5b"
     },
     "hash": "b152005e",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1149,7 +1149,7 @@
       "color": "#d58a3a"
     },
     "hash": "3f4f27dc",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1163,7 +1163,7 @@
       "color": "#7f5aa2"
     },
     "hash": "ce386c4f",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1177,7 +1177,7 @@
       "color": "#9b4a4a"
     },
     "hash": "f83d40b3",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1189,7 +1189,7 @@
     "a": "L'Écho est la force originelle qui traverse toute chose depuis la naissance de l'univers, ce que les textes les plus anciens appellent le Premier Murmure. Il ne produit aucun sortilège et n'obéit à aucune formule : il est simplement présent, mêlé à la matière, aux lieux, aux êtres vivants, depuis toujours.\n\nEn pratique, l'Écho est ce qui rend la magie possible. Sans lui, aucune Résonance et aucun Flux ne pourraient exister : c'est le socle sur lequel repose toute la magie pratiquée à Elderwood.",
     "meta": {},
     "hash": "a7e8a08e",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1201,7 +1201,7 @@
     "a": "La Résonance est la manière dont un être répond à l'Écho, une fréquence propre à chacun, présente en toute chose depuis sa naissance.\n\nChez la majorité des humains, elle demeure trop faible pour produire quoi que ce soit de perceptible : ce sont les Sans-Flux. Chez d'autres, elle répond avec assez de force et de clarté pour qu'un véritable échange se forme avec l'Écho : ce sont les Résonants. C'est cette différence de Résonance, et non le sang ou la naissance, qui détermine qui peut ou non pratiquer la magie.\n\nConcrètement, la Résonance repose sur deux prédispositions distinctes, transmises génétiquement : l'une permet de ressentir l'Écho, l'autre permet de le contrôler. Un Résonant complet possède les deux : il perçoit la magie et parvient à en tirer un Flux exploitable.",
     "meta": {},
     "hash": "cb420fae",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1213,7 +1213,7 @@
     "a": "Le Flux naît lorsque l'Écho rencontre une Résonance suffisamment forte pour y répondre. Ce n'est pas une réserve enfermée dans le corps du sorcier, mais une énergie qui naît de cette relation : la forme perceptible et manipulable de la magie.\n\nEn pratique, le Flux se manifeste d'abord sans contrôle chez les jeunes sorciers : une peur qui repousse un danger, une colère qui fait trembler un objet, avant d'être apprivoisé grâce à l'intention, au geste, à l'incantation et à un catalyseur (baguette, sceptre, bâton, flûte, ou tout autre instrument magique). Apprendre la magie, c'est avant tout apprendre à diriger volontairement ce que le Flux fait déjà instinctivement.",
     "meta": {},
     "hash": "9d56a9e9",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1228,7 +1228,7 @@
       "color": "#3f7fd8"
     },
     "hash": "b5027350",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1243,7 +1243,7 @@
       "color": "#3f8f52"
     },
     "hash": "4958ae12",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1258,7 +1258,7 @@
       "color": "#d8823f"
     },
     "hash": "002b493a",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1273,7 +1273,7 @@
       "color": "#6b3fa0"
     },
     "hash": "9c850c0b",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1285,7 +1285,7 @@
     "a": "Chaque lieu possède, comme les êtres vivants, sa propre Résonance. Une forte concentration de Flux peut faire naître un Voile, un phénomène qui rend le lieu difficile à remarquer pour les Sans-Flux.\n\nLes écoles et sanctuaires magiques se construisent souvent dans ces lieux voilés, Elderwood en est l'exemple le plus connu, dissimulée du monde Sans-Flux par un Voile naturel particulièrement puissant. Un lieu trop chargé en Flux peut cependant devenir imprévisible : c'est ainsi que naissent les Échoïdes, des souvenirs figés dans une rune instable.\n\nOn distingue le Voile naturel, qui se forme spontanément autour d'un lieu fortement chargé en Flux, du voile artificiel, posé volontairement par des sorciers pour dissimuler un lieu de leur choix. Un voile artificiel peut se superposer à un Voile naturel existant, et parfois même le perturber.",
     "meta": {},
     "hash": "bb859800",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1297,7 +1297,7 @@
     "a": "Ceux que l'on appelle dans le langage courant des sorciers. Ils possèdent une Résonance assez importante et claire pour répondre à l'Écho et faire naître un Flux exploitable. Cela leur permet d'apprendre la magie, de canaliser leur Flux à travers une baguette, un sceptre ou tout autre catalyseur, de pratiquer des sorts et d'utiliser des objets enchantés. Être Résonant implique l'accès à une éducation magique, à des droits, des devoirs, et une responsabilité : celle de ne pas exposer la magie aux Sans-Flux.",
     "meta": {},
     "hash": "06a714cb",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1309,7 +1309,7 @@
     "a": "Ils représentent la majorité de l'humanité. Ils possèdent bien une Résonance, comme toute chose existante, mais elle est bien trop faible : ils ne perçoivent pas la magie, ne produisent pas de Flux suffisant et ne peuvent pas le manipuler. Cela ne signifie pas qu'ils sont totalement séparés du monde magique : ils peuvent apercevoir certaines choses, être touchés par ses effets, ou traverser le Voile si celui-ci est affaibli, devenant alors témoins de phénomènes qu'ils ne s'expliquent pas. Leur esprit tend naturellement à rationaliser ce qu'il ne comprend pas et à se tourner vers la science.",
     "meta": {},
     "hash": "406e71ba",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1321,7 +1321,7 @@
     "a": "Des cas particuliers. Ils naissent généralement dans le monde Sans-Flux, souvent de parents Sans-Flux, avec une prédisposition rare liée à la Résonance. Celle-ci repose sur deux aptitudes : ressentir l’Écho et être capable de le contrôler. La plupart des Dissonants n’en possèdent qu’une seule et peuvent vivre sans jamais connaître l’existence du monde magique, parfois perçus comme des prodiges, voyants ou médiums. Les plus rares possèdent les deux : ils sont alors, par définition, pleinement Résonants. Repérés par l’AMRU, ils sont invités à rejoindre Elderwood afin d’apprendre à maîtriser leur Flux. Malgré cela, une partie de la société magique continue de les qualifier de Dissonants en raison de leurs origines Sans-Flux.",
     "meta": {},
     "hash": "9c90659a",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1333,7 +1333,7 @@
     "a": "La Magie d'usage est la forme la plus répandue aujourd'hui. Elle correspond à la magie pratiquée par les sorciers dans leur vie quotidienne : dans les écoles, les duels, les soins, les enchantements simples ou les actes magiques courants. Elle repose sur l'intention du sorcier, sur sa capacité à canaliser son Flux, puis à lui donner une direction par un geste, une formule ou un catalyseur. L'apparition des baguettes a profondément transformé cette pratique, en concentrant le Flux dans un catalyseur adapté, ce qui a permis aux sorciers d'affiner leurs gestes et de transmettre plus facilement leur savoir.\n\nLa Runomancie suit une logique différente : là où la Magie d'usage agit par le geste et l'instant, la Runomancie cherche à inscrire le Flux dans la durée. Les runes ne sont pas de simples lettres, mais des fréquences retranscrites sous forme de symboles ; chaque rune représente une harmonie observée dans l'Écho. Une rune seule possède une influence limitée, mais plusieurs runes forment un accord capable d'orienter durablement la magie : protéger un lieu, verrouiller un passage, conserver une mémoire ou stabiliser un enchantement.",
     "meta": {},
     "hash": "59d1b586",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1347,7 +1347,7 @@
       "color": "#dab950"
     },
     "hash": "41f69977",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1361,7 +1361,7 @@
       "color": "#dab950"
     },
     "hash": "fdfdf30b",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1375,7 +1375,7 @@
       "color": "#dab950"
     },
     "hash": "1731fb8e",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1389,7 +1389,7 @@
       "color": "#dab950"
     },
     "hash": "170f86cb",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1403,7 +1403,7 @@
       "color": "#dab950"
     },
     "hash": "e0bab8ec",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1417,7 +1417,7 @@
       "color": "#dab950"
     },
     "hash": "dd0a7776",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1431,7 +1431,7 @@
       "color": "#dab950"
     },
     "hash": "3e1cd88b",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1445,7 +1445,7 @@
       "color": "#dab950"
     },
     "hash": "d97a2e5f",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1459,7 +1459,7 @@
       "color": "#dab950"
     },
     "hash": "b252e9bb",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1473,7 +1473,7 @@
       "color": "#dab950"
     },
     "hash": "61745583",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1487,7 +1487,7 @@
       "color": "#dab950"
     },
     "hash": "100db771",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1501,7 +1501,7 @@
       "color": "#dab950"
     },
     "hash": "9232392e",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1515,7 +1515,7 @@
       "color": "#dab950"
     },
     "hash": "fb2a745d",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1529,7 +1529,7 @@
       "color": "#dab950"
     },
     "hash": "98743e08",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1543,7 +1543,7 @@
       "color": "#dab950"
     },
     "hash": "52b96a9f",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1557,7 +1557,7 @@
       "color": "#3b82f6"
     },
     "hash": "b8bf8ef7",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1571,7 +1571,7 @@
       "color": "#3b82f6"
     },
     "hash": "4f72a2b3",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1585,7 +1585,7 @@
       "color": "#3b82f6"
     },
     "hash": "54a4c139",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1599,7 +1599,7 @@
       "color": "#3b82f6"
     },
     "hash": "86977266",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1613,7 +1613,7 @@
       "color": "#3b82f6"
     },
     "hash": "94d0493b",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1627,7 +1627,7 @@
       "color": "#3b82f6"
     },
     "hash": "7de5809b",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1641,7 +1641,7 @@
       "color": "#3b82f6"
     },
     "hash": "780fada9",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1655,7 +1655,7 @@
       "color": "#3b82f6"
     },
     "hash": "493b1b05",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1669,7 +1669,7 @@
       "color": "#3b82f6"
     },
     "hash": "68526666",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1683,7 +1683,7 @@
       "color": "#3b82f6"
     },
     "hash": "3a3128ab",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1697,7 +1697,7 @@
       "color": "#3b82f6"
     },
     "hash": "212c0527",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1711,7 +1711,7 @@
       "color": "#3b82f6"
     },
     "hash": "a63742ae",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1725,7 +1725,7 @@
       "color": "#3b82f6"
     },
     "hash": "28de9dd0",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1739,7 +1739,7 @@
       "color": "#3b82f6"
     },
     "hash": "130ff48d",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1753,7 +1753,7 @@
       "color": "#3b82f6"
     },
     "hash": "3713e46b",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1767,7 +1767,7 @@
       "color": "#3b82f6"
     },
     "hash": "201734c8",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1781,7 +1781,7 @@
       "color": "#3b82f6"
     },
     "hash": "cc34fedf",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1795,7 +1795,7 @@
       "color": "#3b82f6"
     },
     "hash": "2a73c4da",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1809,7 +1809,7 @@
       "color": "#3b82f6"
     },
     "hash": "0d44785a",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1823,7 +1823,7 @@
       "color": "#3b82f6"
     },
     "hash": "51679829",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1837,7 +1837,7 @@
       "color": "#3b82f6"
     },
     "hash": "0669eab2",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1851,7 +1851,7 @@
       "color": "#3b82f6"
     },
     "hash": "0a574adb",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1865,7 +1865,7 @@
       "color": "#22c55e"
     },
     "hash": "eb1976bd",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1879,7 +1879,7 @@
       "color": "#22c55e"
     },
     "hash": "a989e847",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1893,7 +1893,7 @@
       "color": "#22c55e"
     },
     "hash": "b493e8fd",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1907,7 +1907,7 @@
       "color": "#22c55e"
     },
     "hash": "8d950259",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1921,7 +1921,7 @@
       "color": "#22c55e"
     },
     "hash": "e0d816a9",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1935,7 +1935,7 @@
       "color": "#22c55e"
     },
     "hash": "368cd98b",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1949,7 +1949,7 @@
       "color": "#22c55e"
     },
     "hash": "11b8d95c",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1963,7 +1963,7 @@
       "color": "#22c55e"
     },
     "hash": "75f9d885",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1977,7 +1977,7 @@
       "color": "#22c55e"
     },
     "hash": "b68dcb08",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -1991,7 +1991,7 @@
       "color": "#22c55e"
     },
     "hash": "00dbf68f",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2005,7 +2005,7 @@
       "color": "#22c55e"
     },
     "hash": "908dee8f",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2019,7 +2019,7 @@
       "color": "#22c55e"
     },
     "hash": "ba958ea7",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2033,7 +2033,7 @@
       "color": "#22c55e"
     },
     "hash": "9904e070",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2047,7 +2047,7 @@
       "color": "#22c55e"
     },
     "hash": "a7952321",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2061,7 +2061,7 @@
       "color": "#22c55e"
     },
     "hash": "4165b299",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2075,7 +2075,7 @@
       "color": "#22c55e"
     },
     "hash": "db8fbabc",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2089,7 +2089,7 @@
       "color": "#22c55e"
     },
     "hash": "ce54aa0e",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2103,7 +2103,7 @@
       "color": "#ef4444"
     },
     "hash": "6734d8b5",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2117,7 +2117,7 @@
       "color": "#ef4444"
     },
     "hash": "145f9427",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2131,7 +2131,7 @@
       "color": "#ef4444"
     },
     "hash": "75b169f7",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2145,7 +2145,7 @@
       "color": "#ef4444"
     },
     "hash": "75b169f7",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2159,7 +2159,7 @@
       "color": "#ef4444"
     },
     "hash": "7f7e9102",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2173,7 +2173,7 @@
       "color": "#ef4444"
     },
     "hash": "1d209452",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2187,7 +2187,7 @@
       "color": "#ef4444"
     },
     "hash": "d4156424",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2201,7 +2201,7 @@
       "color": "#ef4444"
     },
     "hash": "b3b211db",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2215,7 +2215,7 @@
       "color": "#f59e0b"
     },
     "hash": "213c37a6",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2229,7 +2229,7 @@
       "color": "#f59e0b"
     },
     "hash": "b358284d",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2243,7 +2243,7 @@
       "color": "#f59e0b"
     },
     "hash": "9857d404",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   },
@@ -2257,7 +2257,7 @@
       "color": "#f59e0b"
     },
     "hash": "fadc43df",
-    "seen": false,
+    "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
   }

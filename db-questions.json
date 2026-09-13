@@ -2951,5 +2951,3197 @@
     "expl": "Sa mort dépasse largement le cadre de l'école. Le Cercle du Frêne est une organisation secrète engagée dans la lutte contre l'Ascendance, et le rôle exact d'Arthurius reste entouré de zones d'ombre.",
     "addedAt": "2026-09-13",
     "sourceCardId": "elderwood_0161"
+  },
+  {
+    "id": "q_0211",
+    "sourceCardId": "chronologie_0003",
+    "cat": "Chronologie",
+    "q": "Qu'est-ce que la Sentence de Mireille (1432) ?",
+    "correct": "Une sanction controversée appliquée par Gwendolyn Caerwyn qui divise encore la maison Aerwyn",
+    "wrongs": [
+      "Un accord de paix entre les quatre maisons après un conflit interne",
+      "Une loi d'Elderwood interdisant certaines pratiques runiques",
+      "La première grande expulsion d'un élève de l'histoire d'Elderwood"
+    ],
+    "expl": "Cet événement reste l'un des plus débattus au sein de la maison Aerwyn, dont les membres sont encore divisés sur ce choix.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0212",
+    "sourceCardId": "chronologie_0004",
+    "cat": "Chronologie",
+    "q": "Qui a organisé la première Flamme Ouverte en 1463 ?",
+    "correct": "Elspeth Hearthbane",
+    "wrongs": [
+      "Petra Hearthbane",
+      "Hector Brumval",
+      "Corvinus Valemont"
+    ],
+    "expl": "La Flamme Ouverte est un grand festival ouvert à toutes les entités magiques, toujours organisé par la famille Hearthbane.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0213",
+    "sourceCardId": "chronologie_0006",
+    "cat": "Chronologie",
+    "q": "Qu'est-ce que le Grand Confinement de 1944-1945 ?",
+    "correct": "Cassiopée Valemont rédige les décrets d'isolation du monde magique",
+    "wrongs": [
+      "Une période de fermeture d'Elderwood suite à une épidémie magique",
+      "La création de l'AMRU pour régir le monde magique britannique",
+      "Un accord international entre toutes les écoles de sorcellerie"
+    ],
+    "expl": "Le Grand Confinement marque la séparation officielle et organisée entre monde magique et monde Sans-Flux.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0214",
+    "sourceCardId": "chronologie_0007",
+    "cat": "Chronologie",
+    "q": "Qu'est-ce que l'Ascendance et qu'a-t-elle fait en 2026 ?",
+    "correct": "Un groupe extrémiste qui a tenté un coup d'État contre l'AMRU et assassiné le Ministre",
+    "wrongs": [
+      "Une organisation secrète défendant les droits des Dissonants résonants",
+      "Un mouvement politique prônant la révélation du monde magique aux Sans-Flux",
+      "Un groupe de sorciers ayant provoqué la Rupture du Voile d'Elderwood"
+    ],
+    "expl": "La tentative échoua mais coûta la vie au Ministre. L'AMRU a officiellement classé l'Ascendance comme groupe extrémiste dangereux.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0215",
+    "sourceCardId": "chronologie_0007",
+    "cat": "Chronologie",
+    "q": "Qu'est-il advenu à l'issue des affrontements de 2026 entre l'Ascendance et l'AMRU ?",
+    "correct": "Adam Wrightmoore, dirigeant présumé de l'Ascendance, est capturé et incarcéré à Briseflux",
+    "wrongs": [
+      "L'Ascendance s'est dissoute après l'échec du coup d'État",
+      "Leopold Evenwald a été capturé et jugé par l'AMRU",
+      "Le Ministre de l'AMRU a survécu et renforcé les mesures de sécurité"
+    ],
+    "expl": "Malgré la capture de Wrightmoore, l'Ascendance n'a pas cessé ses activités. Arthurius Glenwood est mort lors d'une embuscade liée à ces événements.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0216",
+    "sourceCardId": "chronologie_0009",
+    "cat": "Chronologie",
+    "q": "Quelle évolution préoccupante est observée dans la population magique en 2026 ?",
+    "correct": "Le nombre de Dissonants résonants augmente, et une partie de l'opinion devient réceptive aux idées de l'Ascendance",
+    "wrongs": [
+      "De nombreux Résonants choisissent de révéler leur identité aux Sans-Flux en signe de protestation",
+      "Les grandes familles notoires quittent Elderwood en désaccord avec l'AMRU",
+      "Les Sans-Flux commencent à percevoir le Flux suite à l'affaiblissement du Voile"
+    ],
+    "expl": "Les contraintes renforcées du Grand Confinement pèsent lourdement sur la population. L'Ascendance, qui rejette cet isolement, gagne en popularité.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0217",
+    "sourceCardId": "elderwood_0001",
+    "cat": "Elderwood",
+    "q": "Comment Falcon a-t-il fondé Elderwood ?",
+    "correct": "Il découvrit en 1298 la Source de Vehr sur une île voilée, identifia quatre couleurs et chercha trois personnes pour fonder l'école en 1300",
+    "wrongs": [
+      "Il construisit l'école seul avant d'inviter les autres fondateurs à le rejoindre",
+      "Les quatre fondateurs se rencontrèrent lors d'un tournoi de magie et décidèrent ensemble de créer l'école",
+      "L'AMRU désigna les quatre fondateurs pour créer une école de sorcellerie officielle"
+    ],
+    "expl": "La Source de Vehr révèle la couleur du Flux. Falcon chercha des personnes dont la couleur correspondait aux trois qu'il n'incarnait pas lui-même.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0218",
+    "sourceCardId": "maisons_0005",
+    "cat": "Maisons",
+    "q": "Quelle est la devise de la famille Caerwyn ?",
+    "correct": "Tant qu'Elderwood existe, un Caerwyn veille.",
+    "wrongs": [
+      "La connaissance régit notre monde.",
+      "Le feu accueille. Le feu dure.",
+      "Le monde appartient à ceux qui en comprennent les rouages."
+    ],
+    "expl": "Les Caerwyn sont présents depuis la première nuit de la construction d'Elderwood. Seraphine Caerwyn est leur représentante actuelle.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0219",
+    "sourceCardId": "elderwood_0010",
+    "cat": "Elderwood",
+    "q": "Qu'est-ce que la Bibliothèque d'Elderwood ?",
+    "correct": "Un lieu contenant manuels, grimoires anciens et sections interdites, géré par un bibliothécaire et des fées des bois",
+    "wrongs": [
+      "La salle commune de la maison Falcon, réservée à l'étude",
+      "Un espace sous le château dédié à la Runomancie avancée",
+      "La salle où les élèves apprennent à entretenir leurs catalyseurs"
+    ],
+    "expl": "La Bibliothèque est le cœur du savoir à Elderwood, avec des sections accessibles à tous et d'autres interdites.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0220",
+    "sourceCardId": "elderwood_0016",
+    "cat": "Elderwood",
+    "q": "Où se trouve la Forge Runique et qui peut y accéder ?",
+    "correct": "Profondément enfouie sous le château, réservée aux élèves avancés",
+    "wrongs": [
+      "Dans les plus hautes tours, accessible uniquement aux professeurs",
+      "Sous les Jardins, proche de la Source de Vehr",
+      "Dans les sous-sols proches du Salon des Ombres"
+    ],
+    "expl": "La Forge Runique est dédiée à la Runomancie et aux expériences avancées. Elle est inaccessible aux élèves débutants.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0221",
+    "sourceCardId": "elderwood_0018",
+    "cat": "Elderwood",
+    "q": "Quelle est la particularité de la Grande Salle d'Elderwood ?",
+    "correct": "C'est le seul lieu où toutes les maisons se retrouvent sous le même toit",
+    "wrongs": [
+      "C'est là que se trouve la Source de Vehr",
+      "C'est la salle commune partagée entre toutes les maisons",
+      "C'est là que se tiennent tous les cours magistraux"
+    ],
+    "expl": "La Grande Salle est le cœur du château, lieu de rassemblement commun à l'ensemble des élèves et du personnel.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0222",
+    "sourceCardId": "elderwood_0019",
+    "cat": "Elderwood",
+    "q": "Quelle est la particularité de l'Observatoire des Hautes-Vues ?",
+    "correct": "Salle commune de Falcon, nichée dans les plus hautes tours, accessible par un pont suspendu — Falcon y aurait conçu le système d'apprentissage",
+    "wrongs": [
+      "Salle commune d'Aerwyn, éclairée par un toit de verre exposant des armures",
+      "Salle commune de Venatrix, dans les sous-sols avec vue sur le lac",
+      "Salle commune de Brumval, réchauffée par un feu permanent"
+    ],
+    "expl": "L'Observatoire est la salle commune de la maison Falcon, au sommet du château.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0223",
+    "sourceCardId": "elderwood_0020",
+    "cat": "Elderwood",
+    "q": "Quelle est la particularité de la Veillée Bleue ?",
+    "correct": "Salle commune d'Aerwyn, éclairée par un toit de verre incassable exposant les armures des anciens défenseurs",
+    "wrongs": [
+      "Salle commune de Falcon, accessible par un pont suspendu depuis les tours",
+      "Salle commune de Brumval, réchauffée par un feu qui ne s'éteint jamais",
+      "Salle commune de Venatrix, dans les sous-sols avec vue sur le lac"
+    ],
+    "expl": "La Veillée Bleue honore l'héritage des défenseurs d'Aerwyn à travers ses armures exposées.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0224",
+    "sourceCardId": "elderwood_0021",
+    "cat": "Elderwood",
+    "q": "Quelle est la particularité du Salon des Ombres ?",
+    "correct": "Salle commune de Venatrix, nichée dans les sous-sols, ouverte sur les profondeurs du lac par deux grandes baies vitrées",
+    "wrongs": [
+      "Salle commune de Falcon, dans les plus hautes tours",
+      "Salle commune d'Aerwyn, sous un toit de verre incassable",
+      "Salle commune de Brumval, avec un feu permanent"
+    ],
+    "expl": "Le Salon des Ombres incarne l'esthétique de Venatrix : discret, profond, et avec une vue sur les mystères du lac.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0225",
+    "sourceCardId": "elderwood_0022",
+    "cat": "Elderwood",
+    "q": "Quelle est la particularité du Grand Foyer ?",
+    "correct": "Salle commune de Brumval, la plus chaleureuse du château, réchauffée par un feu qui ne s'éteint jamais",
+    "wrongs": [
+      "Salle commune d'Aerwyn, éclairée par un toit de verre exposant des armures",
+      "Salle commune de Falcon, dans les plus hautes tours du château",
+      "Salle commune de Venatrix, dans les sous-sols avec vue sur le lac"
+    ],
+    "expl": "Le Grand Foyer incarne les valeurs de fidélité et de chaleur de la maison Brumval.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0226",
+    "sourceCardId": "glossaire_0002",
+    "cat": "Glossaire",
+    "q": "Qu'est-ce que la Résonance ?",
+    "correct": "La réponse propre de chaque être vivant à l'Écho, reposant sur deux prédispositions génétiques",
+    "wrongs": [
+      "L'énergie produite par un sorcier lors d'un sort",
+      "La couleur du Flux révélée par la Source de Vehr",
+      "La force d'un catalyseur à canaliser le Flux"
+    ],
+    "expl": "Les deux prédispositions sont : ressentir l'Écho et le contrôler. Un Résonant complet possède les deux.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0227",
+    "sourceCardId": "glossaire_0004",
+    "cat": "Glossaire",
+    "q": "Qui sont les Sans-Flux ?",
+    "correct": "Des humains dont la Résonance est trop faible pour produire un Flux exploitable",
+    "wrongs": [
+      "Des sorciers ayant perdu l'usage de leur magie",
+      "Des humains sans aucune Résonance",
+      "Des Dissonants n'ayant pas rejoint Elderwood"
+    ],
+    "expl": "Les Sans-Flux possèdent bien une Résonance, mais trop faible. Ils représentent la majorité de l'humanité.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0228",
+    "sourceCardId": "glossaire_0005",
+    "cat": "Glossaire",
+    "q": "Qu'est-ce qu'un Dissonant (version simple) ?",
+    "correct": "Né de parents Sans-Flux mais ne présentant qu'une seule des deux prédispositions de la Résonance",
+    "wrongs": [
+      "Né de parents Résonants mais sans Flux exploitable",
+      "Un sorcier dont la Résonance est instable",
+      "Un Résonant exclu du monde magique"
+    ],
+    "expl": "Ces Dissonants sont souvent perçus dans le monde Sans-Flux comme des génies, voyants ou médiums.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0229",
+    "sourceCardId": "glossaire_0009",
+    "cat": "Glossaire",
+    "q": "Qu'est-ce que la Source de Vehr ?",
+    "correct": "Un bassin d'eau révélant la couleur du Flux de chaque Résonant",
+    "wrongs": [
+      "Une fontaine aux propriétés curatives pour les sorciers blessés",
+      "Le lac entourant l'île d'Elderwood",
+      "Une rune ancienne permettant de mesurer la puissance d'un Résonant"
+    ],
+    "expl": "Découverte par Falcon en 1298, la Source est au cœur de la fondation d'Elderwood et détermine l'appartenance de chaque élève à sa maison.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0230",
+    "sourceCardId": "glossaire_0010",
+    "cat": "Glossaire",
+    "q": "Sous quels noms connaît-on le Razeball ?",
+    "correct": "Le Raze, anciennement appelé Razorball",
+    "wrongs": [
+      "Le Vehrsport",
+      "Le Fluxball",
+      "Le Razeel"
+    ],
+    "expl": "Sport international sorcier pratiqué à une centaine de mètres de hauteur.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0231",
+    "sourceCardId": "elderwood_0027",
+    "cat": "Elderwood",
+    "q": "Quel rôle les Caerwyn ont-ils joué dans l'histoire d'Elderwood ?",
+    "correct": "Présents dès la fondation, ils ont fait de la protection d'Elderwood un devoir transmis de génération en génération",
+    "wrongs": [
+      "Gardiens des archives d'Elderwood depuis le XIVe siècle",
+      "Organisateurs de la Flamme Ouverte depuis sa création",
+      "Fondateurs de l'AMRU et interlocuteurs historiques de l'école"
+    ],
+    "expl": "Seraphine Caerwyn est leur représentante actuelle, capitaine de Razeball des Aerwyn.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0232",
+    "sourceCardId": "elderwood_0028",
+    "cat": "Elderwood",
+    "q": "Quelle est l'origine de la Flamme Ouverte liée aux Hearthbane ?",
+    "correct": "Les Hearthbane sont à l'origine du premier feu de la Grande Salle et de la célèbre Flamme Ouverte",
+    "wrongs": [
+      "Ils ont fondé la bibliothèque d'Elderwood et organisent les épreuves académiques",
+      "Ils sont à l'origine du championnat de Razeball inter-maisons",
+      "Ils sont les gardiens de la Source de Vehr depuis la fondation"
+    ],
+    "expl": "Petra Hearthbane est leur représentante actuelle, élève de quatrième année à Elderwood.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0233",
+    "sourceCardId": "elderwood_0029",
+    "cat": "Elderwood",
+    "q": "Qu'ont accompli les Valemont durant la Crise des Archives ?",
+    "correct": "Ils ont sauvé les savoirs d'Elderwood durant la Crise des Archives du XIVe siècle",
+    "wrongs": [
+      "Ils ont négocié la création de l'AMRU pour protéger le monde magique",
+      "Ils ont construit la Bibliothèque d'Elderwood et établi ses règles d'accès",
+      "Ils ont codifié le Razorball et organisé la première Coupe du Monde"
+    ],
+    "expl": "Leur influence s'étend aujourd'hui à l'enseignement, l'administration et le Razeball. Ebenezer Valemont les représente à Elderwood.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0234",
+    "sourceCardId": "elderwood_0030",
+    "cat": "Elderwood",
+    "q": "Comment les Dravenholt exercent-ils leur influence ?",
+    "correct": "Par leur maîtrise des apparences, des réseaux et des décisions prises dans l'ombre",
+    "wrongs": [
+      "Par leur contrôle des archives d'Elderwood et du savoir magique",
+      "Par leur présence militaire et leur rôle dans la protection du monde magique",
+      "Par leur expertise en Runomancie et leur gestion des Échoïdes"
+    ],
+    "expl": "Famille discrète liée à Venatrix, les Dravenholt évoluent depuis des siècles au cœur des cercles politiques et mondains. Isolde Dravenholt les représente à Elderwood.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0235",
+    "sourceCardId": "elderwood_0031",
+    "cat": "Elderwood",
+    "q": "Quelle est la philosophie des Belladorn ?",
+    "correct": "La découverte passe avant la prudence — ils refusent les limites imposées par les institutions",
+    "wrongs": [
+      "Comprendre avant d'intervenir, préparer avant d'agir",
+      "Une créature ne se comprend qu'en allant à sa rencontre",
+      "La connaissance régit notre monde"
+    ],
+    "expl": "Les Belladorn sont des alchimistes brillants et imprévisibles qui opèrent depuis la Chaudronnerie, leur domaine dissimulé. Proches de Falcon et Venatrix.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0236",
+    "sourceCardId": "elderwood_0032",
+    "cat": "Elderwood",
+    "q": "Quelle est la philosophie des Ravenscroft ?",
+    "correct": "Comprendre avant d'intervenir, préparer avant d'agir — toujours la précision avant la précipitation",
+    "wrongs": [
+      "La découverte passe avant la prudence",
+      "Une créature ne se comprend qu'en allant à sa rencontre",
+      "Le monde appartient à ceux qui en comprennent les rouages"
+    ],
+    "expl": "Les Ravenscroft sont spécialisés dans la Runomancie et les structures runiques complexes. La Méthode Ravenscroft porte leur nom.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0237",
+    "sourceCardId": "elderwood_0034",
+    "cat": "Elderwood",
+    "q": "Dans quelles circonstances Arthurius Glenwood est-il mort ?",
+    "correct": "Lors d'une embuscade de l'Ascendance, possiblement tué par Leopold Evenwald, avec des liens supposés au Cercle du Frêne",
+    "wrongs": [
+      "Il a démissionné puis disparu après la Rupture du Voile d'Elderwood",
+      "Il a été capturé par l'Ascendance et incarcéré à Briseflux",
+      "Il est mort en défendant Elderwood lors de l'attaque directe de l'Ascendance"
+    ],
+    "expl": "Sa mort dépasse le cadre de l'école et demeure entourée de zones d'ombre. Le Cercle du Frêne est une organisation secrète opposée à l'Ascendance.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0238",
+    "sourceCardId": "elderwood_0035",
+    "cat": "Elderwood",
+    "q": "Pourquoi l'infirmerie porte-t-elle le nom de Grimshaw ?",
+    "correct": "Edith Grimshaw relia temporairement sa magie à celle d'élèves malades pour les sauver, perdant ainsi l'usage de sa propre magie",
+    "wrongs": [
+      "Elle fonda l'infirmerie et la dirigea pendant cinquante ans",
+      "Elle découvrit le remède à une épidémie qui menaçait toute l'école",
+      "Elle légua sa fortune à Elderwood pour construire l'infirmerie"
+    ],
+    "expl": "Les élèves survécurent grâce à elle, mais Edith ne retrouva jamais entièrement l'usage de sa propre magie.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0239",
+    "sourceCardId": "elderwood_0036",
+    "cat": "Elderwood",
+    "q": "Quelle est la position d'Alistair Valemont sur le Secret magique ?",
+    "correct": "Il défend une application stricte du Secret magique et est associé aux décisions les plus conservatrices de l'AMRU",
+    "wrongs": [
+      "Il défend une ouverture progressive du monde magique aux Sans-Flux",
+      "Il est neutre sur la question et se concentre sur la formation à Elderwood",
+      "Il soutient l'Ascendance dans son rejet de l'isolement imposé"
+    ],
+    "expl": "Patriarche de la famille Valemont et figure influente de l'AMRU, Alistair considère la préservation du Secret magique comme une responsabilité primordiale.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0240",
+    "sourceCardId": "elderwood_0037",
+    "cat": "Elderwood",
+    "q": "Qu'a accompli Cadoc Caerwyn dans la baie de Lituya en 1958 ?",
+    "correct": "Il maintint une barrière de protection pendant trois jours et trois nuits lors du réveil d'un Léviathan, perdant un bras",
+    "wrongs": [
+      "Il neutralisa seul un Échoïde géant menaçant les habitants",
+      "Il organisa l'évacuation complète avant l'arrivée du Léviathan",
+      "Il scella le Léviathan dans une rune permanente au fond de la baie"
+    ],
+    "expl": "Cadoc et trois autres Aerwyn refusèrent d'abandonner la communauté malgré l'ordre d'évacuation. Il ne céda rien de ce qu'il estimait juste.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0241",
+    "sourceCardId": "elderwood_0038",
+    "cat": "Elderwood",
+    "q": "Quel rôle Bénédicte Hearthbane joua-t-elle lors du Grand Incendie de Londres de 1666 ?",
+    "correct": "Elle détourna un réseau runique pour évacuer les familles résonantes sans révéler leur existence aux Sans-Flux",
+    "wrongs": [
+      "Elle éteignit magiquement l'incendie pour protéger les Sans-Flux",
+      "Elle créa un Voile autour du quartier magique pour le dissimuler aux témoins",
+      "Elle organisa depuis Elderwood les secours magiques envoyés à Londres"
+    ],
+    "expl": "Ce dispositif inspira plus tard la création du Tunnel du Faux Pas. L'intervention protégea les résonants tout en préservant le Secret magique.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0242",
+    "sourceCardId": "elderwood_0039",
+    "cat": "Elderwood",
+    "q": "En quoi consiste la Méthode Ravenscroft ?",
+    "correct": "Neutraliser progressivement un système runique instable en étudiant et désactivant ses connexions une par une",
+    "wrongs": [
+      "Détruire brutalement une structure runique avant qu'elle ne génère un Échoïde",
+      "Renforcer les runes existantes pour stabiliser la structure globale",
+      "Isoler un Échoïde dans une rune de confinement spécialement conçue"
+    ],
+    "expl": "Edgar fut appelé dans un refuge dont les protections runiques avaient engendré un immense Échoïde. Sa méthode progressive est encore utilisée aujourd'hui.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0243",
+    "sourceCardId": "elderwood_0040",
+    "cat": "Elderwood",
+    "q": "Qu'est-il arrivé lors de l'Expédition de Shedwood de Rowena Glenhart en 1890 ?",
+    "correct": "Deux membres disparurent sans laisser de trace dans les derniers jours, et Rowena ne révéla jamais ce qui s'était produit",
+    "wrongs": [
+      "L'expédition fut attaquée par un Échoïde et dut rentrer avant terme",
+      "Rowena perdit toutes ses notes lors d'une inondation en forêt",
+      "L'expédition découvrit une espèce inconnue qui attaqua le groupe"
+    ],
+    "expl": "Le groupe rapporta l'une des documentations les plus importantes sur les créatures de la région, mais le mystère des disparitions ne fut jamais élucidé.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0244",
+    "sourceCardId": "entites_magiques_0001",
+    "cat": "Entités magiques",
+    "q": "Quelle matière le Brisecerat produit-il et à quoi sert-elle ?",
+    "correct": "La cératine, une matière souple et résistante utilisée pour fabriquer des équipements de protection",
+    "wrongs": [
+      "Des écailles hydrophobes pour des équipements imperméables",
+      "Des bois ramifiés aux propriétés magiques pour les catalyseurs",
+      "Un venin utilisé dans certaines potions de soin"
+    ],
+    "expl": "Le Brisecerat préfère fuir plutôt que se défendre. Sa cératine est récupérée sur son dos.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0245",
+    "sourceCardId": "entites_magiques_0006",
+    "cat": "Entités magiques",
+    "q": "Quelle particularité le Valdorn possède-t-il ?",
+    "correct": "Il ressent les intentions de ceux qui l'approchent et sa présence fait temporairement revivre la végétation",
+    "wrongs": [
+      "Il communique par télépathie et peut transmettre des images aux sorciers proches",
+      "Il perçoit l'Écho et les mouvements du Flux avec une précision exceptionnelle",
+      "Il peut se rendre invisible dans les forêts anciennes pour éviter tout contact"
+    ],
+    "expl": "Brumval vécut plusieurs années au contact d'un Valdorn jusqu'à être accepté sur son territoire, ce qui marqua profondément sa vision de la nature.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0246",
+    "sourceCardId": "entites_magiques_0009",
+    "cat": "Entités magiques",
+    "q": "Que dit-on des Dragons dans le monde magique actuel ?",
+    "correct": "Ils appartiennent davantage à la légende — personne ne peut affirmer avec certitude qu'ils existent encore",
+    "wrongs": [
+      "Ils sont éteints depuis le Grand Confinement de 1944-1945",
+      "Ils vivent dans des zones voilées inaccessibles aux sorciers ordinaires",
+      "Ils sont protégés par l'AMRU et ne peuvent être approchés qu'avec autorisation"
+    ],
+    "expl": "Des lignées anciennes comme les wyvernes ou les wyrms sont parfois considérées comme de lointains vestiges, mais rien ne ressemble vraiment aux Dragons des récits.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0247",
+    "sourceCardId": "magie_0001",
+    "cat": "Magie",
+    "q": "Qu'est-ce que le Premier Murmure ?",
+    "correct": "Le nom donné par les textes anciens à la naissance de l'Écho, la force originelle qui traverse toute chose",
+    "wrongs": [
+      "Le premier sort jamais lancé à Elderwood",
+      "La formule fondatrice de la Runomancie",
+      "Le nom donné à la découverte de la Source de Vehr"
+    ],
+    "expl": "L'Écho ne produit aucun sortilège et n'obéit à aucune formule. Il est simplement présent, mêlé à la matière, aux lieux et aux êtres vivants.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0248",
+    "sourceCardId": "magie_0003",
+    "cat": "Magie",
+    "q": "Comment le Flux se manifeste-t-il avant tout apprentissage chez les jeunes sorciers ?",
+    "correct": "Sans contrôle, par des réactions émotionnelles comme la peur ou la colère",
+    "wrongs": [
+      "Par une lumière colorée visible dès la naissance",
+      "Via un catalyseur transmis par les parents",
+      "En dormant, lors de rêves liés à l'Écho"
+    ],
+    "expl": "Apprendre la magie, c'est avant tout apprendre à diriger volontairement ce que le Flux fait déjà instinctivement.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0249",
+    "sourceCardId": "maisons_0025",
+    "cat": "Maisons",
+    "q": "Quels sont les tags du Flux Bleu (Aerwyn) ?",
+    "correct": "Courage, Protection, Action",
+    "wrongs": [
+      "Savoir, Curiosité, Créativité",
+      "Stabilité, Loyauté, Continuité",
+      "Maîtrise, Stratégie, Influence"
+    ],
+    "expl": "Le Bleu agit, protège, et accepte d'avancer lorsque le danger exige une réponse.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0250",
+    "sourceCardId": "maisons_0026",
+    "cat": "Maisons",
+    "q": "Quels sont les tags du Flux Vert (Brumval) ?",
+    "correct": "Stabilité, Loyauté, Continuité",
+    "wrongs": [
+      "Courage, Protection, Action",
+      "Savoir, Curiosité, Créativité",
+      "Maîtrise, Stratégie, Influence"
+    ],
+    "expl": "Le Vert préserve, soutient et résiste lorsque tout ce qui l'entoure menace de s'effondrer.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0251",
+    "sourceCardId": "maisons_0027",
+    "cat": "Maisons",
+    "q": "Quels sont les tags du Flux Orange (Falcon) ?",
+    "correct": "Savoir, Curiosité, Créativité",
+    "wrongs": [
+      "Courage, Protection, Action",
+      "Stabilité, Loyauté, Continuité",
+      "Maîtrise, Stratégie, Influence"
+    ],
+    "expl": "L'Orange observe, comprend et invente lorsque les réponses connues ne suffisent plus.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0252",
+    "sourceCardId": "maisons_0028",
+    "cat": "Maisons",
+    "q": "Quels sont les tags du Flux Violet (Venatrix) ?",
+    "correct": "Maîtrise, Stratégie, Influence",
+    "wrongs": [
+      "Courage, Protection, Action",
+      "Savoir, Curiosité, Créativité",
+      "Stabilité, Loyauté, Continuité"
+    ],
+    "expl": "Le Violet observe, maîtrise, et agit rarement sans avoir mesuré les conséquences.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0253",
+    "sourceCardId": "magie_0004",
+    "cat": "Magie",
+    "q": "Comment naît un Voile autour d'un lieu ?",
+    "correct": "Une forte concentration de Flux fait naître spontanément un Voile rendant le lieu difficile à remarquer pour les Sans-Flux",
+    "wrongs": [
+      "Un sorcier puissant doit le poser manuellement",
+      "Il apparaît uniquement autour des écoles de sorcellerie",
+      "Il est créé par les fondateurs de chaque école magique"
+    ],
+    "expl": "Il existe un Voile naturel (spontané) et un Voile artificiel (posé volontairement). Un voile artificiel peut parfois perturber un Voile naturel existant.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0254",
+    "sourceCardId": "magie_0005",
+    "cat": "Magie",
+    "q": "Qu'implique le statut de Résonant au-delà des capacités magiques ?",
+    "correct": "L'accès à une éducation magique, des droits, des devoirs et la responsabilité de ne pas exposer la magie aux Sans-Flux",
+    "wrongs": [
+      "Uniquement l'accès à l'école Elderwood et à ses ressources",
+      "Des privilèges sociaux sans obligation particulière",
+      "La tutelle de l'AMRU sur toutes les décisions importantes du sorcier"
+    ],
+    "expl": "Être Résonant va au-delà de la magie : c'est un statut avec ses propres responsabilités.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0255",
+    "sourceCardId": "magie_0006",
+    "cat": "Magie",
+    "q": "Qu'arrive-t-il aux Dissonants possédant les deux prédispositions de la Résonance ?",
+    "correct": "Ils sont pleinement Résonants, repérés par l'AMRU et invités à rejoindre Elderwood",
+    "wrongs": [
+      "Ils restent classés comme Sans-Flux malgré leurs capacités",
+      "Ils doivent attendre d'avoir 18 ans avant d'être reconnus comme Résonants",
+      "Ils sont placés sous tutelle d'une famille notoire jusqu'à leur majorité"
+    ],
+    "expl": "Malgré cela, une partie de la société magique continue de les appeler Dissonants en raison de leurs origines Sans-Flux.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0256",
+    "sourceCardId": "reglement_0001",
+    "cat": "Reglement",
+    "q": "Quel format de nom est obligatoire sur Elderwood RP ?",
+    "correct": "Prénom Nom, original, crédible et cohérent avec l'univers",
+    "wrongs": [
+      "Un pseudonyme libre sans contrainte",
+      "Un nom de famille uniquement",
+      "Le prénom suffit, le nom est optionnel"
+    ],
+    "expl": "Les noms réels, de célébrités, de personnages connus, trolls ou à connotation sexuelle/raciste sont interdits. Pas de chiffres ni de caractères spéciaux.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0257",
+    "sourceCardId": "reglement_0002",
+    "cat": "Reglement",
+    "q": "Qu'est-il interdit de faire vis-à-vis du serveur Elderwood et de sa communauté ?",
+    "correct": "Trasher le serveur, ses membres ou son staff, que ce soit en public, en privé ou sur d'autres plateformes",
+    "wrongs": [
+      "Critiquer le règlement via un ticket Discord",
+      "Partager des captures d'écran de scènes RP avec l'accord des joueurs concernés",
+      "Discuter des événements RP sur des forums externes"
+    ],
+    "expl": "Tout comportement nuisible à l'ambiance et à la cohésion de la communauté peut être sanctionné par l'équipe de modération.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0258",
+    "sourceCardId": "reglement_0004",
+    "cat": "Reglement",
+    "q": "Comment contester une sanction sur Elderwood ?",
+    "correct": "Via un ticket sur Discord, jamais par message privé au staff",
+    "wrongs": [
+      "Par message privé à n'importe quel membre du staff",
+      "En publiant dans le canal général du Discord",
+      "En interpellant le staff directement en jeu"
+    ],
+    "expl": "Le spam ou harcèlement en MP envers un membre du staff peut entraîner un bannissement immédiat.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0259",
+    "sourceCardId": "reglement_0005",
+    "cat": "Reglement",
+    "q": "Le langage HRP est-il autorisé lors des interactions en jeu ?",
+    "correct": "Non — tout message doit rester dans le contexte du personnage et de l'univers RP",
+    "wrongs": [
+      "Oui, dans les zones sans autres joueurs",
+      "Oui, si c'est entre membres de la même maison",
+      "Non, sauf pour signaler un problème technique urgent"
+    ],
+    "expl": "Tout dialogue ou comportement doit rester dans le contexte RP. Le non-respect peut entraîner des sanctions.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0260",
+    "sourceCardId": "reglement_0007",
+    "cat": "Reglement",
+    "q": "Que risque-t-on à faire de la publicité pour un autre serveur RP ?",
+    "correct": "Des sanctions immédiates, allant du mute temporaire à l'exclusion",
+    "wrongs": [
+      "Un simple avertissement verbal",
+      "Un bannissement définitif automatique",
+      "Aucune sanction si c'est fait en message privé"
+    ],
+    "expl": "Toute publicité, promotion ou invitation concernant un autre serveur RP est strictement interdite.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0261",
+    "sourceCardId": "reglement_0008",
+    "cat": "Reglement",
+    "q": "Les soundboards et voice mods sont-ils autorisés en vocal pendant le RP ?",
+    "correct": "Non — ils sont interdits pour préserver l'immersion et éviter les nuisances sonores",
+    "wrongs": [
+      "Oui, si tous les joueurs présents sont d'accord",
+      "Oui, uniquement hors des scènes importantes",
+      "Non, sauf pour les animateurs d'événements officiels"
+    ],
+    "expl": "L'utilisation de tout outil modifiant la voix en vocal RP peut entraîner des sanctions.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0262",
+    "sourceCardId": "reglement_0009",
+    "cat": "Reglement",
+    "q": "Qu'est-ce qu'une arnaque en boutique et que risque-t-on ?",
+    "correct": "Toute vente frauduleuse ou manipulation du staff pour obtenir des avantages — sanction pouvant aller jusqu'au bannissement définitif",
+    "wrongs": [
+      "Vendre un objet trop cher en RP, ce qui est toléré",
+      "Échanger des objets sans passer par le staff, simple avertissement",
+      "Mentir sur la valeur d'un objet, puni d'un reset de personnage"
+    ],
+    "expl": "Toute arnaque en boutique ou manipulation envers le staff est strictement interdite.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0263",
+    "sourceCardId": "reglement_0010",
+    "cat": "Reglement",
+    "q": "Le partage de compte est-il autorisé ?",
+    "correct": "Non — chaque joueur doit utiliser son propre compte personnel",
+    "wrongs": [
+      "Oui, entre membres d'une même famille",
+      "Oui, avec l'accord du staff",
+      "Non, sauf en cas d'absence prolongée"
+    ],
+    "expl": "Le partage de compte peut entraîner la suspension ou l'exclusion du serveur.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0264",
+    "sourceCardId": "reglement_0011",
+    "cat": "Reglement",
+    "q": "Peut-on se déconnecter volontairement en pleine scène RP ?",
+    "correct": "Non — sauf crash ou problème technique à signaler immédiatement via ticket",
+    "wrongs": [
+      "Oui, si la scène dure depuis plus d'une heure",
+      "Oui, avec l'accord des autres joueurs présents",
+      "Non, sauf si le staff valide la déconnexion"
+    ],
+    "expl": "Se déconnecter pour fuir une situation RP est sanctionné. Un crash doit être signalé immédiatement.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0265",
+    "sourceCardId": "reglement_0013",
+    "cat": "Reglement",
+    "q": "Que doit-on faire si on découvre un bug sur le serveur ?",
+    "correct": "Le signaler immédiatement au staff via un ticket",
+    "wrongs": [
+      "L'exploiter puis le signaler après",
+      "Le signaler uniquement si d'autres joueurs l'ont vu",
+      "Attendre la prochaine mise à jour pour le mentionner"
+    ],
+    "expl": "L'exploitation volontaire d'un bug est strictement interdite et peut mener au bannissement.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0266",
+    "sourceCardId": "reglement_0015",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que le Metagaming ?",
+    "correct": "Utiliser des informations obtenues hors RP (vocal, chat, streams…) pour avantager son personnage en jeu",
+    "wrongs": [
+      "Tuer un joueur sans raison RP valable",
+      "Refuser de réagir à la douleur de son personnage",
+      "Se déconnecter en pleine scène RP"
+    ],
+    "expl": "Le metagaming est strictement sanctionné. Il inclut toute information obtenue en dehors du contexte RP.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0267",
+    "sourceCardId": "reglement_0016",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que le Freekill ?",
+    "correct": "Tuer un joueur sans raison RP valable ou sans contexte",
+    "wrongs": [
+      "Revenir se venger après la mort de son personnage",
+      "Attaquer sans interaction préalable mais avec une raison RP",
+      "Exploiter un bug pour tuer un joueur"
+    ],
+    "expl": "Chaque action violente doit être justifiée en RP. Le Freekill est sanctionné.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0268",
+    "sourceCardId": "reglement_0017",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que le Revenge Kill ?",
+    "correct": "Revenir se venger après la mort de son personnage — interdit",
+    "wrongs": [
+      "Tuer quelqu'un par vengeance avec une raison RP valable",
+      "Attaquer quelqu'un sans interaction préalable",
+      "Utiliser sa maison pour punir un ennemi"
+    ],
+    "expl": "Une mort RP implique une perte de mémoire des événements ayant mené à celle-ci.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0269",
+    "sourceCardId": "reglement_0018",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que le Free Attack ?",
+    "correct": "Attaquer un joueur sans raison RP valable ou sans interaction préalable",
+    "wrongs": [
+      "Tuer un joueur après une longue interaction RP",
+      "Attaquer en réponse à une provocation RP",
+      "Utiliser un sort offensif dans un cours"
+    ],
+    "expl": "Toute agression doit être logique, justifiée et jouée en RP.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0270",
+    "sourceCardId": "reglement_0019",
+    "cat": "Reglement",
+    "q": "Le Fear RP est-il obligatoire ?",
+    "correct": "Oui — le personnage doit réagir avec réalisme face à une menace sérieuse",
+    "wrongs": [
+      "Non, c'est optionnel selon le personnage",
+      "Oui, mais uniquement dans les zones RPK On",
+      "Non, les sorciers peuvent ignorer la menace grâce à leur Flux"
+    ],
+    "expl": "Ignorer le danger, provoquer en situation de faiblesse ou foncer sans réfléchir est du No-Fear et est sanctionné.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0271",
+    "sourceCardId": "reglement_0021",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que le Mass RP ?",
+    "correct": "Prendre en compte la présence passive des PNJ/civils dans les lieux publics et adapter son comportement",
+    "wrongs": [
+      "Jouer une scène RP impliquant plus de dix joueurs simultanément",
+      "Réaliser plusieurs actions RP en succession rapide",
+      "Forcer plusieurs joueurs à participer à une même scène"
+    ],
+    "expl": "Exemple : ne pas entrer dans le bureau du directeur sans y être invité.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0272",
+    "sourceCardId": "reglement_0022",
+    "cat": "Reglement",
+    "q": "Le Pain RP est-il obligatoire ?",
+    "correct": "Oui — le personnage doit réagir de manière crédible à la douleur",
+    "wrongs": [
+      "Non, c'est au joueur de décider de la résistance de son personnage",
+      "Oui, uniquement lors des combats officiels",
+      "Non, les sorciers peuvent résister à la douleur grâce à leur Flux"
+    ],
+    "expl": "Grimacer, ralentir ses mouvements, montrer des signes de souffrance. Continuer à courir normalement après une blessure grave est une infraction.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0273",
+    "sourceCardId": "reglement_0023",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que le StreamHack ?",
+    "correct": "Utiliser des informations du stream d'un autre joueur pour en tirer un avantage en jeu",
+    "wrongs": [
+      "Diffuser en direct une scène RP sans l'accord des autres joueurs",
+      "Enregistrer une scène RP pour la partager sans permission",
+      "Regarder le stream du staff pendant une session RP"
+    ],
+    "expl": "C'est une forme de Metagaming. Les sanctions peuvent aller jusqu'au ban permanent.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0274",
+    "sourceCardId": "reglement_0024",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que le Force RP ?",
+    "correct": "Imposer une action ou conséquence RP à un autre joueur sans son accord préalable",
+    "wrongs": [
+      "Jouer un personnage très fort contre d'autres",
+      "Obliger quelqu'un à rejoindre une maison",
+      "Forcer un duel RP avec une raison valable"
+    ],
+    "expl": "Le RP se fait toujours dans le respect et le consentement mutuel.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0275",
+    "sourceCardId": "reglement_0025",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que le Power Gaming ?",
+    "correct": "User de la physique du jeu pour faire des choses irréalisables dans l'univers",
+    "wrongs": [
+      "Jouer un personnage qui gagne toujours",
+      "Protéger son personnage sans prendre de risques",
+      "Imposer une action RP à un autre joueur"
+    ],
+    "expl": "Le personnage doit agir dans les limites du réalisme de l'univers, sans exploiter les mécaniques du jeu.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0276",
+    "sourceCardId": "reglement_0026",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que le Win RP ?",
+    "correct": "Faire en sorte que son personnage réussisse toujours sans obstacle ni défaite — interdit",
+    "wrongs": [
+      "Jouer un personnage compétent dans son domaine",
+      "Gagner un duel RP de façon justifiée",
+      "Réussir une mission RP grâce à une bonne préparation"
+    ],
+    "expl": "Le RP doit être équilibré, avec des victoires comme des défaites crédibles.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0277",
+    "sourceCardId": "reglement_0027",
+    "cat": "Reglement",
+    "q": "Peut-on changer soudainement le caractère de son personnage ?",
+    "correct": "Non — tout changement doit être logique, progressif et justifié en RP",
+    "wrongs": [
+      "Oui, entre deux sessions de jeu",
+      "Oui, avec l'accord du staff uniquement",
+      "Non, le personnage doit rester identique toute sa vie"
+    ],
+    "expl": "L'âge, le passé, les compétences et les réactions du personnage doivent suivre une continuité.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0278",
+    "sourceCardId": "reglement_0028",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que la NLR (New Life Rule) ?",
+    "correct": "Après une mort RP, oublier tout ce qui s'est passé avant (15 min) et ne pas retourner sur la zone (20 min minimum)",
+    "wrongs": [
+      "Changer de personnage après chaque mort définitive",
+      "Interdiction de mourir deux fois dans la même zone",
+      "Délai de 15 minutes avant tout combat RP"
+    ],
+    "expl": "La NLR évite le metagaming post-mort. Le délai d'oubli est de 15 minutes, le délai de retour sur zone de 20 minutes minimum.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0279",
+    "sourceCardId": "reglement_0029",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que le RPK Flash et quand ne s'applique-t-il pas ?",
+    "correct": "Tuer quelqu'un sans interaction ni contexte RP — la condition ne s'applique pas en cas de NoFear ou de non-respect des zones RPK ON",
+    "wrongs": [
+      "Un RPK dans une zone non autorisée — s'applique toujours sans exception",
+      "Un RPK sans ticket validé — ne s'applique pas si la victime est d'accord",
+      "Tuer après une courte interaction — ne s'applique pas entre membres de la même maison"
+    ],
+    "expl": "Chaque RPK doit être validé par ticket au préalable. Une scène RPK doit durer un moment et rendre hommage au personnage.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0280",
+    "sourceCardId": "reglement_0031",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que le Double Voc ?",
+    "correct": "Être connecté en vocal Discord tout en jouant en RP — interdit",
+    "wrongs": [
+      "Jouer deux personnages simultanément",
+      "Participer à deux scènes RP en même temps",
+      "Utiliser deux comptes Discord pour un même personnage"
+    ],
+    "expl": "Le Double Voc est interdit pour préserver l'immersion et éviter les échanges d'informations HRP.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0281",
+    "sourceCardId": "reglement_0033",
+    "cat": "Reglement",
+    "q": "Pour porter un nom de famille notoire à Elderwood, que faut-il ?",
+    "correct": "Attendre une naissance validée par le staff",
+    "wrongs": [
+      "Faire une demande via ticket au staff",
+      "Obtenir le vote des membres actuels de la famille",
+      "Atteindre la 3e année de scolarité à Elderwood"
+    ],
+    "expl": "Seuls les noms de familles originelles, notables ou réputées sont concernés par cette règle.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0282",
+    "sourceCardId": "reglement_0034",
+    "cat": "Reglement",
+    "q": "À quoi servent les commandes /me, /it et /na en RP ?",
+    "correct": "/me = action physique du personnage, /it = action environnementale, /na = narration envoyée à tout le serveur",
+    "wrongs": [
+      "/me = action environnementale, /it = action physique, /na = message privé au staff",
+      "/me = narration globale, /it = action physique, /na = action environnementale",
+      "/me = action physique, /it = narration globale, /na = message privé au staff"
+    ],
+    "expl": "Le /na est interdit au spam et doit être utilisé à juste titre. Les pensées ne doivent jamais être décrites via ces commandes.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0283",
+    "sourceCardId": "reglement_0035",
+    "cat": "Reglement",
+    "q": "Jusqu'à quelle somme peut-on arnaquer quelqu'un en RP ?",
+    "correct": "2 500 Dragondors",
+    "wrongs": [
+      "1 000 Dragondors",
+      "5 000 Dragondors",
+      "Pas de limite fixée"
+    ],
+    "expl": "Le vol et l'arnaque sont possibles dans le cadre RP mais limités à 2 500 Dragondors selon le règlement.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0284",
+    "sourceCardId": "reglement_0036",
+    "cat": "Reglement",
+    "q": "Que doit-on faire quand un effet de potion s'affiche pour son personnage ?",
+    "correct": "Le jouer obligatoirement — interdit de l'ignorer ou de le minimiser",
+    "wrongs": [
+      "L'appliquer uniquement si c'est narrativement intéressant",
+      "En informer le staff avant de le jouer",
+      "Attendre l'accord des autres joueurs présents"
+    ],
+    "expl": "Les potions ont des effets réels sur le personnage. Exemple : amnésie → oublier réellement ce que le personnage doit oublier.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0285",
+    "sourceCardId": "reglement_0037",
+    "cat": "Reglement",
+    "q": "Dans quel cas un coma RP est-il justifié ?",
+    "correct": "Uniquement suite à une blessure grave ou un choc violent cohérent",
+    "wrongs": [
+      "À tout moment si un joueur veut effacer la mémoire d'un autre",
+      "Après n'importe quelle potion d'amnésie",
+      "Dès qu'un personnage tombe au combat"
+    ],
+    "expl": "Faire tomber quelqu'un dans le seul but de lui faire perdre la mémoire est interdit si ce n'est pas cohérent avec la situation.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0286",
+    "sourceCardId": "reglement_0038",
+    "cat": "Reglement",
+    "q": "Que faut-il pour jouer un personnage lycanthrope à Elderwood ?",
+    "correct": "Une validation de WL via le système de naissance — impossible sans ça",
+    "wrongs": [
+      "Faire une demande via ticket au staff uniquement",
+      "Obtenir l'accord d'un autre lycanthrope en RP",
+      "Atteindre la 4e année de scolarité à Elderwood"
+    ],
+    "expl": "Il est interdit de forcer quelqu'un à vous mordre. Toute infection se fait sous ticket staff. Le RP lycanthrope expose à de lourdes conséquences RP.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0287",
+    "sourceCardId": "reglement_0039",
+    "cat": "Reglement",
+    "q": "Les lettres RP peuvent-elles être envoyées via Discord ?",
+    "correct": "Non — les lettres doivent être jouées via le système en jeu uniquement",
+    "wrongs": [
+      "Oui, si les deux joueurs sont d'accord",
+      "Oui, pour les lettres urgentes uniquement",
+      "Non, sauf pour les membres du staff"
+    ],
+    "expl": "Les lettres sur Discord sont considérées comme du Metagaming. Une lettre RP doit être logique : temps d'acheminement, lieu, contexte.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0288",
+    "sourceCardId": "reglement_0040",
+    "cat": "Reglement",
+    "q": "Quelle règle s'applique aux incantations de sorts ?",
+    "correct": "Incantation verbale obligatoire avant chaque sort, avec les vraies formules du lore — aucun sort inventé",
+    "wrongs": [
+      "Les incantations sont facultatives pour les élèves avancés",
+      "On peut inventer ses propres incantations si elles restent cohérentes",
+      "Les incantations ne sont requises qu'en duel officiel"
+    ],
+    "expl": "Les incantations doivent être les vraies formules du lore d'Elderwood.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0289",
+    "sourceCardId": "reglement_0041",
+    "cat": "Reglement",
+    "q": "Pourquoi est-il important d'enregistrer ses scènes RP ?",
+    "correct": "Pour pouvoir se défendre en cas de convocation en BDA (Bureau Des Affaires)",
+    "wrongs": [
+      "Pour les partager sur les réseaux sociaux du serveur",
+      "Pour que le staff valide les scènes importantes",
+      "Pour obtenir des récompenses de roleplay"
+    ],
+    "expl": "En cas d'appel en BDA, avoir un enregistrement permet d'apporter des preuves pour se défendre.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0290",
+    "sourceCardId": "reglement_0042",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que la règle du Bully RP ?",
+    "correct": "Autorisé uniquement si mutuel et cohérent avec l'histoire — le harcèlement abusif et empêcher quelqu'un de jouer sont interdits",
+    "wrongs": [
+      "Toujours autorisé si le joueur ciblé ne se plaint pas",
+      "Interdit en toutes circonstances",
+      "Autorisé uniquement entre membres de maisons rivales"
+    ],
+    "expl": "Justifier du HRP par le RP est également interdit, même sous couvert de Bully RP.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0291",
+    "sourceCardId": "reglement_0043",
+    "cat": "Reglement",
+    "q": "Qu'implique la règle du Main Character ?",
+    "correct": "On peut être au centre d'un arc mais sans voler toutes les scènes ni s'auto-attribuer des rôles ou pouvoirs sans autorisation",
+    "wrongs": [
+      "Le personnage principal d'un arc peut s'octroyer des pouvoirs supplémentaires",
+      "Le staff désigne un main character par arc narratif",
+      "Le main character peut interrompre les scènes RP des autres si nécessaire"
+    ],
+    "expl": "Des conséquences pourront être appliquées par le staff en cas d'abus.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0292",
+    "sourceCardId": "reglement_0044",
+    "cat": "Reglement",
+    "q": "Que signifie respecter les conséquences en RP ?",
+    "correct": "Toute action RP entraîne une conséquence RP — le staff n'est pas là pour protéger des choix RP",
+    "wrongs": [
+      "Le staff peut annuler les conséquences d'une scène sur demande",
+      "Les conséquences ne s'appliquent que lors des événements officiels",
+      "Un joueur peut refuser une conséquence si elle lui semble injuste"
+    ],
+    "expl": "Si on laisse des indices, si on s'expose, si on est imprudent — il faut assumer.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0293",
+    "sourceCardId": "reglement_0045",
+    "cat": "Reglement",
+    "q": "Comment doit-on se comporter face au directeur ou aux professeurs en RP ?",
+    "correct": "Avec respect RP obligatoire — Fear RP, politesse selon le personnage, cohérence",
+    "wrongs": [
+      "Comme n'importe quel autre joueur, sans traitement particulier",
+      "Avec respect uniquement lors des cours officiels",
+      "Le respect est optionnel si le personnage est rebelle"
+    ],
+    "expl": "Directeur, professeurs et surveillants sont des figures d'autorité RP.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0294",
+    "sourceCardId": "reglement_0046",
+    "cat": "Reglement",
+    "q": "Quelle est la temporalité RP à Elderwood et quel âge ont les personnages à leur rentrée ?",
+    "correct": "2 semaines IRL = 1 an de scolarité, les personnages ont 15 ans à leur rentrée",
+    "wrongs": [
+      "2 semaines IRL = 1 an, les personnages ont 11 ans à leur rentrée",
+      "1 mois IRL = 1 an de scolarité, les personnages ont 15 ans",
+      "1 semaine IRL = 6 mois, les personnages ont 11 ans"
+    ],
+    "expl": "Cette règle encadre l'évolution des personnages et garantit une cohérence dans la progression scolaire.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0295",
+    "sourceCardId": "reglement_0047",
+    "cat": "Reglement",
+    "q": "Que risque-t-on si on change de maison ou force un RPK pour refaire un personnage ?",
+    "correct": "Un bannissement définitif",
+    "wrongs": [
+      "Un avertissement et un reset du personnage",
+      "Une exclusion temporaire de 30 jours",
+      "Une perte de tous les objets du personnage"
+    ],
+    "expl": "Le changement de maison est strictement interdit. L'avertissement est direct : bannissement définitif en cas de non-respect.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0296",
+    "sourceCardId": "reglement_0048",
+    "cat": "Reglement",
+    "q": "Peut-on amener quelqu'un dans une zone RPK contre son gré pour le tuer ?",
+    "correct": "Non — il faut un ticket RPK actif ou l'accord HRP de la victime, rapporté au staff par la personne tuée",
+    "wrongs": [
+      "Oui, si la zone est officiellement RPK On",
+      "Oui, si le joueur a violé une règle du serveur",
+      "Non, sauf lors d'événements organisés par le staff"
+    ],
+    "expl": "Tuer quelqu'un, même avec son accord ou un ticket RPK, ne soustrait pas aux conséquences RP qui peuvent en découler.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0297",
+    "sourceCardId": "chronologie_0001",
+    "cat": "Chronologie",
+    "q": "En quelle année Falcon découvre-t-il la Source de Vehr ?",
+    "correct": "1298",
+    "wrongs": [
+      "1300",
+      "1432",
+      "1463"
+    ],
+    "expl": "Falcon découvre la Source de Vehr en 1298.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0298",
+    "sourceCardId": "chronologie_0002",
+    "cat": "Chronologie",
+    "q": "Qui fonde Elderwood en 1300 ?",
+    "correct": "Falcon, Aerwyn, Venatrix et Brumval",
+    "wrongs": [
+      "Falcon, Caerwyn, Hearthbane et Valemont",
+      "Aerwyn, Dravenholt, Valemont et Belladorn",
+      "Falcon, Ravenscroft, Glenhart et Venatrix"
+    ],
+    "expl": "Les quatre fondateurs d'Elderwood sont Falcon, Aerwyn, Venatrix et Brumval.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0299",
+    "sourceCardId": "chronologie_0003",
+    "cat": "Chronologie",
+    "q": "Qui applique la Sentence de Mireille en 1432 ?",
+    "correct": "Gwendolyn Caerwyn",
+    "wrongs": [
+      "Althea Aerwyn",
+      "Selena Venatrix",
+      "Cassiopée Valemont"
+    ],
+    "expl": "Gwendolyn Caerwyn applique cette sanction controversée en 1432.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0300",
+    "sourceCardId": "chronologie_0004",
+    "cat": "Chronologie",
+    "q": "Qui organise la Flamme Ouverte en 1463 ?",
+    "correct": "Elspeth Hearthbane",
+    "wrongs": [
+      "Bénédicte Hearthbane",
+      "Gwendolyn Caerwyn",
+      "Selena Venatrix"
+    ],
+    "expl": "Elspeth Hearthbane organise le premier grand festival ouvert à toutes les entités magiques.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0301",
+    "sourceCardId": "chronologie_0005",
+    "cat": "Chronologie",
+    "q": "Qui établit le règlement moderne du Razorball en 1863 ?",
+    "correct": "Corvinus Valemont",
+    "wrongs": [
+      "Alistair Valemont",
+      "Ebenezer Valemont",
+      "Eldric Falcon"
+    ],
+    "expl": "Corvinus Valemont codifie le sport moderne en 1863.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0302",
+    "sourceCardId": "chronologie_0006",
+    "cat": "Chronologie",
+    "q": "Qui rédige les décrets d'isolation du Grand Confinement ?",
+    "correct": "Cassiopée Valemont",
+    "wrongs": [
+      "Alistair Valemont",
+      "Corvinus Valemont",
+      "Ebenezer Valemont"
+    ],
+    "expl": "Cassiopée Valemont rédige les décrets du Grand Confinement entre 1944 et 1945.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0303",
+    "sourceCardId": "chronologie_0007",
+    "cat": "Chronologie",
+    "q": "Quel était l'objectif du coup d'État de l'Ascendance en 2026 ?",
+    "correct": "Prendre le contrôle des institutions du monde magique",
+    "wrongs": [
+      "Détruire Elderwood",
+      "Révéler la magie aux Sans-Flux",
+      "Prendre le contrôle du Razeball"
+    ],
+    "expl": "L'Ascendance attaque l'AMRU pour tenter de prendre le contrôle des institutions magiques.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0304",
+    "sourceCardId": "chronologie_0008",
+    "cat": "Chronologie",
+    "q": "Que devient Adam Wrightmoore après les affrontements liés à la mort d'Arthurius Glenwood ?",
+    "correct": "Il est capturé puis incarcéré à Briseflux",
+    "wrongs": [
+      "Il fuit vers Elderwood",
+      "Il est nommé ministre de l'AMRU",
+      "Il rejoint le Cercle de Frêne"
+    ],
+    "expl": "Adam Wrightmoore, dirigeant présumé de l'Ascendance, est capturé puis emprisonné à Briseflux.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0305",
+    "sourceCardId": "chronologie_0009",
+    "cat": "Chronologie",
+    "q": "Que provoque temporairement la Rupture du Voile en 2026 ?",
+    "correct": "L'île d'Elderwood devient visible depuis le monde Sans-Flux",
+    "wrongs": [
+      "La Source de Vehr disparaît",
+      "Le château est détruit",
+      "Les quatre maisons fusionnent"
+    ],
+    "expl": "Le Voile cède momentanément et rend l'île visible aux Sans-Flux pendant quelques minutes.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0306",
+    "sourceCardId": "chronologie_0010",
+    "cat": "Chronologie",
+    "q": "Quelle conséquence accompagne les tensions entre les Mondes en 2026 ?",
+    "correct": "Les autorités renforcent les mesures du Grand Confinement",
+    "wrongs": [
+      "L'AMRU supprime le Secret magique",
+      "Elderwood ferme définitivement",
+      "Les Sans-Flux sont invités à Elderwood"
+    ],
+    "expl": "Les autorités renforcent la discrétion et l'isolement des Résonants.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0307",
+    "sourceCardId": "elderwood_0011",
+    "cat": "Elderwood",
+    "q": "Quelles sont les quatre couleurs majeures identifiées par Falcon grâce à la Source ?",
+    "correct": "Bleu, vert, violet et orange",
+    "wrongs": [
+      "Rouge, jaune, bleu et blanc",
+      "Vert, noir, argent et or",
+      "Bleu, rouge, violet et gris"
+    ],
+    "expl": "Falcon identifie quatre couleurs majeures correspondant aux grandes voies de Résonance.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0308",
+    "sourceCardId": "maisons_0015",
+    "cat": "Maisons",
+    "q": "Par qui la maison Aerwyn a-t-elle été fondée ?",
+    "correct": "Althea Aerwyn",
+    "wrongs": [
+      "Hector Brumval",
+      "Eldric Falcon",
+      "Selena Venatrix"
+    ],
+    "expl": "Althea Aerwyn est la fondatrice de la maison Aerwyn.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0309",
+    "sourceCardId": "maisons_0016",
+    "cat": "Maisons",
+    "q": "Quelle famille est liée à la maison Aerwyn ?",
+    "correct": "Les Caerwyn",
+    "wrongs": [
+      "Les Hearthbane",
+      "Les Valemont",
+      "Les Dravenholt"
+    ],
+    "expl": "Les Caerwyn sont la grande famille associée à Aerwyn.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0310",
+    "sourceCardId": "maisons_0017",
+    "cat": "Maisons",
+    "q": "Depuis quand les Caerwyn sont-ils présents à Elderwood ?",
+    "correct": "Depuis la première nuit de la construction",
+    "wrongs": [
+      "Depuis le XIVe siècle",
+      "Depuis le Grand Confinement",
+      "Depuis la fondation du Razeball"
+    ],
+    "expl": "Les Caerwyn sont présents depuis la toute première nuit de construction d'Elderwood.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0311",
+    "sourceCardId": "maisons_0021",
+    "cat": "Maisons",
+    "q": "Par qui la maison Brumval a-t-elle été fondée ?",
+    "correct": "Hector Brumval",
+    "wrongs": [
+      "Althea Aerwyn",
+      "Eldric Falcon",
+      "Selena Venatrix"
+    ],
+    "expl": "Hector Brumval est le fondateur de la maison Brumval.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0312",
+    "sourceCardId": "maisons_0022",
+    "cat": "Maisons",
+    "q": "Quelle famille est liée à la maison Brumval ?",
+    "correct": "Les Hearthbane",
+    "wrongs": [
+      "Les Caerwyn",
+      "Les Valemont",
+      "Les Dravenholt"
+    ],
+    "expl": "Les Hearthbane sont la famille liée à Brumval.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0313",
+    "sourceCardId": "maisons_0023",
+    "cat": "Maisons",
+    "q": "Quel rôle les Hearthbane jouent-ils traditionnellement à Elderwood ?",
+    "correct": "Ils sont les gardiens des traditions du premier feu",
+    "wrongs": [
+      "Ils gardent les archives de Falcon",
+      "Ils dirigent les Razeball",
+      "Ils protègent les profondeurs du lac"
+    ],
+    "expl": "Les Hearthbane sont associés aux traditions du premier feu.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0314",
+    "sourceCardId": "maisons_0027",
+    "cat": "Maisons",
+    "q": "Par qui la maison Falcon a-t-elle été fondée ?",
+    "correct": "Eldric Falcon",
+    "wrongs": [
+      "Althea Aerwyn",
+      "Hector Brumval",
+      "Selena Venatrix"
+    ],
+    "expl": "Eldric Falcon est le fondateur de la maison Falcon.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0315",
+    "sourceCardId": "maisons_0028",
+    "cat": "Maisons",
+    "q": "Quelle famille est liée à la maison Falcon ?",
+    "correct": "Les Valemont",
+    "wrongs": [
+      "Les Caerwyn",
+      "Les Hearthbane",
+      "Les Dravenholt"
+    ],
+    "expl": "Les Valemont sont associés à la maison Falcon.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0316",
+    "sourceCardId": "maisons_0029",
+    "cat": "Maisons",
+    "q": "Depuis quel siècle les Valemont gardent-ils le savoir de Falcon ?",
+    "correct": "Depuis le XIVe siècle",
+    "wrongs": [
+      "Depuis le XIIe siècle",
+      "Depuis le XVe siècle",
+      "Depuis le XVIIIe siècle"
+    ],
+    "expl": "Les Valemont sont les gardiens du savoir de Falcon depuis le XIVe siècle.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0317",
+    "sourceCardId": "maisons_0033",
+    "cat": "Maisons",
+    "q": "Par qui la maison Venatrix a-t-elle été fondée ?",
+    "correct": "Selena Venatrix",
+    "wrongs": [
+      "Althea Aerwyn",
+      "Hector Brumval",
+      "Eldric Falcon"
+    ],
+    "expl": "Selena Venatrix est la fondatrice de Venatrix.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0318",
+    "sourceCardId": "maisons_0034",
+    "cat": "Maisons",
+    "q": "Quelle famille est liée à la maison Venatrix ?",
+    "correct": "Les Dravenholt",
+    "wrongs": [
+      "Les Caerwyn",
+      "Les Hearthbane",
+      "Les Valemont"
+    ],
+    "expl": "Les Dravenholt sont l'ancienne famille proche de Venatrix.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0319",
+    "sourceCardId": "maisons_0035",
+    "cat": "Maisons",
+    "q": "Dans quels cercles les Dravenholt sont-ils particulièrement influents ?",
+    "correct": "Les cercles du Ministère",
+    "wrongs": [
+      "Les archives d'Elderwood",
+      "Les équipes de Razeball uniquement",
+      "Les guérisseurs de l'infirmerie"
+    ],
+    "expl": "Les Dravenholt sont décrits comme influents dans les cercles du Ministère.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0320",
+    "sourceCardId": "elderwood_0036",
+    "cat": "Elderwood",
+    "q": "Que trouve-t-on principalement dans la Bibliothèque d'Elderwood ?",
+    "correct": "Des manuels, des grimoires anciens et des sections interdites",
+    "wrongs": [
+      "Des créatures domestiques",
+      "Des terrains d'entraînement",
+      "Des ateliers de forge"
+    ],
+    "expl": "La Bibliothèque rassemble des ouvrages de savoir et des sections interdites.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0321",
+    "sourceCardId": "elderwood_0037",
+    "cat": "Elderwood",
+    "q": "En hommage à qui l'Infirmerie Grimshaw est-elle nommée ?",
+    "correct": "Edith Grimshaw",
+    "wrongs": [
+      "Rowena Glenhart",
+      "Bénédicte Hearthbane",
+      "Seraphine Caerwyn"
+    ],
+    "expl": "L'infirmerie porte le nom d'Edith Grimshaw, ancienne médicomage d'Elderwood.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0322",
+    "sourceCardId": "elderwood_0038",
+    "cat": "Elderwood",
+    "q": "Pourquoi les Jardins d'Elderwood sont-ils particuliers ?",
+    "correct": "Ils ont été modifiés par la proximité de la Source",
+    "wrongs": [
+      "Ils sont entièrement artificiels",
+      "Ils sont réservés au Razeball",
+      "Ils se trouvent sous le château"
+    ],
+    "expl": "La proximité de la Source a influencé les Jardins.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0323",
+    "sourceCardId": "elderwood_0039",
+    "cat": "Elderwood",
+    "q": "Quels oiseaux nichent dans la Grande Volière ?",
+    "correct": "Des chouettes, des corbeaux et des faucons messagers",
+    "wrongs": [
+      "Des dragons et des wyvernes",
+      "Des aigles et des hiboux uniquement",
+      "Des chauves-souris et des corbeaux uniquement"
+    ],
+    "expl": "La Grande Volière accueille notamment chouettes, corbeaux et faucons messagers.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0324",
+    "sourceCardId": "elderwood_0040",
+    "cat": "Elderwood",
+    "q": "À quoi sert le Pavillon des Compagnons ?",
+    "correct": "À abriter les familiers des élèves",
+    "wrongs": [
+      "À entraîner les joueurs de Razeball",
+      "À stocker les grimoires interdits",
+      "À accueillir les professeurs"
+    ],
+    "expl": "Le Pavillon des Compagnons est la ménagerie destinée aux familiers des élèves.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0325",
+    "sourceCardId": "elderwood_0041",
+    "cat": "Elderwood",
+    "q": "Que peut-on entretenir ou réparer à l'Atelier des Catalyseurs ?",
+    "correct": "Des baguettes, sceptres et bâtons",
+    "wrongs": [
+      "Des grimoires et parchemins",
+      "Des armures et boucliers uniquement",
+      "Des balais de Razeball uniquement"
+    ],
+    "expl": "L'Atelier est dédié à l'entretien et à la réparation des catalyseurs.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0326",
+    "sourceCardId": "elderwood_0042",
+    "cat": "Elderwood",
+    "q": "À qui la Forge Runique est-elle réservée ?",
+    "correct": "Aux élèves avancés",
+    "wrongs": [
+      "Aux nouveaux élèves uniquement",
+      "Aux visiteurs Sans-Flux",
+      "Aux joueurs de Razeball"
+    ],
+    "expl": "La Forge Runique est profondément enfouie sous le château et réservée aux élèves avancés.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0327",
+    "sourceCardId": "elderwood_0044",
+    "cat": "Elderwood",
+    "q": "Quel lieu permet à toutes les maisons de se retrouver sous le même toit ?",
+    "correct": "La Grande Salle",
+    "wrongs": [
+      "Le Grand Foyer",
+      "La Veillée Bleue",
+      "Le Salon des Ombres"
+    ],
+    "expl": "La Grande Salle est le seul lieu où toutes les maisons se retrouvent sous le même toit.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0328",
+    "sourceCardId": "elderwood_0045",
+    "cat": "Elderwood",
+    "q": "Quelle maison utilise l'Observatoire des Hautes-Vues comme salle commune ?",
+    "correct": "Falcon",
+    "wrongs": [
+      "Aerwyn",
+      "Brumval",
+      "Venatrix"
+    ],
+    "expl": "L'Observatoire des Hautes-Vues est la salle commune de Falcon.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0329",
+    "sourceCardId": "elderwood_0046",
+    "cat": "Elderwood",
+    "q": "Quelle particularité possède la Veillée Bleue ?",
+    "correct": "Un toit de verre incassable",
+    "wrongs": [
+      "Un feu qui ne s'éteint jamais",
+      "Deux baies vitrées donnant sur le lac",
+      "Un pont suspendu vers les tours"
+    ],
+    "expl": "La salle commune d'Aerwyn possède un toit de verre incassable et expose les armures des anciens défenseurs.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0330",
+    "sourceCardId": "elderwood_0047",
+    "cat": "Elderwood",
+    "q": "Quelle maison possède le Salon des Ombres ?",
+    "correct": "Venatrix",
+    "wrongs": [
+      "Aerwyn",
+      "Falcon",
+      "Brumval"
+    ],
+    "expl": "Le Salon des Ombres est la salle commune de Venatrix.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0331",
+    "sourceCardId": "elderwood_0048",
+    "cat": "Elderwood",
+    "q": "Qu'est-ce qui réchauffe en permanence le Grand Foyer ?",
+    "correct": "Un feu qui ne s'éteint jamais",
+    "wrongs": [
+      "La Source de Vehr",
+      "Des enchantements de Falcon",
+      "Un catalyseur géant"
+    ],
+    "expl": "Le Grand Foyer de Brumval est réchauffé par un feu éternel.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0332",
+    "sourceCardId": "elderwood_0049",
+    "cat": "Elderwood",
+    "q": "Quelle créature trouve refuge à Brûlebrume ?",
+    "correct": "Les Arachnides d'Éther",
+    "wrongs": [
+      "Les Éphyrs",
+      "Les Valdorns",
+      "Les Scalvignus"
+    ],
+    "expl": "Brûlebrume est un sanctuaire pour les Arachnides d'Éther.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0333",
+    "sourceCardId": "elderwood_0050",
+    "cat": "Elderwood",
+    "q": "Où se trouve le Terrain de Razorball ?",
+    "correct": "Dans une structure circulaire taillée dans la falaise",
+    "wrongs": [
+      "Sous la Grande Salle",
+      "Au sommet de la plus haute tour",
+      "Dans la forêt de Shedwood"
+    ],
+    "expl": "Le terrain est une structure circulaire taillée directement dans la falaise.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0334",
+    "sourceCardId": "elderwood_0051",
+    "cat": "Elderwood",
+    "q": "Quelle figure est honorée par une statue à Shedwood ?",
+    "correct": "Maeve Storm",
+    "wrongs": [
+      "Edith Grimshaw",
+      "Althea Aerwyn",
+      "Rowena Glenhart"
+    ],
+    "expl": "Une statue de Maeve Storm se trouve dans le village voisin de Shedwood.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0335",
+    "sourceCardId": "glossaire_0054",
+    "cat": "Glossaire",
+    "q": "Comment naît le Flux ?",
+    "correct": "De la rencontre entre l'Écho et la Résonance",
+    "wrongs": [
+      "De la fabrication d'une baguette",
+      "De la combinaison de deux maisons",
+      "De la pratique du Razeball"
+    ],
+    "expl": "Le Flux est l'énergie née de l'interaction entre l'Écho et une Résonance suffisamment forte.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0336",
+    "sourceCardId": "glossaire_0058",
+    "cat": "Glossaire",
+    "q": "Quel est le rôle du Voile ?",
+    "correct": "Dissimuler un lieu chargé de Flux aux Sans-Flux",
+    "wrongs": [
+      "Augmenter la puissance du Razeball",
+      "Révéler la couleur du Flux",
+      "Transformer un Sans-Flux en Résonant"
+    ],
+    "expl": "Le Voile rend les lieux riches en Flux difficiles à remarquer pour les Sans-Flux.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0337",
+    "sourceCardId": "glossaire_0059",
+    "cat": "Glossaire",
+    "q": "Qu'est-ce qu'un catalyseur ?",
+    "correct": "Un objet permettant de canaliser le Flux du sorcier",
+    "wrongs": [
+      "Une créature qui produit l'Écho",
+      "Une rune de protection",
+      "Un lieu caché par un Voile"
+    ],
+    "expl": "Une baguette, un sceptre, un bâton ou un autre instrument magique peut servir de catalyseur.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0338",
+    "sourceCardId": "glossaire_0060",
+    "cat": "Glossaire",
+    "q": "Que révèle la Source de Vehr ?",
+    "correct": "La couleur du Flux de chaque Résonant",
+    "wrongs": [
+      "L'âge d'un sorcier",
+      "Son nom de famille",
+      "Son niveau de Razeball"
+    ],
+    "expl": "La Source de Vehr est un bassin révélant la couleur du Flux d'un Résonant.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0339",
+    "sourceCardId": "glossaire_0061",
+    "cat": "Glossaire",
+    "q": "Quel est l'autre nom du Razeball ?",
+    "correct": "Le Raze",
+    "wrongs": [
+      "Le Razor",
+      "Le Runa",
+      "Le Fluxball"
+    ],
+    "expl": "Le Razeball est aussi surnommé « le Raze ».",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0340",
+    "sourceCardId": "elderwood_0062",
+    "cat": "Elderwood",
+    "q": "Quel est le rôle principal de l'AMRU ?",
+    "correct": "Administrer la société magique du Royaume-Uni",
+    "wrongs": [
+      "Diriger uniquement Elderwood",
+      "Organiser uniquement le Razeball",
+      "Protéger uniquement les créatures magiques"
+    ],
+    "expl": "L'AMRU est l'autorité centrale chargée de l'administration de la société magique britannique.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0341",
+    "sourceCardId": "elderwood_0063",
+    "cat": "Elderwood",
+    "q": "Quelle mission les Caerwyn ont-ils transmise de génération en génération ?",
+    "correct": "La protection d'Elderwood",
+    "wrongs": [
+      "La gestion des archives",
+      "L'organisation du Razeball",
+      "La protection du premier feu"
+    ],
+    "expl": "Les Caerwyn considèrent la protection d'Elderwood comme un devoir familial.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0342",
+    "sourceCardId": "elderwood_0064",
+    "cat": "Elderwood",
+    "q": "À quoi les Hearthbane sont-ils notamment associés ?",
+    "correct": "Au premier feu de la Grande Salle et à la Flamme Ouverte",
+    "wrongs": [
+      "À la création de la Source",
+      "À la fondation du Razeball",
+      "À la construction de l'Observatoire"
+    ],
+    "expl": "Les Hearthbane sont à l'origine du premier feu de la Grande Salle et de la Flamme Ouverte.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0343",
+    "sourceCardId": "elderwood_0065",
+    "cat": "Elderwood",
+    "q": "Quel rôle historique les Valemont ont-ils joué à Elderwood ?",
+    "correct": "Ils ont gardé les archives et sauvé les savoirs durant la Crise des Archives",
+    "wrongs": [
+      "Ils ont créé le Voile naturel",
+      "Ils ont fondé Brûlebrume",
+      "Ils ont organisé la première Flamme Ouverte"
+    ],
+    "expl": "Les Valemont sont les gardiens historiques des archives d'Elderwood.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0344",
+    "sourceCardId": "elderwood_0066",
+    "cat": "Elderwood",
+    "q": "Sur quoi repose principalement le pouvoir des Dravenholt ?",
+    "correct": "La maîtrise des apparences, des réseaux et des décisions prises dans l'ombre",
+    "wrongs": [
+      "La force physique",
+      "La maîtrise du Razeball",
+      "La protection des créatures"
+    ],
+    "expl": "Les Dravenholt exercent leur influence grâce aux réseaux et à la stratégie politique.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0345",
+    "sourceCardId": "elderwood_0067",
+    "cat": "Elderwood",
+    "q": "Dans quel domaine les Belladorn sont-ils spécialisés ?",
+    "correct": "L'alchimie et l'expérimentation",
+    "wrongs": [
+      "La runomancie exclusivement",
+      "Le Razeball",
+      "La protection d'Elderwood"
+    ],
+    "expl": "Les Belladorn sont une famille d'alchimistes réputée pour ses expérimentations.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0346",
+    "sourceCardId": "elderwood_0068",
+    "cat": "Elderwood",
+    "q": "Quelle philosophie caractérise les Ravenscroft ?",
+    "correct": "Comprendre avant d'intervenir, préparer avant d'agir",
+    "wrongs": [
+      "Agir avant de réfléchir",
+      "Toujours privilégier la force",
+      "Éviter toute forme de runomancie"
+    ],
+    "expl": "Les Ravenscroft privilégient la précision, la préparation et la compréhension.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0347",
+    "sourceCardId": "elderwood_0069",
+    "cat": "Elderwood",
+    "q": "Quel domaine d'étude caractérise les Glenhart ?",
+    "correct": "L'étude des créatures magiques",
+    "wrongs": [
+      "La politique de l'AMRU",
+      "La fabrication des catalyseurs",
+      "La création des Voiles artificiels"
+    ],
+    "expl": "Les Glenhart ont construit leur savoir au contact direct des créatures et du terrain.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0348",
+    "sourceCardId": "elderwood_0070",
+    "cat": "Elderwood",
+    "q": "Dans quelles circonstances Arthurius Glenwood trouve-t-il la mort ?",
+    "correct": "Lors d'une embuscade attribuée à l'Ascendance",
+    "wrongs": [
+      "Lors d'un accident de Razeball",
+      "Lors d'une expérience runique",
+      "Lors d'une attaque de dragon"
+    ],
+    "expl": "La mort d'Arthurius survient lors d'une embuscade attribuée à l'Ascendance.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0349",
+    "sourceCardId": "elderwood_0071",
+    "cat": "Elderwood",
+    "q": "Quel sacrifice Edith Grimshaw fait-elle pour sauver des élèves ?",
+    "correct": "Elle relie temporairement leur magie à la sienne",
+    "wrongs": [
+      "Elle détruit la Source",
+      "Elle leur donne son catalyseur",
+      "Elle quitte définitivement Elderwood"
+    ],
+    "expl": "Edith utilise sa propre magie pour absorber une partie de la fatigue et de la douleur des élèves malades.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0350",
+    "sourceCardId": "elderwood_0072",
+    "cat": "Elderwood",
+    "q": "Quelle position défend Alistair Valemont concernant le Secret magique ?",
+    "correct": "Une application stricte",
+    "wrongs": [
+      "Une suppression immédiate",
+      "Une ouverture complète aux Sans-Flux",
+      "Une application uniquement à Elderwood"
+    ],
+    "expl": "Alistair défend depuis longtemps une application stricte du Secret magique.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0351",
+    "sourceCardId": "elderwood_0073",
+    "cat": "Elderwood",
+    "q": "Combien de temps Cadoc Caerwyn et les autres Aerwyn maintiennent-ils leur barrière à Lituya ?",
+    "correct": "Trois jours et trois nuits",
+    "wrongs": [
+      "Une journée",
+      "Une semaine",
+      "Douze heures"
+    ],
+    "expl": "Cadoc et trois autres Aerwyn maintiennent la barrière pendant trois jours et trois nuits.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0352",
+    "sourceCardId": "elderwood_0074",
+    "cat": "Elderwood",
+    "q": "Quel événement inspire la création du Tunnel du Faux Pas ?",
+    "correct": "Le détournement d'un ancien réseau runique lors du Grand Incendie de Londres",
+    "wrongs": [
+      "La Rupture du Voile",
+      "La création de la Source",
+      "La première Coupe du Monde"
+    ],
+    "expl": "Le dispositif utilisé par Bénédicte Hearthbane en 1666 inspire ensuite le Tunnel du Faux Pas.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0353",
+    "sourceCardId": "elderwood_0075",
+    "cat": "Elderwood",
+    "q": "Quelle méthode Edgar Ravenscroft utilise-t-il face à un immense Échoïde ?",
+    "correct": "Il neutralise progressivement ses connexions runiques",
+    "wrongs": [
+      "Il détruit immédiatement la structure",
+      "Il invoque un dragon",
+      "Il enferme l'Échoïde dans la Source"
+    ],
+    "expl": "Edgar étudie les connexions de la structure puis les neutralise progressivement.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0354",
+    "sourceCardId": "elderwood_0076",
+    "cat": "Elderwood",
+    "q": "Combien de temps dure l'expédition de Rowena Glenhart à Shedwood ?",
+    "correct": "Quarante jours",
+    "wrongs": [
+      "Sept jours",
+      "Quatorze jours",
+      "Cent jours"
+    ],
+    "expl": "Rowena Glenhart mène une expédition de quarante jours dans la forêt de Shedwood.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0355",
+    "sourceCardId": "elderwood_0077",
+    "cat": "Elderwood",
+    "q": "Combien de joueurs compte une équipe de Razeball ?",
+    "correct": "Six",
+    "wrongs": [
+      "Cinq",
+      "Sept",
+      "Huit"
+    ],
+    "expl": "Une équipe de Razeball comprend un Gardien et cinq joueurs de champ.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0356",
+    "sourceCardId": "entites_magiques_0078",
+    "cat": "Entités magiques",
+    "q": "Quelle matière recouvre le dos du Brisecerat ?",
+    "correct": "De la cératine",
+    "wrongs": [
+      "Des écailles hydrophobes",
+      "Des runes naturelles",
+      "Des plumes métalliques"
+    ],
+    "expl": "Le dos du Brisecerat est recouvert de cératine souple et résistante.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0357",
+    "sourceCardId": "entites_magiques_0079",
+    "cat": "Entités magiques",
+    "q": "Que deviennent naturellement les bois du Scalvignus à la fin de l'hiver ?",
+    "correct": "Ils tombent",
+    "wrongs": [
+      "Ils deviennent lumineux",
+      "Ils se transforment en écailles",
+      "Ils doublent de taille"
+    ],
+    "expl": "Les bois du Scalvignus tombent naturellement à la fin de l'hiver.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0358",
+    "sourceCardId": "entites_magiques_0080",
+    "cat": "Entités magiques",
+    "q": "De quoi naît un Échoïde ?",
+    "correct": "D'une ancienne structure runique ayant conservé une empreinte de son créateur",
+    "wrongs": [
+      "D'un catalyseur brisé",
+      "D'un Résonant devenu Sans-Flux",
+      "D'une Source de Vehr asséchée"
+    ],
+    "expl": "Un Échoïde naît lorsqu'une ancienne structure runique conserve savoir, souvenirs et personnalité.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0359",
+    "sourceCardId": "entites_magiques_0081",
+    "cat": "Entités magiques",
+    "q": "Pourquoi l'Ornicabal peut-il évoluer facilement entre terre et eau ?",
+    "correct": "Grâce à ses écailles hydrophobes",
+    "wrongs": [
+      "Grâce à ses ailes",
+      "Grâce à son Flux violet",
+      "Grâce à ses bois"
+    ],
+    "expl": "Ses fines écailles hydrophobes le protègent de l'humidité.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0360",
+    "sourceCardId": "entites_magiques_0082",
+    "cat": "Entités magiques",
+    "q": "Quelle maison a fait de l'Ephyr l'un de ses symboles ?",
+    "correct": "Aerwyn",
+    "wrongs": [
+      "Brumval",
+      "Falcon",
+      "Venatrix"
+    ],
+    "expl": "L'Ephyr est devenu un symbole ancien d'Aerwyn grâce à son lien avec Althea Aerwyn.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0361",
+    "sourceCardId": "entites_magiques_0083",
+    "cat": "Entités magiques",
+    "q": "Quelle capacité particulière le Valdorn semble-t-il posséder ?",
+    "correct": "Ressentir les intentions de ceux qui l'approchent",
+    "wrongs": [
+      "Lire les souvenirs dans les runes",
+      "Changer de couleur de Flux",
+      "Voler au-dessus d'Elderwood"
+    ],
+    "expl": "Le Valdorn semble distinguer notamment la malveillance et la bienveillance.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0362",
+    "sourceCardId": "entites_magiques_0084",
+    "cat": "Entités magiques",
+    "q": "Que représente l'Aetherion pour Eldric Falcon ?",
+    "correct": "Un symbole d'instinct, d'observation et de vision",
+    "wrongs": [
+      "Un symbole de loyauté et de courage uniquement",
+      "Un symbole de richesse",
+      "Un symbole de guérison"
+    ],
+    "expl": "L'Aetherion devient pour Eldric un symbole d'instinct, d'observation et de vision.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0363",
+    "sourceCardId": "entites_magiques_0085",
+    "cat": "Entités magiques",
+    "q": "Comment l'Akkorokamui peut-il communiquer ?",
+    "correct": "Par télépathie, en transmettant pensées, sensations et images",
+    "wrongs": [
+      "Uniquement par des runes",
+      "Par des chants humains",
+      "Par des signaux lumineux"
+    ],
+    "expl": "L'Akkorokamui possède une forme de communication télépathique.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0364",
+    "sourceCardId": "entites_magiques_0086",
+    "cat": "Entités magiques",
+    "q": "Que sait-on avec certitude sur l'existence actuelle des Dragons ?",
+    "correct": "Personne ne peut affirmer avec certitude qu'ils existent encore",
+    "wrongs": [
+      "Ils vivent tous à Elderwood",
+      "Ils ont tous disparu avec certitude",
+      "Ils sont élevés par l'AMRU"
+    ],
+    "expl": "Les Dragons appartiennent largement à la légende et leur existence actuelle reste incertaine.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0365",
+    "sourceCardId": "magie_0087",
+    "cat": "Magie",
+    "q": "Comment les textes anciens désignent-ils l'Écho ?",
+    "correct": "Le Premier Murmure",
+    "wrongs": [
+      "La Première Rune",
+      "Le Grand Flux",
+      "Le Souffle Originel"
+    ],
+    "expl": "Les textes les plus anciens appellent l'Écho le Premier Murmure.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0366",
+    "sourceCardId": "magie_0088",
+    "cat": "Magie",
+    "q": "Quelles sont les deux prédispositions de la Résonance ?",
+    "correct": "Ressentir l'Écho et le contrôler",
+    "wrongs": [
+      "Créer un Voile et lancer des sorts",
+      "Lire les runes et fabriquer des catalyseurs",
+      "Voler et communiquer par télépathie"
+    ],
+    "expl": "Une prédisposition permet de ressentir l'Écho et l'autre de le contrôler.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0367",
+    "sourceCardId": "magie_0089",
+    "cat": "Magie",
+    "q": "Le Flux est-il une réserve enfermée dans le corps du sorcier ?",
+    "correct": "Non, c'est une énergie née de la relation entre l'Écho et la Résonance",
+    "wrongs": [
+      "Oui, toujours",
+      "Oui, uniquement chez les Dissonants",
+      "Oui, uniquement dans les catalyseurs"
+    ],
+    "expl": "Le Flux n'est pas une réserve interne : il naît de la rencontre entre l'Écho et une Résonance suffisante.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0368",
+    "sourceCardId": "maisons_0090",
+    "cat": "Maisons",
+    "q": "Quelles qualités caractérisent le Flux Bleu d'Aerwyn ?",
+    "correct": "Courage, Protection, Action",
+    "wrongs": [
+      "Savoir, Curiosité, Créativité",
+      "Stabilité, Loyauté, Continuité",
+      "Maîtrise, Stratégie, Influence"
+    ],
+    "expl": "Le Flux Bleu est tourné vers le courage, la protection et l'action.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0369",
+    "sourceCardId": "maisons_0091",
+    "cat": "Maisons",
+    "q": "Quelles qualités caractérisent le Flux Vert de Brumval ?",
+    "correct": "Stabilité, Loyauté, Continuité",
+    "wrongs": [
+      "Courage, Protection, Action",
+      "Savoir, Curiosité, Créativité",
+      "Maîtrise, Stratégie, Influence"
+    ],
+    "expl": "Le Flux Vert privilégie la stabilité, la loyauté et la continuité.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0370",
+    "sourceCardId": "maisons_0092",
+    "cat": "Maisons",
+    "q": "Quelles qualités caractérisent le Flux Orange de Falcon ?",
+    "correct": "Savoir, Curiosité, Créativité",
+    "wrongs": [
+      "Courage, Protection, Action",
+      "Stabilité, Loyauté, Continuité",
+      "Maîtrise, Stratégie, Influence"
+    ],
+    "expl": "Le Flux Orange est associé au savoir, à la curiosité et à la créativité.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0371",
+    "sourceCardId": "maisons_0093",
+    "cat": "Maisons",
+    "q": "Quelles qualités caractérisent le Flux Violet de Venatrix ?",
+    "correct": "Maîtrise, Stratégie, Influence",
+    "wrongs": [
+      "Courage, Protection, Action",
+      "Stabilité, Loyauté, Continuité",
+      "Savoir, Curiosité, Créativité"
+    ],
+    "expl": "Le Flux Violet privilégie la maîtrise, la stratégie et l'influence.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0372",
+    "sourceCardId": "magie_0094",
+    "cat": "Magie",
+    "q": "Quelle différence existe entre un Voile naturel et un Voile artificiel ?",
+    "correct": "Le naturel apparaît spontanément tandis que l'artificiel est posé volontairement",
+    "wrongs": [
+      "Le naturel est permanent et l'artificiel toujours temporaire",
+      "Le naturel est réservé aux écoles et l'artificiel aux maisons",
+      "Ils sont exactement identiques"
+    ],
+    "expl": "Le Voile naturel naît spontanément autour d'un lieu chargé en Flux, tandis que le Voile artificiel est créé volontairement.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0373",
+    "sourceCardId": "magie_0095",
+    "cat": "Magie",
+    "q": "Quelle responsabilité accompagne le statut de Résonant ?",
+    "correct": "Ne pas exposer la magie aux Sans-Flux",
+    "wrongs": [
+      "Ne jamais utiliser de catalyseur",
+      "Quitter Elderwood après un an",
+      "Participer obligatoirement au Razeball"
+    ],
+    "expl": "Les Résonants disposent de droits et de devoirs, notamment celui de préserver le secret magique.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0374",
+    "sourceCardId": "magie_0096",
+    "cat": "Magie",
+    "q": "Les Sans-Flux possèdent-ils une Résonance ?",
+    "correct": "Oui, mais elle est trop faible",
+    "wrongs": [
+      "Non, jamais",
+      "Oui, et elle est toujours plus forte que celle des Résonants",
+      "Uniquement lorsqu'ils utilisent une baguette"
+    ],
+    "expl": "Les Sans-Flux possèdent une Résonance, mais elle est trop faible pour produire un Flux exploitable.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0375",
+    "sourceCardId": "magie_0097",
+    "cat": "Magie",
+    "q": "Que se passe-t-il lorsqu'un Dissonant possède les deux prédispositions de la Résonance ?",
+    "correct": "Il est pleinement Résonant",
+    "wrongs": [
+      "Il devient Sans-Flux",
+      "Il perd sa Résonance",
+      "Il devient automatiquement membre de Venatrix"
+    ],
+    "expl": "Les rares Dissonants possédant les deux prédispositions sont pleinement Résonants.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0376",
+    "sourceCardId": "magie_0098",
+    "cat": "Magie",
+    "q": "Quelle forme de magie cherche à inscrire le Flux dans la durée ?",
+    "correct": "La Runomancie",
+    "wrongs": [
+      "La Magie d'usage",
+      "Le Razeball",
+      "Le Voile"
+    ],
+    "expl": "La Runomancie utilise des runes pour inscrire et orienter le Flux durablement.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0377",
+    "sourceCardId": "reglement_0099",
+    "cat": "Reglement",
+    "q": "Quel format de nom est obligatoire en Roleplay, sauf exception validée par le staff ?",
+    "correct": "Prénom Nom",
+    "wrongs": [
+      "Pseudo avec chiffres",
+      "Nom de célébrité",
+      "Nom uniquement"
+    ],
+    "expl": "Le format Prénom Nom est obligatoire, avec un nom cohérent et approprié à l'univers.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0378",
+    "sourceCardId": "reglement_0100",
+    "cat": "Reglement",
+    "q": "Quelle attitude est exigée envers les joueurs et le staff ?",
+    "correct": "Être courtois et respectueux",
+    "wrongs": [
+      "Pouvoir les provoquer en RP",
+      "Les ignorer systématiquement",
+      "Les harceler en privé"
+    ],
+    "expl": "Le règlement impose le respect et interdit notamment de dénigrer le serveur, ses membres ou son staff.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0379",
+    "sourceCardId": "reglement_0101",
+    "cat": "Reglement",
+    "q": "Quels propos sont strictement interdits en RP comme hors RP ?",
+    "correct": "Les propos racistes, sexistes, homophobes ou incitant à la haine",
+    "wrongs": [
+      "Les désaccords avec un personnage",
+      "Les discussions sur le Razeball",
+      "Les critiques constructives"
+    ],
+    "expl": "Le règlement interdit les propos haineux, discriminatoires et le harcèlement.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0380",
+    "sourceCardId": "reglement_0102",
+    "cat": "Reglement",
+    "q": "Où faut-il faire appel d'une sanction ?",
+    "correct": "Via les tickets",
+    "wrongs": [
+      "Par message privé au staff",
+      "Dans le chat général",
+      "Sur un autre serveur"
+    ],
+    "expl": "Les contestations doivent passer par le système de tickets et rester respectueuses.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0381",
+    "sourceCardId": "reglement_0103",
+    "cat": "Reglement",
+    "q": "Que doit respecter tout message lors d'une interaction en jeu ?",
+    "correct": "Le contexte du personnage et de l'univers RP",
+    "wrongs": [
+      "Le contexte d'un autre serveur",
+      "Uniquement les discussions HRP",
+      "Aucune règle particulière"
+    ],
+    "expl": "Le langage HRP est interdit pendant les interactions en jeu.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0382",
+    "sourceCardId": "reglement_0104",
+    "cat": "Reglement",
+    "q": "Les insinuations HRP sont-elles autorisées pendant les interactions en jeu ?",
+    "correct": "Non",
+    "wrongs": [
+      "Oui, si elles sont courtes",
+      "Oui, uniquement en vocal",
+      "Oui, avec accord du staff"
+    ],
+    "expl": "Toute insinuation ou allusion HRP durant les interactions en jeu est interdite.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0383",
+    "sourceCardId": "reglement_0105",
+    "cat": "Reglement",
+    "q": "Quelle action est interdite concernant les autres serveurs RP ?",
+    "correct": "Faire de la publicité, de la promotion ou inviter des joueurs",
+    "wrongs": [
+      "En parler dans un ticket au staff",
+      "Quitter le serveur",
+      "Jouer à un autre jeu"
+    ],
+    "expl": "La publicité pour un autre serveur RP est strictement interdite.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0384",
+    "sourceCardId": "reglement_0106",
+    "cat": "Reglement",
+    "q": "Que dit le règlement concernant les soundboards et voice mods pendant les sessions RP ?",
+    "correct": "Ils sont interdits en vocal",
+    "wrongs": [
+      "Ils sont obligatoires",
+      "Ils sont autorisés sans restriction",
+      "Ils sont réservés aux professeurs"
+    ],
+    "expl": "Les soundboards et modifications de voix sont interdits pendant les sessions RP.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0385",
+    "sourceCardId": "reglement_0107",
+    "cat": "Reglement",
+    "q": "Que peut entraîner une arnaque dans la boutique ou une manipulation du staff pour obtenir un avantage ?",
+    "correct": "Des sanctions sévères pouvant aller jusqu'au bannissement définitif",
+    "wrongs": [
+      "Uniquement un avertissement verbal",
+      "Une récompense",
+      "Aucune sanction"
+    ],
+    "expl": "Les fraudes et manipulations liées à la boutique ou au staff sont sévèrement sanctionnées.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0386",
+    "sourceCardId": "reglement_0108",
+    "cat": "Reglement",
+    "q": "Le partage de compte entre plusieurs personnes est-il autorisé ?",
+    "correct": "Non",
+    "wrongs": [
+      "Oui, avec un ami",
+      "Oui, entre membres d'une famille",
+      "Oui, uniquement pendant les vacances"
+    ],
+    "expl": "Chaque joueur doit utiliser son propre compte personnel.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0387",
+    "sourceCardId": "reglement_0109",
+    "cat": "Reglement",
+    "q": "Par quel moyen faut-il contester une sanction ?",
+    "correct": "Par un ticket Discord",
+    "wrongs": [
+      "Par MP au staff",
+      "Dans le chat RP",
+      "Par publicité"
+    ],
+    "expl": "Les contestations doivent impérativement passer par un ticket Discord.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0388",
+    "sourceCardId": "reglement_0110",
+    "cat": "Reglement",
+    "q": "Pourquoi est-il interdit de se déconnecter volontairement en pleine scène RP ?",
+    "correct": "Pour fuir une situation ou éviter ses conséquences RP",
+    "wrongs": [
+      "Pour économiser les ressources du serveur",
+      "Pour changer de maison",
+      "Pour rejoindre le Razeball"
+    ],
+    "expl": "La déconnexion volontaire en scène pour éviter une conséquence est interdite.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0389",
+    "sourceCardId": "reglement_0111",
+    "cat": "Reglement",
+    "q": "Comment faut-il contacter le staff pour une demande ou un problème ?",
+    "correct": "Via le système de tickets",
+    "wrongs": [
+      "En mentionnant systématiquement tous les membres",
+      "En envoyant des MP répétés",
+      "Dans une scène RP"
+    ],
+    "expl": "Le règlement demande d'utiliser les tickets plutôt que les mentions abusives.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0390",
+    "sourceCardId": "reglement_0112",
+    "cat": "Reglement",
+    "q": "Que faut-il faire lorsqu'un bug est découvert ?",
+    "correct": "Le signaler immédiatement au staff via un ticket",
+    "wrongs": [
+      "L'exploiter discrètement",
+      "Le vendre aux autres joueurs",
+      "Le publier sans prévenir"
+    ],
+    "expl": "L'exploitation volontaire des bugs est interdite et les bugs doivent être signalés.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0391",
+    "sourceCardId": "reglement_0113",
+    "cat": "Reglement",
+    "q": "Quelle est la durée maximale de conservation prévue pour les enregistrements vocaux réalisés par Great Owl Studio ?",
+    "correct": "24 mois",
+    "wrongs": [
+      "6 mois",
+      "12 mois",
+      "60 mois"
+    ],
+    "expl": "Les enregistrements sont conservés au maximum 24 mois, sauf exceptions prévues.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0392",
+    "sourceCardId": "reglement_0114",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que le metagaming ?",
+    "correct": "Utiliser des informations obtenues hors RP pour avantager son personnage",
+    "wrongs": [
+      "Jouer un personnage cohérent",
+      "Utiliser une potion",
+      "Participer au Razeball"
+    ],
+    "expl": "Le metagaming consiste à exploiter des informations OOC dans le RP.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0393",
+    "sourceCardId": "reglement_0115",
+    "cat": "Reglement",
+    "q": "Qu'est-ce qu'un freekill ?",
+    "correct": "Tuer un joueur sans raison RP valable ou sans contexte",
+    "wrongs": [
+      "Se défendre lors d'un combat justifié",
+      "Perdre un duel",
+      "Quitter une scène"
+    ],
+    "expl": "Toute action violente doit avoir une justification RP.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0394",
+    "sourceCardId": "reglement_0116",
+    "cat": "Reglement",
+    "q": "Que signifie Revenge Kill ?",
+    "correct": "Revenir se venger après la mort de son personnage",
+    "wrongs": [
+      "Se défendre avant une mort",
+      "Faire appel du règlement",
+      "Changer de maison"
+    ],
+    "expl": "Le Revenge Kill est interdit car une mort RP implique notamment une perte de mémoire des événements concernés.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0395",
+    "sourceCardId": "reglement_0117",
+    "cat": "Reglement",
+    "q": "Qu'est-ce qu'un Free Attack ?",
+    "correct": "Attaquer sans raison RP valable ou sans interaction préalable",
+    "wrongs": [
+      "Réagir à une agression",
+      "Participer à un duel organisé",
+      "Se défendre contre une menace"
+    ],
+    "expl": "Une agression doit être logique, justifiée et jouée en RP.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0396",
+    "sourceCardId": "reglement_0118",
+    "cat": "Reglement",
+    "q": "Que demande le Fear RP face à une menace sérieuse ?",
+    "correct": "Réagir avec réalisme et prudence",
+    "wrongs": [
+      "Ignorer systématiquement le danger",
+      "Provoquer l'adversaire",
+      "Agir comme si le personnage était invincible"
+    ],
+    "expl": "Le Fear RP impose de prendre les menaces au sérieux et de réagir de manière crédible.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0397",
+    "sourceCardId": "reglement_0119",
+    "cat": "Reglement",
+    "q": "Quand le Bunny Hopping est-il interdit ?",
+    "correct": "Lorsqu'il donne un avantage déloyal en combat ou en fuite",
+    "wrongs": [
+      "Lorsqu'il est utilisé une seule fois",
+      "Lorsqu'il est effectué hors combat uniquement",
+      "Jamais"
+    ],
+    "expl": "Le saut continu et irréaliste est interdit lorsqu'il procure un avantage injuste.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0398",
+    "sourceCardId": "reglement_0120",
+    "cat": "Reglement",
+    "q": "Quels moyens sont notamment interdits pour obtenir un avantage injuste ?",
+    "correct": "Cheats, scripts, mods non autorisés et exploitation de bugs",
+    "wrongs": [
+      "Les catalyseurs",
+      "Les sorts du lore",
+      "Les /roll"
+    ],
+    "expl": "La triche et l'exploitation de systèmes non autorisés sont strictement interdites.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0399",
+    "sourceCardId": "reglement_0121",
+    "cat": "Reglement",
+    "q": "Que demande le Mass RP ?",
+    "correct": "Prendre en compte la présence passive des PNJ et civils",
+    "wrongs": [
+      "Ignorer les personnes présentes",
+      "Créer des PNJ immortels",
+      "Jouer uniquement avec le staff"
+    ],
+    "expl": "Le Mass RP impose de tenir compte de l'environnement et des personnes présentes dans les lieux publics.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0400",
+    "sourceCardId": "reglement_0122",
+    "cat": "Reglement",
+    "q": "Que demande le Pain RP ?",
+    "correct": "Réagir de manière crédible à la douleur",
+    "wrongs": [
+      "Ignorer toute blessure",
+      "Rendre son personnage invincible",
+      "Quitter automatiquement le serveur"
+    ],
+    "expl": "Le personnage doit montrer des réactions crédibles face à la douleur.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0401",
+    "sourceCardId": "reglement_0124",
+    "cat": "Reglement",
+    "q": "Que signifie Force RP ?",
+    "correct": "Imposer une action, interaction ou conséquence RP à un autre joueur sans son accord",
+    "wrongs": [
+      "Respecter le consentement mutuel",
+      "Jouer une scène prévue",
+      "Utiliser une emote"
+    ],
+    "expl": "Le Force RP est interdit et le RP doit respecter le consentement mutuel.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0402",
+    "sourceCardId": "reglement_0126",
+    "cat": "Reglement",
+    "q": "Pourquoi le Safe RP est-il interdit ?",
+    "correct": "Parce qu'il consiste à protéger systématiquement son personnage pour éviter toute conséquence RP",
+    "wrongs": [
+      "Parce qu'il oblige à prendre des risques",
+      "Parce qu'il interdit les combats",
+      "Parce qu'il interdit les dialogues"
+    ],
+    "expl": "Le personnage doit accepter les risques et conséquences liés à ses choix RP.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0403",
+    "sourceCardId": "reglement_0128",
+    "cat": "Reglement",
+    "q": "Que demande la Logique RP concernant le personnage ?",
+    "correct": "Qu'il reste cohérent avec l'univers et son histoire",
+    "wrongs": [
+      "Qu'il change de personnalité chaque jour",
+      "Qu'il soit omniscient",
+      "Qu'il puisse modifier son histoire sans justification"
+    ],
+    "expl": "Les changements importants doivent être justifiés progressivement en RP.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0404",
+    "sourceCardId": "reglement_0129",
+    "cat": "Reglement",
+    "q": "Combien de temps faut-il attendre avant de retourner sur la zone de sa mort selon la NLR ?",
+    "correct": "20 minutes minimum",
+    "wrongs": [
+      "5 minutes",
+      "10 minutes",
+      "30 secondes"
+    ],
+    "expl": "La NLR impose également d'oublier les événements précédant la mort dans un délai de 15 minutes.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0405",
+    "sourceCardId": "reglement_0130",
+    "cat": "Reglement",
+    "q": "Quelle condition est requise pour effectuer un RPK Flash ?",
+    "correct": "Un scénario RP cohérent, une interaction préalable et un ticket RPK validé",
+    "wrongs": [
+      "Aucune condition",
+      "Une simple demande en vocal",
+      "Un vote des joueurs"
+    ],
+    "expl": "Le RPK Flash sans contexte est interdit et un ticket RPK est requis.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0406",
+    "sourceCardId": "reglement_0131",
+    "cat": "Reglement",
+    "q": "Qu'est-ce que l'AFK Farm ?",
+    "correct": "Progresser ou gagner des ressources en étant inactif",
+    "wrongs": [
+      "Faire une quête active",
+      "Participer à un cours",
+      "Jouer au Razeball"
+    ],
+    "expl": "L'AFK Farm consiste à exploiter les systèmes du serveur tout en restant inactif.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0407",
+    "sourceCardId": "reglement_0132",
+    "cat": "Reglement",
+    "q": "Quel intervalle doit normalement séparer deux /roll pour une même action ?",
+    "correct": "Une minute",
+    "wrongs": [
+      "Dix secondes",
+      "Trente secondes",
+      "Cinq minutes"
+    ],
+    "expl": "Chaque /roll pour une même action doit être espacé d'une minute, sauf échec critique.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0408",
+    "sourceCardId": "reglement_0133",
+    "cat": "Reglement",
+    "q": "Quel principe est au cœur du FairPlay ?",
+    "correct": "Respecter les autres et jouer honnêtement sans avantage injuste",
+    "wrongs": [
+      "Gagner à tout prix",
+      "Éviter toute conséquence RP",
+      "Utiliser les bugs discrètement"
+    ],
+    "expl": "Le FairPlay repose sur le respect, l'honnêteté et l'absence de triche.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0409",
+    "sourceCardId": "reglement_0135",
+    "cat": "Reglement",
+    "q": "Les scènes à caractère sexuel sont-elles autorisées ?",
+    "correct": "Non",
+    "wrongs": [
+      "Oui sans restriction",
+      "Oui uniquement en vocal",
+      "Oui si elles sont courtes"
+    ],
+    "expl": "Les scènes à caractère sexuel sont interdites par le règlement.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0410",
+    "sourceCardId": "reglement_0136",
+    "cat": "Reglement",
+    "q": "Que faut-il pour porter le nom d'une famille originelle, notable ou réputée ?",
+    "correct": "Une naissance validée par le staff",
+    "wrongs": [
+      "Un simple choix dans le créateur",
+      "Un vote des élèves",
+      "Une victoire au Razeball"
+    ],
+    "expl": "Les noms de familles officielles nécessitent une naissance validée par le staff.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0411",
+    "sourceCardId": "reglement_0137",
+    "cat": "Reglement",
+    "q": "Que représente la commande /me ?",
+    "correct": "Une action physique du personnage",
+    "wrongs": [
+      "Une narration globale",
+      "Une action environnementale",
+      "Une pensée secrète"
+    ],
+    "expl": "Le /me sert à décrire une action physique effectuée par le personnage.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0412",
+    "sourceCardId": "reglement_0138",
+    "cat": "Reglement",
+    "q": "Quelle somme maximale peut-on arnaquer quelqu'un dans le cadre du RP ?",
+    "correct": "2500 Dragondors",
+    "wrongs": [
+      "1000 Dragondors",
+      "5000 Dragondors",
+      "10000 Dragondors"
+    ],
+    "expl": "Le règlement autorise une arnaque jusqu'à 2500 Dragondors.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0413",
+    "sourceCardId": "reglement_0139",
+    "cat": "Reglement",
+    "q": "Comment faut-il jouer les effets d'une potion ?",
+    "correct": "En jouant réellement les effets affichés",
+    "wrongs": [
+      "En les ignorant",
+      "En les minimisant",
+      "En demandant automatiquement un reroll"
+    ],
+    "expl": "Les effets des potions sont réels pour le personnage et doivent être joués.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0414",
+    "sourceCardId": "reglement_0140",
+    "cat": "Reglement",
+    "q": "Quelle condition doit respecter un coma RP ?",
+    "correct": "Être cohérent avec une blessure grave ou un choc violent",
+    "wrongs": [
+      "Être utilisé uniquement pour perdre la mémoire",
+      "Être provoqué sans raison",
+      "Être obligatoire après chaque duel"
+    ],
+    "expl": "Le coma ne doit pas être utilisé artificiellement pour faire perdre la mémoire à quelqu'un.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0415",
+    "sourceCardId": "reglement_0141",
+    "cat": "Reglement",
+    "q": "Que faut-il pour jouer un RP de mage noir ?",
+    "correct": "Faire une demande via ticket et obtenir les autorisations nécessaires",
+    "wrongs": [
+      "Aucune autorisation",
+      "Utiliser n'importe quelle magie",
+      "Être automatiquement protégé par le staff"
+    ],
+    "expl": "Le RP mage noir nécessite une demande et, pour un élève, une autorisation du staff.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0416",
+    "sourceCardId": "reglement_0142",
+    "cat": "Reglement",
+    "q": "Peut-on créer librement un personnage hybride ou lycanthrope ?",
+    "correct": "Non, une validation de WL est nécessaire",
+    "wrongs": [
+      "Oui, sans condition",
+      "Oui, uniquement à partir de la troisième année",
+      "Oui, si le personnage est majeur"
+    ],
+    "expl": "Les personnages hybrides, lycanthropes ou créatures conscientes nécessitent une validation WL.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0417",
+    "sourceCardId": "reglement_0143",
+    "cat": "Reglement",
+    "q": "Comment les lettres RP doivent-elles être envoyées ?",
+    "correct": "Via le système en jeu",
+    "wrongs": [
+      "Par Discord",
+      "Par message privé hors RP",
+      "Par le chat vocal"
+    ],
+    "expl": "Les lettres RP doivent être jouées via le système en jeu afin d'éviter le metagaming.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0418",
+    "sourceCardId": "reglement_0144",
+    "cat": "Reglement",
+    "q": "Que faut-il faire avant chaque sort ?",
+    "correct": "Prononcer verbalement l'incantation",
+    "wrongs": [
+      "Faire uniquement un /roll",
+      "Utiliser deux catalyseurs",
+      "Écrire une pensée"
+    ],
+    "expl": "L'incantation verbale est obligatoire avant chaque sort.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0419",
+    "sourceCardId": "reglement_0145",
+    "cat": "Reglement",
+    "q": "Qu'est-ce qui est interdit concernant les capacités d'un personnage ?",
+    "correct": "Le rendre invincible ou omniscient",
+    "wrongs": [
+      "Lui faire apprendre progressivement une compétence",
+      "Lui donner un passé cohérent",
+      "Lui faire évoluer ses connaissances en RP"
+    ],
+    "expl": "Les pouvoirs et connaissances doivent être gagnés en RP et le personnage doit rester cohérent.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0420",
+    "sourceCardId": "reglement_0146",
+    "cat": "Reglement",
+    "q": "Pourquoi est-il recommandé d'enregistrer ses scènes RP ?",
+    "correct": "Pour pouvoir se défendre en cas de convocation en BDA",
+    "wrongs": [
+      "Pour gagner automatiquement des Dragondors",
+      "Pour changer de maison",
+      "Pour obtenir une WL"
+    ],
+    "expl": "Les enregistrements peuvent servir de preuve pour défendre sa version des faits.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0421",
+    "sourceCardId": "reglement_0147",
+    "cat": "Reglement",
+    "q": "Dans quelles conditions le Bully RP est-il autorisé ?",
+    "correct": "S'il est mutuel et cohérent avec l'histoire",
+    "wrongs": [
+      "Toujours",
+      "Sans l'accord des joueurs",
+      "Uniquement hors RP"
+    ],
+    "expl": "Le Bully RP doit rester mutuel et cohérent, sans servir à justifier du harcèlement HRP.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0422",
+    "sourceCardId": "reglement_0148",
+    "cat": "Reglement",
+    "q": "Que ne doit pas faire un personnage qui devient le centre d'un arc ?",
+    "correct": "Voler toutes les scènes ou forcer les autres joueurs à tourner autour de lui",
+    "wrongs": [
+      "Participer à l'histoire",
+      "Développer son personnage",
+      "Jouer avec d'autres personnages"
+    ],
+    "expl": "Être au centre d'un arc ne permet pas de monopoliser le RP ou de s'attribuer des pouvoirs sans autorisation.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0423",
+    "sourceCardId": "reglement_0149",
+    "cat": "Reglement",
+    "q": "Quel principe s'applique aux actions RP ?",
+    "correct": "Toute action RP entraîne une conséquence RP",
+    "wrongs": [
+      "Le staff annule toujours les conséquences",
+      "Les indices n'ont aucun effet",
+      "Les choix RP sont sans conséquence"
+    ],
+    "expl": "Les joueurs doivent assumer les conséquences de leurs actions, indices et imprudences.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0424",
+    "sourceCardId": "reglement_0150",
+    "cat": "Reglement",
+    "q": "Qui sont considérés comme des figures d'autorité RP ?",
+    "correct": "Le directeur, les professeurs et les surveillants",
+    "wrongs": [
+      "Les joueurs de Razeball uniquement",
+      "Les nouveaux élèves",
+      "Les Sans-Flux"
+    ],
+    "expl": "Le personnel d'Elderwood représente l'autorité RP et doit être respecté.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0425",
+    "sourceCardId": "reglement_0151",
+    "cat": "Reglement",
+    "q": "Quel âge a un personnage le jour de sa rentrée à Elderwood ?",
+    "correct": "15 ans",
+    "wrongs": [
+      "13 ans",
+      "16 ans",
+      "18 ans"
+    ],
+    "expl": "Le règlement précise que le personnage a exactement 15 ans le jour de sa rentrée.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0426",
+    "sourceCardId": "reglement_0152",
+    "cat": "Reglement",
+    "q": "Le changement de maison est-il autorisé ?",
+    "correct": "Non",
+    "wrongs": [
+      "Oui après un an",
+      "Oui avec un vote des élèves",
+      "Oui après une défaite au Razeball"
+    ],
+    "expl": "Le changement de maison est interdit, tout comme le wipe ou RPK forcé destiné à changer de maison.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0427",
+    "sourceCardId": "reglement_0153",
+    "cat": "Reglement",
+    "q": "Que faut-il pour tuer quelqu'un dans une zone RPK selon la règle générale ?",
+    "correct": "Un ticket RPK actif ou l'accord HRP de la personne concernée",
+    "wrongs": [
+      "Aucune autorisation",
+      "Un simple duel",
+      "Une demande à un autre joueur"
+    ],
+    "expl": "L'accès à une zone RPK ne permet pas de contourner les règles de consentement et de ticket.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0428",
+    "sourceCardId": "reglement_0154",
+    "cat": "Reglement",
+    "q": "Quel statut possède la forêt de Brûlebrume ?",
+    "correct": "Zone à risque RPK",
+    "wrongs": [
+      "Zone sans danger",
+      "Zone réservée aux cours",
+      "Zone Sans-Flux"
+    ],
+    "expl": "Brûlebrume est une zone où les joueurs peuvent subir un RPK selon les situations.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0429",
+    "sourceCardId": "reglement_0155",
+    "cat": "Reglement",
+    "q": "Quel lieu est une zone à risque RPK où un meurtre sans ticket est interdit ?",
+    "correct": "La cathédrale abandonnée et le cimetière",
+    "wrongs": [
+      "La Grande Salle",
+      "La Grande Volière",
+      "Les Jardins"
+    ],
+    "expl": "La cathédrale abandonnée et le cimetière sont des zones RPK avec des règles spécifiques.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0430",
+    "sourceCardId": "reglement_0156",
+    "cat": "Reglement",
+    "q": "Quel lieu est classé comme zone à risque RPK ?",
+    "correct": "Les grottes",
+    "wrongs": [
+      "La Bibliothèque",
+      "La Grande Salle",
+      "Le Grand Foyer"
+    ],
+    "expl": "Les grottes sont indiquées comme une zone à risque RPK.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0431",
+    "sourceCardId": "reglement_0157",
+    "cat": "Reglement",
+    "q": "Que risque un joueur qui s'aventure sans invitation sur l'Île de la Tour ?",
+    "correct": "Le RPK sans porte de sortie par les personnes qui l'occupent",
+    "wrongs": [
+      "Une récompense automatique",
+      "Un changement de maison",
+      "Un accès gratuit à la prison"
+    ],
+    "expl": "L'Île de la Tour est une zone à très haut risque RPK.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0432",
+    "sourceCardId": "reglement_0158",
+    "cat": "Reglement",
+    "q": "Que risque-t-on en entrant sans invitation dans le bureau du Directeur d'Elderwood ?",
+    "correct": "Un RPK sans porte de sortie",
+    "wrongs": [
+      "Une récompense",
+      "Une promotion",
+      "Un accès à la Grande Volière"
+    ],
+    "expl": "Le bureau du Directeur est une zone RPK où l'entrée sans invitation est interdite.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0433",
+    "sourceCardId": "reglement_0159",
+    "cat": "Reglement",
+    "q": "Quelle partie du siège de l'AMRU est publique ?",
+    "correct": "Le hall central",
+    "wrongs": [
+      "Tous les bureaux",
+      "Les archives secrètes",
+      "Les zones sécurisées"
+    ],
+    "expl": "En dehors du hall central, les zones non accessibles à tous sont soumises au RPK.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0434",
+    "sourceCardId": "reglement_0160",
+    "cat": "Reglement",
+    "q": "Que faut-il pour entrer dans la prison de Brise-Flux sans être soumis au RPK ?",
+    "correct": "Un laisser-passer délivré par l'AMRU ou une autorisation spécifique",
+    "wrongs": [
+      "Une invitation d'un élève",
+      "Un billet de Razeball",
+      "Une simple excuse"
+    ],
+    "expl": "L'entrée dans la prison nécessite une autorisation appropriée.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0435",
+    "sourceCardId": "reglement_0161",
+    "cat": "Reglement",
+    "q": "Quelles sont les quatre familles originelles listées dans le règlement ?",
+    "correct": "Dravenholt, Caerwyn, Hearthbane et Valemont",
+    "wrongs": [
+      "Belladorn, Ravenscroft, Glenhart et Valemont",
+      "Caerwyn, Belladorn, Glenhart et Dravenholt",
+      "Hearthbane, Ravenscroft, Belladorn et Caerwyn"
+    ],
+    "expl": "Les familles originelles sont Dravenholt, Caerwyn, Hearthbane et Valemont.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0436",
+    "sourceCardId": "reglement_0162",
+    "cat": "Reglement",
+    "q": "Combien de slots joueurs sont prévus pour une famille originelle ?",
+    "correct": "6",
+    "wrongs": [
+      "3",
+      "5",
+      "10"
+    ],
+    "expl": "Les familles originelles disposent de 6 slots joueurs et 2 slots streamer.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0437",
+    "sourceCardId": "reglement_0163",
+    "cat": "Reglement",
+    "q": "À partir de combien de joueurs une famille non officielle doit-elle signaler sa famille au staff pour constituer une archive ?",
+    "correct": "Plus de 3 joueurs",
+    "wrongs": [
+      "Plus de 2 joueurs",
+      "Plus de 5 joueurs",
+      "Plus de 10 joueurs"
+    ],
+    "expl": "Une famille non officielle constituée de plus de 3 joueurs doit ouvrir un ticket.",
+    "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0438",
+    "sourceCardId": "reglement_0164",
+    "cat": "Reglement",
+    "q": "Une famille non officielle peut-elle devenir une famille réputée ?",
+    "correct": "Oui, sous certaines conditions et après décision du staff",
+    "wrongs": [
+      "Non, jamais",
+      "Oui automatiquement après un mois",
+      "Oui uniquement en gagnant le Razeball"
+    ],
+    "expl": "Une famille peut évoluer selon son RP, son impact et ses actions, avec décision finale du staff.",
+    "addedAt": "2026-09-13"
   }
 ]
