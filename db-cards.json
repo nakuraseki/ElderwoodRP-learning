@@ -7,7 +7,8 @@
     "a": "Aussi appelé magie, l'origine de toute chose.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "028e101b"
   },
   {
     "id": "glossaire_0002",
@@ -17,7 +18,8 @@
     "a": "Réponse propre de chaque être vivant à l'Écho, reposant sur deux prédispositions génétiques : ressentir l'Écho, et le contrôler.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "52d6e2c8"
   },
   {
     "id": "glossaire_0003",
@@ -27,7 +29,8 @@
     "a": "Énergie née de la rencontre entre l'Écho et la Résonance.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "ca452d4f"
   },
   {
     "id": "glossaire_0004",
@@ -37,17 +40,21 @@
     "a": "Humains dont la Résonance est trop faible pour produire un Flux exploitable.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "77f87908"
   },
   {
     "id": "glossaire_0005",
     "cat": "Glossaire",
     "subcat": "Termes",
     "q": "Dissonant",
-    "a": "Né de parents Sans-Flux mais présentant une des deux prédispositions de la Résonance.",
+    "a": "Né de parents Sans-Flux mais ne présentant qu'une des deux prédispositions de la Résonance.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "8e2a77c7",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "glossaire_0006",
@@ -57,7 +64,8 @@
     "a": "Phénomène dissimulant un lieu chargé de Flux aux Sans-Flux.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "c5eda126"
   },
   {
     "id": "glossaire_0007",
@@ -67,7 +75,8 @@
     "a": "Objet (baguette, sceptre, bâton, flûte, ou tout autre instrument magique) canalisant le Flux du sorcier.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "773db20c"
   },
   {
     "id": "glossaire_0008",
@@ -77,17 +86,21 @@
     "a": "Aussi appelée « la Source », bassin d'eau révélant la couleur du Flux de chaque Résonant.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "61d19d40"
   },
   {
     "id": "glossaire_0009",
     "cat": "Glossaire",
     "subcat": "Termes",
     "q": "Razeball",
-    "a": "Sport international sorcier, aussi appelé « le Raze » (anciennement « Razorball »).",
+    "a": "Sport international sorcier, aussi appelé « le Raze ».",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "f95f285c",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "magie_0010",
@@ -97,7 +110,8 @@
     "a": "L'Écho est la force originelle qui traverse toute chose depuis la naissance de l'univers, ce que les textes les plus anciens appellent le Premier Murmure. Il ne produit aucun sortilège et n'obéit à aucune formule : il est simplement présent, mêlé à la matière, aux lieux, aux êtres vivants, depuis toujours.\n\nEn pratique, l'Écho est ce qui rend la magie possible. Sans lui, aucune Résonance et aucun Flux ne pourraient exister : c'est le socle sur lequel repose toute la magie pratiquée à Elderwood.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "a7e8a08e"
   },
   {
     "id": "magie_0011",
@@ -107,7 +121,8 @@
     "a": "La Résonance est la manière dont un être répond à l'Écho, une fréquence propre à chacun, présente en toute chose depuis sa naissance.\n\nChez la majorité des humains, elle demeure trop faible pour produire quoi que ce soit de perceptible : ce sont les Sans-Flux. Chez d'autres, elle répond avec assez de force et de clarté pour qu'un véritable échange se forme avec l'Écho : ce sont les Résonants. C'est cette différence de Résonance, et non le sang ou la naissance, qui détermine qui peut ou non pratiquer la magie.\n\nConcrètement, la Résonance repose sur deux prédispositions distinctes, transmises génétiquement : l'une permet de ressentir l'Écho, l'autre permet de le contrôler. Un Résonant complet possède les deux : il perçoit la magie et parvient à en tirer un Flux exploitable.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "cb420fae"
   },
   {
     "id": "magie_0012",
@@ -117,7 +132,8 @@
     "a": "Le Flux naît lorsque l'Écho rencontre une Résonance suffisamment forte pour y répondre. Ce n'est pas une réserve enfermée dans le corps du sorcier, mais une énergie qui naît de cette relation : la forme perceptible et manipulable de la magie.\n\nEn pratique, le Flux se manifeste d'abord sans contrôle chez les jeunes sorciers : une peur qui repousse un danger, une colère qui fait trembler un objet, avant d'être apprivoisé grâce à l'intention, au geste, à l'incantation et à un catalyseur (baguette, sceptre, bâton, flûte, ou tout autre instrument magique). Apprendre la magie, c'est avant tout apprendre à diriger volontairement ce que le Flux fait déjà instinctivement.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "9d56a9e9"
   },
   {
     "id": "maisons_0013",
@@ -130,7 +146,8 @@
       "color": "#3f7fd8"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "b5027350"
   },
   {
     "id": "maisons_0014",
@@ -143,7 +160,8 @@
       "color": "#6b3fa0"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "9c850c0b"
   },
   {
     "id": "maisons_0015",
@@ -156,7 +174,8 @@
       "color": "#3f8f52"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "4958ae12"
   },
   {
     "id": "maisons_0016",
@@ -169,7 +188,8 @@
       "color": "#d8823f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "002b493a"
   },
   {
     "id": "magie_0017",
@@ -179,7 +199,8 @@
     "a": "Chaque lieu possède, comme les êtres vivants, sa propre Résonance. Une forte concentration de Flux peut faire naître un Voile, un phénomène qui rend le lieu difficile à remarquer pour les Sans-Flux.\n\nLes écoles et sanctuaires magiques se construisent souvent dans ces lieux voilés, Elderwood en est l'exemple le plus connu, dissimulée du monde Sans-Flux par un Voile naturel particulièrement puissant. Un lieu trop chargé en Flux peut cependant devenir imprévisible : c'est ainsi que naissent les Échoïdes, des souvenirs figés dans une rune instable.\n\nOn distingue le Voile naturel, qui se forme spontanément autour d'un lieu fortement chargé en Flux, du voile artificiel, posé volontairement par des sorciers pour dissimuler un lieu de leur choix. Un voile artificiel peut se superposer à un Voile naturel existant, et parfois même le perturber.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "bb859800"
   },
   {
     "id": "magie_0018",
@@ -189,7 +210,8 @@
     "a": "Ceux que l'on appelle dans le langage courant des sorciers. Ils possèdent une Résonance assez importante et claire pour répondre à l'Écho et faire naître un Flux exploitable. Cela leur permet d'apprendre la magie, de canaliser leur Flux à travers une baguette, un sceptre ou tout autre catalyseur, de pratiquer des sorts et d'utiliser des objets enchantés. Être Résonant implique l'accès à une éducation magique, à des droits, des devoirs, et une responsabilité : celle de ne pas exposer la magie aux Sans-Flux.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "06a714cb"
   },
   {
     "id": "magie_0019",
@@ -199,7 +221,8 @@
     "a": "Ils représentent la majorité de l'humanité. Ils possèdent bien une Résonance, comme toute chose existante, mais elle est bien trop faible : ils ne perçoivent pas la magie, ne produisent pas de Flux suffisant et ne peuvent pas le manipuler. Cela ne signifie pas qu'ils sont totalement séparés du monde magique : ils peuvent apercevoir certaines choses, être touchés par ses effets, ou traverser le Voile si celui-ci est affaibli, devenant alors témoins de phénomènes qu'ils ne s'expliquent pas. Leur esprit tend naturellement à rationaliser ce qu'il ne comprend pas et à se tourner vers la science.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "406e71ba"
   },
   {
     "id": "magie_0020",
@@ -209,7 +232,8 @@
     "a": "Des cas particuliers. Ils naissent dans le monde Sans-Flux, souvent de parents Sans-Flux, mais héritent d'une prédisposition génétique rare liée à la Résonance. Rappel : la Résonance repose sur deux prédispositions, celle qui permet de ressentir l'Écho et celle qui permet de le contrôler. La plupart des Dissonants n'en portent qu'une seule : ceux-là sont connus dans le monde humain comme des génies, des prodiges, des voyants ou des médiums. Les cas les plus rares possèdent les deux à la fois et deviennent alors de véritables sorciers nés au sein d'une lignée Sans-Flux, repérés très jeunes par les instances magiques de chaque pays.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "85019ac1"
   },
   {
     "id": "magie_0021",
@@ -219,7 +243,8 @@
     "a": "La Magie d'usage est la forme la plus répandue aujourd'hui. Elle correspond à la magie pratiquée par les sorciers dans leur vie quotidienne : dans les écoles, les duels, les soins, les enchantements simples ou les actes magiques courants. Elle repose sur l'intention du sorcier, sur sa capacité à canaliser son Flux, puis à lui donner une direction par un geste, une formule ou un catalyseur. L'apparition des baguettes a profondément transformé cette pratique, en concentrant le Flux dans un catalyseur adapté, ce qui a permis aux sorciers d'affiner leurs gestes et de transmettre plus facilement leur savoir.\n\nLa Runomancie suit une logique différente : là où la Magie d'usage agit par le geste et l'instant, la Runomancie cherche à inscrire le Flux dans la durée. Les runes ne sont pas de simples lettres, mais des fréquences retranscrites sous forme de symboles ; chaque rune représente une harmonie observée dans l'Écho. Une rune seule possède une influence limitée, mais plusieurs runes forment un accord capable d'orienter durablement la magie : protéger un lieu, verrouiller un passage, conserver une mémoire ou stabiliser un enchantement.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "59d1b586"
   },
   {
     "id": "elderwood_0022",
@@ -229,7 +254,8 @@
     "a": "En l'an 1298, Falcon découvrit sur une île sans nom, protégée par un voile magique, une source d'eau capable de révéler la couleur de l'âme de quiconque s'y reflète : la Source de Vehr, plus simplement appelée la Source.\n\nIl identifia quatre couleurs majeures : le bleu, le vert, le violet, l'orange. Il chercha ensuite trois personnes dont l'âme correspondrait aux couleurs qu'il n'incarnait pas lui-même : Aerwyn, Venatrix et Brumval. En l'an 1300, tous les quatre fondèrent Elderwood.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "11b842fc"
   },
   {
     "id": "maisons_0023",
@@ -242,33 +268,40 @@
       "color": "#d8823f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "eb530c40"
   },
   {
     "id": "maisons_0024",
     "cat": "Maisons",
     "subcat": "Symboles",
     "q": "Symbole de la maison Falcon ?",
-    "a": "Le Faucon pèlerin",
+    "a": "L’Aetherion",
     "meta": {
       "house": "Falcon",
       "color": "#d8823f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "8dfb6ad6",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "maisons_0025",
     "cat": "Maisons",
     "subcat": "Valeurs",
     "q": "Valeurs de la maison Falcon ?",
-    "a": "Savoir · Curiosité · Sagesse",
+    "a": "Savoir - Curiosité - Sagesse",
     "meta": {
       "house": "Falcon",
       "color": "#d8823f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "1c6ff4f4",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "maisons_0026",
@@ -281,7 +314,8 @@
       "color": "#d8823f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "a881b223"
   },
   {
     "id": "maisons_0027",
@@ -294,7 +328,8 @@
       "color": "#d8823f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "e729cf1c"
   },
   {
     "id": "maisons_0028",
@@ -307,7 +342,8 @@
       "color": "#d8823f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "c007d497"
   },
   {
     "id": "maisons_0029",
@@ -320,33 +356,40 @@
       "color": "#3f7fd8"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "4b14ffdc"
   },
   {
     "id": "maisons_0030",
     "cat": "Maisons",
     "subcat": "Symboles",
     "q": "Symbole de la maison Aerwyn ?",
-    "a": "Le Pégase, l'épée et le bouclier",
+    "a": "L’Ephyr",
     "meta": {
       "house": "Aerwyn",
       "color": "#3f7fd8"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "7e1773a9",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "maisons_0031",
     "cat": "Maisons",
     "subcat": "Valeurs",
     "q": "Valeurs de la maison Aerwyn ?",
-    "a": "Honneur · Protection · Constance",
+    "a": "Honneur - Protection - Constance",
     "meta": {
       "house": "Aerwyn",
       "color": "#3f7fd8"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "14c766d0",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "maisons_0032",
@@ -359,7 +402,8 @@
       "color": "#3f7fd8"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "ace1f261"
   },
   {
     "id": "maisons_0033",
@@ -372,7 +416,8 @@
       "color": "#3f7fd8"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "0416679f"
   },
   {
     "id": "maisons_0034",
@@ -385,7 +430,8 @@
       "color": "#3f7fd8"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "28b1da92"
   },
   {
     "id": "maisons_0035",
@@ -398,33 +444,40 @@
       "color": "#6b3fa0"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "b45dc8c6"
   },
   {
     "id": "maisons_0036",
     "cat": "Maisons",
     "subcat": "Symboles",
     "q": "Symbole de la maison Venatrix ?",
-    "a": "La Pieuvre Géante",
+    "a": "L’Akkorokamui",
     "meta": {
       "house": "Venatrix",
       "color": "#6b3fa0"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "01ed5c33",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "maisons_0037",
     "cat": "Maisons",
     "subcat": "Valeurs",
     "q": "Valeurs de la maison Venatrix ?",
-    "a": "Ambition · Maîtrise · Influence",
+    "a": "Ambition - Maîtrise - Influence",
     "meta": {
       "house": "Venatrix",
       "color": "#6b3fa0"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "2ededcf1",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "maisons_0038",
@@ -437,7 +490,8 @@
       "color": "#6b3fa0"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "65452e89"
   },
   {
     "id": "maisons_0039",
@@ -450,7 +504,8 @@
       "color": "#6b3fa0"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "78ce469d"
   },
   {
     "id": "maisons_0040",
@@ -463,7 +518,8 @@
       "color": "#6b3fa0"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "84dcc2d9"
   },
   {
     "id": "maisons_0041",
@@ -476,33 +532,40 @@
       "color": "#3f8f52"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "374fbb38"
   },
   {
     "id": "maisons_0042",
     "cat": "Maisons",
     "subcat": "Symboles",
     "q": "Symbole de la maison Brumval ?",
-    "a": "Le Grand Ours",
+    "a": "Le Valdorn",
     "meta": {
       "house": "Brumval",
       "color": "#3f8f52"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "71f20701",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "maisons_0043",
     "cat": "Maisons",
     "subcat": "Valeurs",
     "q": "Valeurs de la maison Brumval ?",
-    "a": "Loyauté · Camaraderie · Courage",
+    "a": "Loyauté - Camaraderie - Courage",
     "meta": {
       "house": "Brumval",
       "color": "#3f8f52"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "ff77eefb",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "maisons_0044",
@@ -515,7 +578,8 @@
       "color": "#3f8f52"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "50562a60"
   },
   {
     "id": "maisons_0045",
@@ -528,7 +592,8 @@
       "color": "#3f8f52"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "7795965b"
   },
   {
     "id": "maisons_0046",
@@ -541,7 +606,8 @@
       "color": "#3f8f52"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "e1549583"
   },
   {
     "id": "elderwood_0047",
@@ -553,7 +619,8 @@
       "color": "#c9a227"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "3a20d4ce"
   },
   {
     "id": "elderwood_0048",
@@ -565,7 +632,8 @@
       "color": "#c0504f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "7c48eada"
   },
   {
     "id": "elderwood_0049",
@@ -577,7 +645,8 @@
       "color": "#3f8f52"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "69ab86a4"
   },
   {
     "id": "elderwood_0050",
@@ -589,7 +658,8 @@
       "color": "#3f7fd8"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "544a8852"
   },
   {
     "id": "elderwood_0051",
@@ -601,7 +671,8 @@
       "color": "#8a6d3f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "fedc88f1"
   },
   {
     "id": "elderwood_0052",
@@ -613,7 +684,8 @@
       "color": "#6b3fa0"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "c18c12a9"
   },
   {
     "id": "elderwood_0053",
@@ -625,7 +697,8 @@
       "color": "#d05050"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "81378980"
   },
   {
     "id": "elderwood_0054",
@@ -637,7 +710,8 @@
       "color": "#d8823f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "d811e33e"
   },
   {
     "id": "elderwood_0055",
@@ -649,7 +723,8 @@
       "color": "#c9a227"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "721d9612"
   },
   {
     "id": "elderwood_0056",
@@ -661,7 +736,8 @@
       "color": "#d8823f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "0f70db36"
   },
   {
     "id": "elderwood_0057",
@@ -673,7 +749,8 @@
       "color": "#3f7fd8"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "1afc2783"
   },
   {
     "id": "elderwood_0058",
@@ -685,7 +762,8 @@
       "color": "#6b3fa0"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "7b433367"
   },
   {
     "id": "elderwood_0059",
@@ -697,7 +775,8 @@
       "color": "#3f8f52"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "02d938c4"
   },
   {
     "id": "elderwood_0060",
@@ -709,7 +788,8 @@
       "color": "#d05050"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "bd578828"
   },
   {
     "id": "elderwood_0061",
@@ -721,7 +801,8 @@
       "color": "#3f7fd8"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "aeaebe1b"
   },
   {
     "id": "elderwood_0062",
@@ -733,7 +814,8 @@
       "color": "#8a6d3f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "aab0b1f5"
   },
   {
     "id": "elderwood_0063",
@@ -743,55 +825,68 @@
     "a": "Institution centrale du monde magique britannique, le Ministère entretient des relations étroites avec Elderwood depuis sa fondation.\n\nAlistair Valemont, patriarche de la famille Valemont, y occupe aujourd'hui un poste élevé.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "65339763"
   },
   {
     "id": "elderwood_0064",
     "cat": "Elderwood",
     "subcat": "Les grandes familles",
     "q": "Valemont (Maison Falcon, le savoir)",
-    "a": "Gardiens de la bibliothèque d'Elderwood depuis le XIVe siècle. Représentés par Ebenezer Valemont, attrapeur vedette de Falcon.",
+    "a": "Gardiens historiques des archives d’Elderwood, les Valemont ont sauvé les savoirs de l’école durant la Crise des Archives du XIVe siècle. Leur influence s’étend aujourd’hui à l’enseignement, à l’administration et au monde du Razeball. Ils sont représentés à Elderwood par Ebenezer Valemont, héritier d’une lignée aussi brillante qu’exigeante.",
     "meta": {
       "color": "#d8823f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "f6613dcf",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "elderwood_0065",
     "cat": "Elderwood",
     "subcat": "Les grandes familles",
     "q": "Hearthbane (Maison Brumval, le foyer)",
-    "a": "À l'origine de la Flamme Ouverte, grand festival bisannuel. Représentés par Petra Hearthbane, élève de 4e année.",
+    "a": "Liés à Brumval depuis les premières années d’Elderwood, les Hearthbane sont à l’origine du premier feu de la Grande Salle et de la célèbre Flamme Ouverte. La famille incarne la loyauté, l’unité et la protection de la communauté. Elle est représentée par Petra Hearthbane, élève de quatrième année.",
     "meta": {
       "color": "#3f8f52"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "2851d53d",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "elderwood_0066",
     "cat": "Elderwood",
     "subcat": "Les grandes familles",
     "q": "Caerwyn (Maison Aerwyn, le serment)",
-    "a": "Présents dès la fondation, ils incarnent l'honneur et la protection. Représentés par Seraphine Caerwyn, capitaine de Razorball.",
+    "a": "Présents aux côtés d’Aerwyn dès la fondation de l’école, les Caerwyn ont fait de la protection d’Elderwood un devoir transmis de génération en génération. Leur nom est associé à l’honneur, au respect du code et à la parole donnée. Ils sont représentés par Seraphine Caerwyn, capitaine de Razeball des Aerwyn.",
     "meta": {
       "color": "#3f7fd8"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "8930a720",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "elderwood_0067",
     "cat": "Elderwood",
     "subcat": "Les grandes familles",
     "q": "Dravenholt (Maison Venatrix, l'influence)",
-    "a": "Famille discrète mais partout présente dans les cercles qui comptent. Représentés par Isolde Dravenholt, élève de 5e année.",
+    "a": "Ancienne famille proche de Venatrix, les Dravenholt évoluent depuis des siècles au cœur des cercles politiques, académiques et mondains du monde magique. Leur pouvoir repose sur leur maîtrise des apparences, des réseaux et des décisions prises dans l’ombre. Ils sont représentés par Isolde Dravenholt, élève de cinquième année.",
     "meta": {
       "color": "#6b3fa0"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "0bfdbda9",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "elderwood_0068",
@@ -803,7 +898,8 @@
       "color": "#c9a227"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "982d4e46"
   },
   {
     "id": "elderwood_0069",
@@ -815,7 +911,8 @@
       "color": "#c0504f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "d21e51eb"
   },
   {
     "id": "elderwood_0070",
@@ -827,7 +924,8 @@
       "color": "#d8823f"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "3b8bd3d9"
   },
   {
     "id": "elderwood_0071",
@@ -837,7 +935,8 @@
     "a": "Le Razorball, aussi appelé « Razeball » ou simplement « le Raze », est le sport international du monde magique. Il se joue à une centaine de mètres de hauteur, autant à Elderwood que dans les autres grandes écoles de sorcellerie à travers le monde.\n\nUne équipe compte six joueurs : un gardien et cinq joueurs de champ. Les Finishers occupent le rôle d'attaquants, chargés de conclure les actions ; d'autres postes se concentrent sur les passes et la création d'espace, et d'autres encore sur la défense. Le but du jeu est de marquer un maximum de points, sur deux mi-temps.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "a324ff8a"
   },
   {
     "id": "chronologie_0072",
@@ -847,7 +946,8 @@
     "a": "Falcon découvre une source d'eau capable de révéler la couleur de l'âme des Résonants.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "321af136"
   },
   {
     "id": "chronologie_0073",
@@ -857,7 +957,8 @@
     "a": "Falcon, Aerwyn, Venatrix et Brumval fondent l'école.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "9b4c82ad"
   },
   {
     "id": "chronologie_0074",
@@ -867,7 +968,8 @@
     "a": "Gwendolyn Caerwyn applique une sanction controversée, un choix qui divise encore la maison Aerwyn.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "d507ae56"
   },
   {
     "id": "chronologie_0075",
@@ -877,7 +979,8 @@
     "a": "Elspeth Hearthbane organise le premier grand festival ouvert à toutes les entités magiques.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "c1a8859f"
   },
   {
     "id": "chronologie_0076",
@@ -887,7 +990,8 @@
     "a": "Corvinus Valemont établit le règlement moderne du sport.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "c1708f0c"
   },
   {
     "id": "chronologie_0077",
@@ -897,7 +1001,8 @@
     "a": "Cassiopée Valemont rédige les décrets d'isolation du monde magique.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "29f1a750"
   },
   {
     "id": "reglement_0078",
@@ -910,7 +1015,8 @@
       "color": "#dab950"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "796b25ac"
   },
   {
     "id": "reglement_0079",
@@ -923,7 +1029,8 @@
       "color": "#dab950"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "39ad44f7"
   },
   {
     "id": "reglement_0080",
@@ -936,7 +1043,8 @@
       "color": "#dab950"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "514662af"
   },
   {
     "id": "reglement_0081",
@@ -949,7 +1057,8 @@
       "color": "#dab950"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "8adc170a"
   },
   {
     "id": "reglement_0082",
@@ -962,7 +1071,8 @@
       "color": "#dab950"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "b564e9e1"
   },
   {
     "id": "reglement_0083",
@@ -975,7 +1085,8 @@
       "color": "#dab950"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "0ecb199a"
   },
   {
     "id": "reglement_0084",
@@ -988,7 +1099,8 @@
       "color": "#dab950"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "248e518e"
   },
   {
     "id": "reglement_0085",
@@ -1001,7 +1113,8 @@
       "color": "#dab950"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "eba6badb"
   },
   {
     "id": "reglement_0086",
@@ -1014,7 +1127,8 @@
       "color": "#dab950"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "d4e222e8"
   },
   {
     "id": "reglement_0087",
@@ -1027,7 +1141,8 @@
       "color": "#dab950"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "d5764dc5"
   },
   {
     "id": "reglement_0088",
@@ -1040,7 +1155,8 @@
       "color": "#dab950"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "b1373ad4"
   },
   {
     "id": "reglement_0089",
@@ -1053,7 +1169,8 @@
       "color": "#dab950"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "fcc38f84"
   },
   {
     "id": "reglement_0090",
@@ -1066,7 +1183,8 @@
       "color": "#dab950"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "502bd869"
   },
   {
     "id": "reglement_0091",
@@ -1079,7 +1197,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "b8bf7efb"
   },
   {
     "id": "reglement_0092",
@@ -1092,7 +1211,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "ad02412e"
   },
   {
     "id": "reglement_0093",
@@ -1105,7 +1225,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "253441ef"
   },
   {
     "id": "reglement_0094",
@@ -1118,7 +1239,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "94e84ea1"
   },
   {
     "id": "reglement_0095",
@@ -1131,7 +1253,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "defa31ec"
   },
   {
     "id": "reglement_0096",
@@ -1144,7 +1267,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "65f34fda"
   },
   {
     "id": "reglement_0097",
@@ -1157,7 +1281,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "b5f69268"
   },
   {
     "id": "reglement_0098",
@@ -1170,7 +1295,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "bca16ced"
   },
   {
     "id": "reglement_0099",
@@ -1183,7 +1309,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "4ee328ce"
   },
   {
     "id": "reglement_0100",
@@ -1196,7 +1323,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "2ed13164"
   },
   {
     "id": "reglement_0101",
@@ -1209,7 +1337,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "01ed52c6"
   },
   {
     "id": "reglement_0102",
@@ -1222,7 +1351,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "76becd91"
   },
   {
     "id": "reglement_0103",
@@ -1235,7 +1365,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "a44dacf5"
   },
   {
     "id": "reglement_0104",
@@ -1248,7 +1379,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "1685916c"
   },
   {
     "id": "reglement_0105",
@@ -1261,7 +1393,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "cb511549"
   },
   {
     "id": "reglement_0106",
@@ -1274,7 +1407,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "1b2a60f6"
   },
   {
     "id": "reglement_0107",
@@ -1287,7 +1421,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "2a3586c0"
   },
   {
     "id": "reglement_0108",
@@ -1300,7 +1435,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "abc72dfb"
   },
   {
     "id": "reglement_0109",
@@ -1313,7 +1449,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "76c58095"
   },
   {
     "id": "reglement_0110",
@@ -1326,7 +1463,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "c359d3a9"
   },
   {
     "id": "reglement_0111",
@@ -1339,7 +1477,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "4d1cfe6d"
   },
   {
     "id": "reglement_0112",
@@ -1352,7 +1491,8 @@
       "color": "#3b82f6"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "6a34f05e"
   },
   {
     "id": "reglement_0113",
@@ -1365,7 +1505,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "49f09c52"
   },
   {
     "id": "reglement_0114",
@@ -1378,7 +1519,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "8b61da80"
   },
   {
     "id": "reglement_0115",
@@ -1391,7 +1533,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "2ba3bc65"
   },
   {
     "id": "reglement_0116",
@@ -1404,7 +1547,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "a847cb24"
   },
   {
     "id": "reglement_0117",
@@ -1417,7 +1561,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "5e31c1ca"
   },
   {
     "id": "reglement_0118",
@@ -1430,7 +1575,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "d4ec8584"
   },
   {
     "id": "reglement_0119",
@@ -1443,7 +1589,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "2e3a6f04"
   },
   {
     "id": "reglement_0120",
@@ -1456,7 +1603,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "91e70884"
   },
   {
     "id": "reglement_0121",
@@ -1469,7 +1617,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "1d44de44"
   },
   {
     "id": "reglement_0122",
@@ -1482,7 +1631,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "52fe6eb1"
   },
   {
     "id": "reglement_0123",
@@ -1495,7 +1645,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "d636eac5"
   },
   {
     "id": "reglement_0124",
@@ -1508,7 +1659,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "4d13ab49"
   },
   {
     "id": "reglement_0125",
@@ -1521,7 +1673,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "a9212190"
   },
   {
     "id": "reglement_0126",
@@ -1534,7 +1687,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "835c0c19"
   },
   {
     "id": "reglement_0127",
@@ -1547,7 +1701,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "a6a4d30a"
   },
   {
     "id": "reglement_0128",
@@ -1560,7 +1715,8 @@
       "color": "#22c55e"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "f732ce0a"
   },
   {
     "id": "reglement_0129",
@@ -1573,7 +1729,8 @@
       "color": "#ef4444"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "845a98d3"
   },
   {
     "id": "reglement_0130",
@@ -1586,7 +1743,8 @@
       "color": "#ef4444"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "a79faa9f"
   },
   {
     "id": "reglement_0131",
@@ -1599,7 +1757,8 @@
       "color": "#f59e0b"
     },
     "seen": true,
-    "addedAt": "2026-09-04"
+    "addedAt": "2026-09-04",
+    "hash": "1fd9be55"
   },
   {
     "id": "glossaire_0132",
@@ -1609,7 +1768,8 @@
     "a": "Né de parents Sans-Flux et présentant les deux prédispositions de la Résonance.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "1e609f0e"
   },
   {
     "id": "glossaire_0133",
@@ -1619,7 +1779,8 @@
     "a": "Sport international sorcier, aussi appelé « le Raze ».",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "f95f285c"
   },
   {
     "id": "elderwood_0134",
@@ -1629,7 +1790,8 @@
     "a": "L’AMRU, ou Autorités Magiques du Royaume-Uni, constitue l’autorité centrale chargée de l’administration de la société magique du Royaume-Uni. Elle veille à l’application des lois, à la sécurité de la population, au fonctionnement des institutions et à la régulation des activités susceptibles d’affecter l’équilibre du monde magique.\nSon autorité s’étend à l’ensemble des individus, organisations et communautés relevant de sa juridiction, ainsi qu’aux pratiques magiques, créatures, artefacts et activités soumises à réglementation.\nElderwood occupe une place particulière dans cet équilibre. Principale institution de formation magique du Royaume-Uni, l’école entretient depuis des siècles des relations étroites avec les autorités britanniques. Si elle conserve sa propre organisation et une importante autonomie dans son fonctionnement, elle demeure un interlocuteur essentiel de l’AMRU, notamment dans la formation des nouvelles générations et face aux enjeux majeurs touchant la société magique.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "c15b8c69"
   },
   {
     "id": "elderwood_0135",
@@ -1641,7 +1803,8 @@
       "color": "#034009"
     },
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "2db75074"
   },
   {
     "id": "elderwood_0136",
@@ -1653,7 +1816,8 @@
       "color": "#ad0221"
     },
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "27f8dff7"
   },
   {
     "id": "elderwood_0137",
@@ -1665,7 +1829,8 @@
       "color": "#c9a24b"
     },
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "74058ab6"
   },
   {
     "id": "elderwood_0138",
@@ -1677,7 +1842,8 @@
       "color": "#c0504f"
     },
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "a95a505a"
   },
   {
     "id": "elderwood_0139",
@@ -1689,7 +1855,8 @@
       "color": "#d8823f"
     },
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "95edf2f2"
   },
   {
     "id": "elderwood_0140",
@@ -1701,7 +1868,8 @@
       "color": "#3f7fd8"
     },
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "ced2047d"
   },
   {
     "id": "elderwood_0141",
@@ -1713,7 +1881,8 @@
       "color": "#3f8f52"
     },
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "f0115112"
   },
   {
     "id": "elderwood_0142",
@@ -1725,7 +1894,8 @@
       "color": "#6b3fa0"
     },
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "f227133b"
   },
   {
     "id": "elderwood_0143",
@@ -1737,7 +1907,8 @@
       "color": "#aba03c"
     },
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "165ecaf0"
   },
   {
     "id": "elderwood_0144",
@@ -1747,7 +1918,8 @@
     "a": "Le Razeball, originellement appelé « Razorball » et souvent simplement surnommé « le Raze », est l’un des sports les plus populaires du monde magique. Pratiqué à près d’une centaine de mètres de hauteur, il oppose deux équipes lancées à grande vitesse autour d’une sphère métallique qu’elles doivent envoyer dans le Cœur adverse.\nLongtemps pratiqué sous la forme de jeux de balais brutaux et sans règles communes, le Razeball moderne naît véritablement à Elderwood en 1863, lorsque Corvinus Valemont en rédige le premier règlement et met au point le dispositif permettant de stabiliser les Cœurs utilisés lors des rencontres. Le sport se diffuse rapidement au-delà du Royaume-Uni et donne naissance, en 1896, à la première Coupe du Monde.\nUne équipe aligne six joueurs : un Gardien et cinq joueurs de champ dont la composition varie selon la stratégie adoptée. Les Finishers sont spécialisés dans la conclusion des actions et les tirs à longue distance ; les Playmakers organisent le jeu et créent les ouvertures ; les Enforcers imposent leur présence physique ; tandis que les Lights Out se spécialisent dans l’interception et la destruction du jeu adverse. Le Gardien reste quant à lui la dernière ligne de défense devant le Cœur.\nLe Razeball est aujourd’hui pratiqué à tous les niveaux du monde magique. Des championnats professionnels existent à travers le monde, tandis que les meilleures sélections nationales se retrouvent tous les quatre ans lors de la Coupe du Monde de Razeball, considérée comme le sommet de la discipline. À Elderwood, les quatre maisons s’affrontent également tout au long de l’année dans un championnat particulièrement suivi, jusqu’à la grande finale organisée à la fin de l’année scolaire.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "7abb3dc7"
   },
   {
     "id": "entites_magiques_0145",
@@ -1759,7 +1931,8 @@
       "color": "#8ccc39"
     },
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "54f929a4"
   },
   {
     "id": "entites_magiques_0146",
@@ -1771,7 +1944,8 @@
       "color": "#c9a24b"
     },
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "fec0f4c2"
   },
   {
     "id": "entites_magiques_0147",
@@ -1783,7 +1957,8 @@
       "color": "#64d4ed"
     },
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "6d4bc6ec"
   },
   {
     "id": "entites_magiques_0148",
@@ -1795,7 +1970,8 @@
       "color": "#250a40"
     },
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "17094d3f"
   },
   {
     "id": "magie_0149",
@@ -1805,7 +1981,8 @@
     "a": "Ceux que l'on appelle dans le langage courant des sorciers. Ils possèdent une Résonance assez importante et claire pour répondre à l'Écho et faire naître un Flux exploitable. Cela leur permet d'apprendre la magie, de canaliser leur Flux à travers une baguette, un sceptre ou tout autre catalyseur, de pratiquer des sorts et d'utiliser des objets enchantés. Être Résonant implique l'accès à une éducation magique, à des droits, des devoirs, et une responsabilité : celle de ne pas exposer la magie aux Sans-Flux.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "06a714cb"
   },
   {
     "id": "magie_0150",
@@ -1815,17 +1992,21 @@
     "a": "Ils représentent la majorité de l'humanité. Ils possèdent bien une Résonance, comme toute chose existante, mais elle est bien trop faible : ils ne perçoivent pas la magie, ne produisent pas de Flux suffisant et ne peuvent pas le manipuler. Cela ne signifie pas qu'ils sont totalement séparés du monde magique : ils peuvent apercevoir certaines choses, être touchés par ses effets, ou traverser le Voile si celui-ci est affaibli, devenant alors témoins de phénomènes qu'ils ne s'expliquent pas. Leur esprit tend naturellement à rationaliser ce qu'il ne comprend pas et à se tourner vers la science.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "406e71ba"
   },
   {
     "id": "magie_0151",
     "cat": "Magie",
     "subcat": "Statuts",
     "q": "Qui sont Les Dissonants ?",
-    "a": "Des cas particuliers. Ils naissent dans le monde Sans-Flux, souvent de parents Sans-Flux, mais héritent d'une prédisposition génétique rare liée à la Résonance. Rappel : la Résonance repose sur deux prédispositions, celle qui permet de ressentir l'Écho et celle qui permet de le contrôler. La plupart des Dissonants n'en portent qu'une seule : ceux-là sont connus dans le monde humain comme des génies, des prodiges, des voyants ou des médiums. Les cas les plus rares possèdent les deux à la fois et deviennent alors de véritables résonants nés au sein d'une lignée Sans-Flux, repérés très jeunes par les instances magiques de chaque pays.",
+    "a": "Des cas particuliers. Ils naissent généralement dans le monde Sans-Flux, souvent de parents Sans-Flux, avec une prédisposition rare liée à la Résonance. Celle-ci repose sur deux aptitudes : ressentir l’Écho et être capable de le contrôler. La plupart des Dissonants n’en possèdent qu’une seule et peuvent vivre sans jamais connaître l’existence du monde magique, parfois perçus comme des prodiges, voyants ou médiums. Les plus rares possèdent les deux : ils sont alors, par définition, pleinement Résonants. Repérés par l’AMRU, ils sont invités à rejoindre Elderwood afin d’apprendre à maîtriser leur Flux. Malgré cela, une partie de la société magique continue de les qualifier de Dissonants en raison de leurs origines Sans-Flux.",
     "meta": {},
     "seen": true,
-    "addedAt": "2026-09-05"
+    "addedAt": "2026-09-05",
+    "hash": "9c90659a",
+    "updated": true,
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "entites_magiques_0152",
@@ -1837,6 +2018,116 @@
       "color": " #820101"
     },
     "seen": true,
-    "addedAt": "2026-09-09"
+    "addedAt": "2026-09-09",
+    "hash": "f83d40b3"
+  },
+  {
+    "id": "entites_magiques_0153",
+    "cat": "Entités magiques",
+    "subcat": "Créatures Légendaires",
+    "q": "Ephyr",
+    "a": "L’Ephyr est un grand équidé ailé, farouche, loyal et particulièrement difficile à approcher. Il ne crée de lien qu’avec ceux qu’il juge dignes de confiance, mais une fois ce lien établi, sa fidélité devient presque absolue. La tradition raconte qu’Althea Aerwyn recueillit un jeune Ephyr blessé peu après son arrivée sur l’île. Une fois soigné, l’animal resta à proximité du chantier d’Elderwood et veilla régulièrement sur lui depuis les airs. Cette histoire en fit naturellement l’un des symboles les plus anciens de la maison Aerwyn.",
+    "meta": {
+      "color": "#7fa6d9"
+    },
+    "seen": true,
+    "addedAt": "2026-09-12",
+    "hash": "e0954d3d"
+  },
+  {
+    "id": "entites_magiques_0154",
+    "cat": "Entités magiques",
+    "subcat": "Créatures Légendaires",
+    "q": "Valdorn",
+    "a": "Le Valdorn est un immense ursidé magique, territorial et profondément lié aux forêts anciennes. Il semble capable de ressentir les intentions de ceux qui l’approchent, distinguant la malveillance, la cupidité ou au contraire la bienveillance et le respect du vivant. Là où il passe, la végétation retrouve temporairement vigueur, comme si la nature répondait à sa présence. Bien avant la fondation d’Elderwood, Brumval aurait vécu plusieurs années au contact de l’un d’eux, jusqu’à être accepté sur son territoire. Cette relation aurait profondément marqué sa vision de la nature et fait du Valdorn l’un des symboles de sa maison.",
+    "meta": {
+      "color": "#6f8f5b"
+    },
+    "seen": true,
+    "addedAt": "2026-09-12",
+    "hash": "b152005e"
+  },
+  {
+    "id": "entites_magiques_0155",
+    "cat": "Entités magiques",
+    "subcat": "Créatures Légendaires",
+    "q": "Aetherion",
+    "a": "L’Aetherion est un immense rapace capable de percevoir l’Écho, les Résonances et les mouvements du Flux avec une précision exceptionnelle. Indépendant et observateur, il choisit lui-même ceux qu’il accepte d’approcher. Eldric Falcon aurait rencontré l’un d’eux lors d’une expédition. Plus tard, alors qu’Eldric fut blessé et séparé de son groupe, l’Aetherion aurait tourné au-dessus de lui en poussant des cris, permettant aux autres de retrouver sa position. La créature continua ensuite à croiser sa route pendant plusieurs années, jusqu’à devenir pour Eldric un symbole d’instinct, d’observation et de vision.",
+    "meta": {
+      "color": "#d58a3a"
+    },
+    "seen": true,
+    "addedAt": "2026-09-12",
+    "hash": "3f4f27dc"
+  },
+  {
+    "id": "entites_magiques_0156",
+    "cat": "Entités magiques",
+    "subcat": "Créatures Légendaires",
+    "q": "Akkorokamui",
+    "a": "L’Akkorokamui est une créature marine titanesque, territoriale et dotée d’une intelligence proche de celle d’un être humain. Capable de communiquer par télépathie, elle peut transmettre pensées, sensations et images, tout en percevant difficilement dissimulables les intentions de ceux qui l’approchent. La plus célèbre d’entre elles, Thalassia, aurait entretenu un lien durable avec Selena Venatrix. Depuis cette rencontre, elle serait devenue particulièrement protectrice envers les eaux entourant Elderwood.",
+    "meta": {
+      "color": "#7f5aa2"
+    },
+    "seen": true,
+    "addedAt": "2026-09-12",
+    "hash": "ce386c4f"
+  },
+  {
+    "id": "chronologie_0157",
+    "cat": "Chronologie",
+    "subcat": "Chronologie d'Elderwood",
+    "q": "2026 — La tentative de Coup d'État",
+    "a": "L’Ascendance lance une offensive contre l’AMRU dans le but de prendre le contrôle des institutions du monde magique. La tentative de coup d’État échoue, mais les affrontements coûtent la vie au Ministre de l’AMRU, assassiné par l’Ascendance. Cet échec ne met toutefois pas fin au mouvement et ouvre une période d’instabilité politique majeure. L'AMRU officialise L’Ascendance comme un groupe extrémiste dangereux",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-13",
+    "hash": "63057b60"
+  },
+  {
+    "id": "chronologie_0158",
+    "cat": "Chronologie",
+    "subcat": "Chronologie d'Elderwood",
+    "q": "2026 — La mort d'Arthurius Glenwood",
+    "a": "Arthurius Glenwood trouve la mort lors d’une embuscade tendue par l’Ascendance sur une île proche d’Elderwood. Plusieurs rumeurs affirment qu’il appartenait au Cercle du Frêne, une organisation secrète opposée à l’Ascendance. À l’issue des affrontements, Adam Wrightmoore, dirigeant présumé de l’Ascendance, est capturé puis incarcéré au centre pénitentiaire de Briseflux.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-13",
+    "hash": "233f9fb8"
+  },
+  {
+    "id": "chronologie_0159",
+    "cat": "Chronologie",
+    "subcat": "Chronologie d'Elderwood",
+    "q": "2026 — La Rupture du Voile",
+    "a": "Le Voile protégeant Elderwood cède momentanément. Pendant quelques minutes, l’île devient visible depuis le monde Sans-Flux. Des plaisanciers naviguant au large aperçoivent les lieux et les filment avant leur disparition. Plusieurs vidéos circulent depuis, alimentant interrogations et théories sur l’existence de l’île.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-13",
+    "hash": "5b7d34b3"
+  },
+  {
+    "id": "chronologie_0160",
+    "cat": "Chronologie",
+    "subcat": "Chronologie d'Elderwood",
+    "q": "2026 — Tensions entre les Mondes",
+    "a": "Les récents événements accentuent les tensions entre le monde magique et celui des Sans-Flux. En réponse, les autorités renforcent les mesures héritées du Grand Confinement et imposent davantage de discrétion et d’isolement aux Résonants afin de préserver le secret du monde magique. Ces contraintes pèsent de plus en plus lourdement sur une partie de la population.\n\nDans le même temps, le nombre de Dissonants augmente : plus spécifiquement de Résonants nés au sein de familles entièrement Sans-Flux. Cette évolution nourrit de nouvelles inquiétudes et, dans l’opinion publique, certains commencent à se montrer plus réceptifs aux idées défendues par l’Ascendance, notamment à son rejet de l’isolement imposé au monde magique.",
+    "meta": {},
+    "seen": true,
+    "addedAt": "2026-09-13",
+    "hash": "6569a21c"
+  },
+  {
+    "id": "elderwood_0161",
+    "cat": "Elderwood",
+    "subcat": "Personnages illustres",
+    "q": "Arthurius Glenwood (Ancien Directeur d'Elderwood)",
+    "a": "Ancien directeur d’Elderwood, Arthurius Glenwood fut pendant de nombreuses années l’une des principales figures de l’établissement. Sa mort survint lors d’une embuscade attribuée à l’Ascendance, dans des circonstances qui restent encore entourées de zones d’ombre. Selon plusieurs rumeurs, il aurait été tué par Leopold Evenwald lui-même. Depuis sa disparition, certaines informations laissent également entendre qu’Arthurius entretenait des liens avec le Cercle de Frêne, une organisation secrète engagée dans la lutte contre l’Ascendance. Sa mort semble ainsi dépasser largement le simple cadre de l’école et demeure au cœur de nombreuses interrogations.",
+    "meta": {
+      "color": "#c9a227"
+    },
+    "seen": true,
+    "addedAt": "2026-09-13",
+    "hash": "e9c3b1ea"
   }
 ]
