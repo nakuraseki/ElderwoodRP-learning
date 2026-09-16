@@ -1922,14 +1922,15 @@
     "sourceCardId": "reglement_0138",
     "cat": "Reglement",
     "q": "Quelle somme maximale peut-on arnaquer quelqu'un dans le cadre du RP ?",
-    "correct": "2500 Dragondors",
+    "correct": "2500 Couronnes",
     "wrongs": [
-      "1000 Dragondors",
-      "5000 Dragondors",
-      "10000 Dragondors"
+      "1000 Couronnes",
+      "5000 Couronnes",
+      "10000 Couronnes"
     ],
-    "expl": "Le règlement autorise une arnaque jusqu'à 2500 Dragondors.",
-    "addedAt": "2026-09-13"
+    "expl": "Le nouveau règlement fixe à 2500 Couronnes la somme maximale pouvant être concernée par une arnaque.",
+    "addedAt": "2026-09-13",
+    "updatedAt": "2026-09-16"
   },
   {
     "id": "q_0139",
@@ -2980,5 +2981,89 @@
     ],
     "expl": "Pour tuer quelqu'un dans une zone RPK, il faut un ticket RPK ou son accord HRP, lequel doit être signalé au staff par la personne tuée.",
     "addedAt": "2026-09-13"
+  },
+  {
+    "id": "q_0214",
+    "sourceCardId": "chronologie_0165",
+    "cat": "Chronologie",
+    "q": "Quel catalyseur utilise un personnage à son entrée à Elderwood ?",
+    "correct": "Une baguette",
+    "wrongs": [
+      "Un catalyseur de son choix",
+      "Un catalyseur lié à sa famille",
+      "Un catalyseur correspondant à son origine"
+    ],
+    "expl": "À son entrée à Elderwood, le personnage utilise une baguette. Les autres catalyseurs doivent être obtenus ou appris en RP sous suivi validé.",
+    "addedAt": "2026-09-16"
+  },
+  {
+    "id": "q_0215",
+    "sourceCardId": "chronologie_0165",
+    "cat": "Chronologie",
+    "q": "Quelle limite s'applique aux capacités magiques d'un personnage à son arrivée ?",
+    "correct": "Il ne peut pas déjà maîtriser des magies avancées ou rares ni posséder une compétence unique",
+    "wrongs": [
+      "Il ne peut avoir aucune connaissance magique",
+      "Il doit déjà maîtriser une spécialité familiale",
+      "Il peut commencer avec une magie rare si elle vient de son éducation"
+    ],
+    "expl": "Un personnage peut avoir des facilités ou quelques connaissances liées à son éducation, mais ne peut pas arriver avec des maîtrises avancées, rares ou une compétence unique.",
+    "addedAt": "2026-09-16"
+  },
+  {
+    "id": "q_0216",
+    "sourceCardId": "elderwood_0166",
+    "cat": "Elderwood",
+    "q": "Pourquoi Maeve Storm est-elle devenue une figure très respectée de l'histoire locale ?",
+    "correct": "Elle maintint seule un immense bouclier autour de Shedwood jusqu'à l'évacuation du dernier habitant",
+    "wrongs": [
+      "Elle vainquit seule les assaillants de Shedwood",
+      "Elle fonda Elderwood après l'attaque de Shedwood",
+      "Elle évacua uniquement les étudiants d'Elderwood"
+    ],
+    "expl": "Lors de l'attaque de Shedwood, Maeve Storm refusa d'abandonner le village tant que le dernier habitant n'avait pas été évacué. Elle succomba peu après.",
+    "addedAt": "2026-09-16"
+  },
+  {
+    "id": "q_0217",
+    "sourceCardId": "elderwood_0166",
+    "cat": "Elderwood",
+    "q": "Quelle maîtrise exceptionnelle de Maeve Storm est mentionnée dans le lore ?",
+    "correct": "La maîtrise du Flux Bleu",
+    "wrongs": [
+      "La maîtrise du Flux Rouge",
+      "La maîtrise du Flux Noir",
+      "La maîtrise du Flux Vert"
+    ],
+    "expl": "Maeve Storm était connue pour sa maîtrise exceptionnelle du Flux Bleu. Sa statue domine aujourd'hui la place de Shedwood.",
+    "addedAt": "2026-09-16"
+  },
+  {
+    "id": "q_0218",
+    "sourceCardId": "reglement_0161",
+    "cat": "Reglement",
+    "q": "Quelle caractéristique distingue les familles officielles des familles non officielles pouvant être de sang pur ?",
+    "correct": "Les familles officielles disposent d'une certaine notoriété et possèdent un Titre de Noblesse Magique",
+    "wrongs": [
+      "Les familles officielles sont les seules à pouvoir être de sang pur",
+      "Les familles officielles sont les seules à pouvoir avoir plusieurs générations de résonnants",
+      "Les familles officielles doivent obligatoirement être composées de plus de quatre joueurs"
+    ],
+    "expl": "Les familles non officielles peuvent également être de sang pur, mais elles n'ont pas la même notoriété dans le monde magique que les familles officielles.",
+    "addedAt": "2026-09-16"
+  },
+  {
+    "id": "q_0219",
+    "sourceCardId": "reglement_0163",
+    "cat": "Reglement",
+    "q": "Quelles conditions permettent à une famille non officielle de proposer un dossier pour devenir une famille officielle réputée ?",
+    "correct": "Être enregistrée, active en jeu et avoir de l'impact sur le plateau",
+    "wrongs": [
+      "Être composée uniquement de personnages de sang pur",
+      "Avoir au moins quatre membres et posséder un Titre de Noblesse Magique",
+      "Être active en jeu depuis l'ouverture du serveur"
+    ],
+    "expl": "Une famille doit être enregistrée, active en jeu et avoir un impact sur le plateau avant de pouvoir proposer une candidature. Le staff analyse ensuite le dossier et décide de son acceptation.",
+    "addedAt": "2026-09-16"
   }
 ]

@@ -1888,14 +1888,15 @@
     "cat": "Reglement",
     "subcat": "RolePlay",
     "q": "Vol / Arnaque",
-    "a": "Il est possible d'arnaquer quelqu'un d'une somme à la hauteur de 2500 Dragondors.",
+    "a": "Il est possible d'arnaquer quelqu'un d'une somme à la hauteur de 2500 Couronnes.",
     "meta": {
       "color": "#22c55e"
     },
-    "hash": "b493e8fd",
-    "seen": true,
+    "hash": "3c5df66c",
+    "seen": false,
     "updated": false,
-    "addedAt": "2026-09-13"
+    "addedAt": "2026-09-13",
+    "updatedAt": "2026-09-15"
   },
   {
     "id": "reglement_0139",
@@ -2210,14 +2211,15 @@
     "cat": "Reglement",
     "subcat": "Familles",
     "q": "Les familles et leur hiérarchie",
-    "a": "Les familles originelles, notables et réputées sont connues dans le Royaume Uni comme des familles de sang pur avec une certaine notoriété. Elles possèdent un Titre de Noblesse Magique. \n\n\nFAMILLES ORIGINELLES\n- Dravenholt \n- Caerwyn\n- Hearthbane \n- Valemont\n\n\nFAMILLES NOTABLES \n- Belladorn\n- Ravenscroft \n\n\nFAMILLES RÉPUTÉES \n- A venir quelques temps après l'ouverture du serveur suite à la validation des dossiers joueurs.\n\n\nLes familles non officielles peuvent aussi être de sang pur. Elles n'ont cependant pas la même notoriété dans le monde magique que les familles officielles.\n\n\nPour rappel: vous êtes considéré \"famille de sang pur\" dans l'opinion sociale du moment qu'il y a plusieurs générations de sang pur avant vous de résonnants dans vos ancêtres (voir le l'onglet Lore — Magie — Statuts Magiques). Si eux sont des raisonnants, vous êtes de sang pur.)",
+    "a": "Les familles originelles, notables et réputées sont connues dans le Royaume Uni comme des familles de sang pur avec une certaine notoriété. Elles possèdent un Titre de Noblesse Magique. \n\n\nFAMILLES ORIGINELLES\n- Dravenholt \n- Caerwyn\n- Hearthbane \n- Valemont\n\n\nFAMILLES NOTABLES \n- Belladorn\n- Ravenscroft \n\n\nFAMILLES RÉPUTÉES \n- A venir quelques temps après l'ouverture du serveur suite à la validation des dossiers joueurs.\n\n\nLes familles non officielles peuvent aussi être de sang pur. Elles n'ont cependant pas la même notoriété dans le monde magique que les familles officielles.\n\n\nPour rappel: vous êtes considéré \"famille de sang pur\" dans l'opinion sociale du moment qu'il y a plusieurs générations de sang pur avant vous de résonnants dans vos ancêtres. (Si eux sont des raisonnants, vous êtes de sang pur dans l'opinion sociale.)",
     "meta": {
       "color": "#f59e0b"
     },
-    "hash": "213c37a6",
-    "seen": true,
+    "hash": "193096dc",
+    "seen": false,
     "updated": false,
-    "addedAt": "2026-09-13"
+    "addedAt": "2026-09-13",
+    "updatedAt": "2026-09-15"
   },
   {
     "id": "reglement_0162",
@@ -2238,14 +2240,15 @@
     "cat": "Reglement",
     "subcat": "Familles",
     "q": "Poser un dossier Famille",
-    "a": "Si vous possédez une famille non officielle en jeu constituée de plus de 3 joueurs, merci d'ouvrir un ticket et de signaler votre famille ainsi que les joueurs et leurs personnages qu'elle comporte afin que cette archive puisse être gardée par le staff. \n\nSi et seulement si vous êtes enregistrés, que vous êtes actifs en jeu et que votre famille a de l'impact sur le plateau, alors vous pourrez proposer un dossier de candidature pour devenir une famille officielle dite réputée. Le staff analysera le dossier, le potentiel de celui-ci et de ce que vous proposerez et acceptera ou non de vous faire passer en famille officielle.",
+    "a": "Si vous possédez une famille non officielle en jeu constituée de plus de 3 joueurs, merci d'ouvrir un ticket et de signaler votre famille ainsi que les joueurs et leurs personnages qu'elle comporte afin que cette archive puisse être gardée par le staff. \nCela vous permettra aussi de \"réserver votre nom\", empêchant les futurs joueurs WL de prendre le même nom de famille que vous tant que la famille est active d'au moins 4 de ses membres sur le plateau.\n\nSi et seulement si vous êtes enregistrés, que vous êtes actifs en jeu et que votre famille a de l'impact sur le plateau, alors vous pourrez proposer un dossier de candidature pour devenir une famille officielle dite réputée. Le staff analysera le dossier, le potentiel de celui-ci et de ce que vous proposerez et acceptera ou non de vous faire passer en famille officielle.",
     "meta": {
       "color": "#f59e0b"
     },
-    "hash": "9857d404",
-    "seen": true,
+    "hash": "43d91cf3",
+    "seen": false,
     "updated": false,
-    "addedAt": "2026-09-13"
+    "addedAt": "2026-09-13",
+    "updatedAt": "2026-09-15"
   },
   {
     "id": "reglement_0164",
@@ -2260,5 +2263,31 @@
     "seen": true,
     "updated": false,
     "addedAt": "2026-09-13"
+  },
+  {
+    "id": "chronologie_0165",
+    "cat": "Chronologie",
+    "subcat": "Points cles",
+    "q": "A retenir : À retenir",
+    "a": "- Catalyseur : à votre entrée à Elderwood, votre personnage utilise une baguette. Les autres catalyseurs doivent être obtenus ou appris en RP sous suivi validé.\n- Noblesse : une origine noble dans le monde Sans-Flux reste possible tant qu’elle n’apporte pas d’avantage ou d’impact particulier en RP. En revanche, vous ne pouvez pas inventer librement une lignée noble propre au monde résonant.\n- Dissonants : un Dissonant joué comme élève doit être capable de ressentir l’Écho et de contrôler son Flux. Le terme reste également socialement péjoratif et peut être utilisé comme une forme de rejet ou d’insulte envers les Résonants issus de familles Sans-Flux.\n- Famille et métiers : vos proches peuvent travailler dans des institutions comme l’AMRU ou dans l’administration. Les postes classiques sont possibles, mais les fonctions majeures comme Ministre, directeur ou haut responsable sont interdites sans validation.\n- Influence familiale : une famille inventée peut être riche, ancienne ou reconnue dans son domaine, mais ne peut pas posséder une influence politique ou institutionnelle majeure dès la création.\n- Votre personnage peut avoir des facilités ou quelques connaissances liées à son éducation, mais ne peut pas arriver en maîtrisant déjà des magies avancées ou rares. Il ne peut pas non plus posséder une spécialité ou compétence unique propre à lui ou à une famille.  [EWRP],\n- Lore existant : votre personnage peut avoir été touché par les grands événements du monde, mais ne peut pas avoir joué un rôle majeur dans ceux-ci.\n- Personnages importants : les liens directs avec des figures majeures du lore ou des familles déjà établies doivent être validés.\n- Principe général : tout élément de background reste possible tant qu’il ne crée pas d’avantage disproportionné et n’impose pas de conséquences au RP des autres joueurs et du Lore.",
+    "meta": {},
+    "hash": "97129126",
+    "seen": false,
+    "updated": false,
+    "addedAt": "2026-09-14"
+  },
+  {
+    "id": "elderwood_0166",
+    "cat": "Elderwood",
+    "subcat": "Personnages illustres",
+    "q": "Maeve Storm (La dernière Garde)",
+    "a": "Maeve Storm fut une résonante et étudiante d'Elderwood connue pour sa maîtrise exceptionnelle du Flux Bleu. Lors d'une attaque ayant frappé Shedwood, elle maintint à elle seule un immense bouclier autour du village, refusant de l'abandonner tant que le dernier habitant n'avait pas été évacué. Elle succomba peu après, faisant d'elle l'une des figures les plus respectées de l'histoire locale. Sa statue domine aujourd'hui la place de Shedwood, rappelant aux habitants le courage des élèves Aerwyn.",
+    "meta": {
+      "color": "#114CF0"
+    },
+    "hash": "ec057dee",
+    "seen": false,
+    "updated": false,
+    "addedAt": "2026-09-15"
   }
 ]
