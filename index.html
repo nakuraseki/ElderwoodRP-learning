@@ -22,6 +22,9 @@
   --gold:      #c5a028;
   --gold-dim:  rgba(197,160,40,0.11);
   --gold-glow: rgba(197,160,40,0.25);
+  --red:      #c52828;
+  --red-dim:  rgba(197,40,40,0.11);
+  --red-glow: rgba(197,40,40,0.25);
   --text:      #dbd6c4;
   --muted:     #6b6455;
   --dim:       #9a9080;
@@ -236,6 +239,8 @@ main { max-width: 1040px; margin: 0 auto; padding: 2.2rem 1.2rem 5rem; }
 .count-row input[type=range] { accent-color: var(--gold); width: 140px; }
 .count-row span { font-family: 'Cinzel', serif; color: var(--gold); min-width: 2ch; }
 
+.qz-buttons { display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 1rem;}
+
 .qz-feedback { margin-top: 1rem; padding: 0.85rem 1.1rem; border-radius: var(--r); font-size: 0.92rem; display: none; line-height: 1.5; border: 1px solid; }
 .qz-feedback.show { display: block; }
 .qz-feedback.ok { background: rgba(61,143,80,0.12); border-color: rgba(61,143,80,0.3); color: #7dd49a; }
@@ -312,6 +317,8 @@ main { max-width: 1040px; margin: 0 auto; padding: 2.2rem 1.2rem 5rem; }
 }
 .btn-gold { font-size: 0.76rem; padding: 0.7rem 1.9rem; background: var(--gold-dim); border: 1px solid var(--gold); color: var(--gold); }
 .btn-gold:hover { background: var(--gold-glow); }
+.btn-red { font-size: 0.76rem; padding: 0.7rem 1.9rem; background: var(--red-dim); border: 1px solid var(--red); color: var(--red); }
+.btn-red:hover { background: var(--red-glow); }
 .btn-ghost { font-size: 0.72rem; padding: 0.55rem 1.3rem; background: transparent; border: 1px solid var(--border); color: var(--muted); margin-left: 0.7rem; }
 .btn-ghost:hover { color: var(--text); border-color: var(--border2); }
 
@@ -433,7 +440,11 @@ main { max-width: 1040px; margin: 0 auto; padding: 2.2rem 1.2rem 5rem; }
       <span id="ql-count-val">10</span>
     </div>
 
-    <button class="btn btn-gold" onclick="startLearnQuiz()">Commencer</button>
+    <div class="qz-buttons">
+      <button class="btn btn-gold" onclick="startLearnQuiz(false)">Commencer</button>
+      <button class="btn btn-red" onclick="startLearnQuiz(true)">Hardcore</button>
+    </div>
+
   </div>
 
   <!-- Active -->
@@ -743,18 +754,23 @@ function buildLearnSetup() {
   }).join('');
 }
 
-function adjustLearnSlider() {
+function getQuizQuestionCount() {
   const sel = [...document.querySelectorAll('.qz-cat-opt.on')].map(el => el.dataset.cat);
-  const total = sel.reduce((s, c) => s + DB_QUESTIONS.filter(q => q.cat === c).length, 0);
+  return sel.reduce((s, c) => s + DB_QUESTIONS.filter(q => q.cat === c).length, 0);
+}
+
+function adjustLearnSlider() {
+  const total = getQuizQuestionCount();
   const sl = document.getElementById('ql-count');
   sl.max = Math.min(total, 30);
   if (parseInt(sl.value) > sl.max) { sl.value = sl.max; document.getElementById('ql-count-val').textContent = sl.value; }
 }
 
-function startLearnQuiz() {
+function startLearnQuiz(isHardcore) {
+  const total = getQuizQuestionCount();
   const sel = [...document.querySelectorAll('.qz-cat-opt.on')].map(el => el.dataset.cat);
-  if (!sel.length) { alert('Sélectionne au moins une catégorie.'); return; }
-  const count = parseInt(document.getElementById('ql-count').value);
+  if (total === 0) { alert('Sélectionne au moins une catégorie.'); return; }
+  const count = isHardcore ? total : parseInt(document.getElementById('ql-count').value);
   let pool = DB_QUESTIONS.filter(q => sel.includes(q.cat));
   pool = shuffle(pool).slice(0, count);
   if (!pool.length) { alert('Aucune question disponible pour cette sélection.'); return; }
